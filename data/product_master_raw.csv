@@ -1,0 +1,513 @@
+﻿Product_ID,Product_Name,Category,Brand,Unit_of_Measure,Status,Standard_Cost
+P2001,Vertex Electronics Item 100,Office Supplies,Apex,KG,Inactive,205.71
+P2002,Nova Groceries Item 101,Electronics,Orion,EA,Active,3492.6
+P2003,Apex Groceries Item 102,Home Appliances,Vertex,KG,Inactive,2220.22
+P2004,Nova Personal Item 103,Electronics,Zenith,BOX,Active,2783.46
+P2005,Apex Office Item 104,Office Supplies,Urban,EA,Inactive,2810.42
+P2006,Vertex Office Item 105,Groceries,Apex,EA,Active,1423.01
+P2007,Apex Home Item 106,Personal Care,Zenith,KG,Active,2405.67
+P2008,Apex Furniture Item 107,Personal Care,Prime,EA,Inactive,2380.26
+P2009,Vertex Personal Item 108,Home Appliances,Zenith,EA,Active,1972.71
+P2010,Zenith Office Item 109,Furniture,Apex,BOX,Active,4112.34
+P2011, prime office item 110 ,Electronics,Zenith,EA,Active,2283.26
+P2012,Vertex Electronics Item 111,Home Appliances,Urban,EA,Active,3038.04
+P2013,Prime Home Item 112,Furniture,Nova,KG,Active,4482.82
+P2014,Prime Home Item 113,Electronics,Apex,KG,Active,4337.86
+P2015,Orion Electronics Item 114,Office Supplies,Orion,BOX,Active,4457.59
+P2016, nova groceries item 115 ,Personal Care,Zenith,BOX,Active,1386.52
+P2017,Vertex Personal Item 116,Furniture,Nova,EA,Active,223.16
+P2018,Orion Groceries Item 117,Electronics,Urban,EA,Active,1342.28
+P2019,Apex Furniture Item 118,Home Appliances,Prime,KG,Active,1429.6
+P2020,Nova Home Item 119,Electronics,Prime,BOX,Active,4551.33
+P2021,Urban Furniture Item 120,Home Appliances,Urban,KG,Inactive,3263.75
+P2022,Nova Groceries Item 121,personal care,Zenith,EA,Active,454.43
+P2023,Apex Home Item 122,Personal Care,Prime,KG,Active,720.12
+P2024,Nova Home Item 123,Electronics,Orion,EA,Active,820.6
+P2025,Vertex Groceries Item 124,Electronics,Apex,EA,Inactive,3170.59
+P2026,Vertex Electronics Item 125,Home Appliances,Nova,KG,Active,3690.3
+P2027,Prime Office Item 126,Home Appliances,Vertex,EA,Active,-4305.24
+P2028,Urban Home Item 127,Furniture,Zenith,EA,Inactive,4706.15
+P2029,Vertex Home Item 128,Furniture,Prime,BOX,Inactive,1048.44
+P2030,Nova Home Item 129,Furniture,Apex,KG,Active,1583.37
+P2031,Zenith Office Item 130,Electronics,Vertex,EA,Active,1239.6
+P2032,Apex Home Item 131,Groceries,Orion,BOX,Active,1825.87
+P2033,Orion Home Item 132,Groceries,Prime,KG,Active,4577.59
+P2034,Zenith Office Item 133,Groceries,Prime,EA,Inactive,2896.81
+P2035,Orion Electronics Item 134,Groceries,Nova,BOX,Inactive,3704.05
+P2036,Urban Electronics Item 135,Furniture,Orion,EA,Inactive,-2476.09
+P2037,Prime Electronics Item 136,Electronics,Orion,KG,Active,192.85
+P2038,Zenith Home Item 137,Groceries,Zenith,KG,Active,367.77
+P2039,Prime Furniture Item 138,Personal Care,Vertex,EA,Inactive,2712.72
+P2040,Apex Electronics Item 139,Office Supplies,Nova,EA,Inactive,3608.01
+P2041,Nova Furniture Item 140,Personal Care,Zenith,BOX,Active,1115.89
+P2042,Zenith Furniture Item 141,Electronics,Nova,EA,Active,3623.45
+P2043,Prime Furniture Item 142,Electronics,Orion,KG,Inactive,4062.8
+P2044,Nova Personal Item 143,Office Supplies,Nova,BOX,Active,2088.89
+P2045,Zenith Groceries Item 144,Home Appliances,Nova,BOX,Active,3744.78
+P2046,Orion Office Item 145,Home Appliances,Nova,EA,Active,2049.95
+P2047,Nova Home Item 146,Home Appliances,Apex,KG,Active,3407.84
+P2048,Zenith Furniture Item 147,Furniture,Apex,EA,Active,3831.79
+P2049,Vertex Office Item 148,Home Appliances,Vertex,EA,Inactive,4960.04
+P2050,Prime Electronics Item 149,Furniture,Vertex,EA,Active,1759.71
+P2051,Zenith Electronics Item 150,Furniture,Urban,EA,Active,2084.65
+P2052,Vertex Home Item 151,Home Appliances,Orion,EA,Active,869.82
+P2053,Apex Home Item 152,Home Appliances,Nova,EA,Active,1060.16
+P2054,Prime Personal Item 153,Office Supplies,Orion,BOX,Active,3482.31
+P2055,Nova Electronics Item 154,Groceries,Apex,EA,Active,4589.38
+P2056,Vertex Home Item 155,Office Supplies,Nova,EA,Inactive,2003.29
+P2057,Zenith Personal Item 156,Furniture,Zenith,EA,Active,940.23
+P2058,Vertex Furniture Item 157,Office Supplies,Apex,BOX,Inactive,1461.24
+P2059,Zenith Personal Item 158,Furniture,Apex,EA,Inactive,2302.51
+P2060,Nova Groceries Item 159,Electronics,Apex,EA,Active,1488.72
+P2061, zenith personal item 160 ,Furniture,Urban,KG,Active,1206.22
+P2062,Nova Personal Item 161,Furniture,Nova,BOX,Active,3693.12
+P2063,Nova Furniture Item 162,Office Supplies,Vertex,KG,Active,88.83
+P2064,Prime Electronics Item 163,Groceries,Prime,KG,Inactive,2719.19
+P2065,Nova Personal Item 164,Electronics,Zenith,EA,Active,3979.15
+P2066,Nova Groceries Item 165,Personal Care,Zenith,BOX,Active,1367.83
+P2067,Apex Home Item 166,Personal Care,Orion,KG,Active,3036.29
+P2068,Orion Electronics Item 167,Groceries,Nova,BOX,Active,3361.06
+P2069,Vertex Personal Item 168,Personal Care,Vertex,EA,Inactive,3292.37
+P2070,Zenith Office Item 169,Electronics,Apex,KG,Active,2256.96
+P2071, orion groceries item 170 ,Home Appliances,Prime,KG,Active,1765.56
+P2072,Vertex Personal Item 171,Electronics,Nova,BOX,Active,4187.82
+P2073,Prime Personal Item 172,Office Supplies,Nova,EA,Active,3804.31
+P2074,Prime Home Item 173,Furniture,Urban,KG,Active,1640.21
+P2075,Vertex Home Item 174,Furniture,Vertex,EA,Inactive,559.95
+P2076,Zenith Furniture Item 175,Office Supplies,Prime,BOX,Active,405.45
+P2077,Nova Furniture Item 176,Office Supplies,Apex,BOX,Active,516.67
+P2078,Orion Electronics Item 177,Furniture,Nova,KG,Active,2935.2
+P2079,Vertex Home Item 178,Groceries,Zenith,EA,Inactive,305.73
+P2080,Apex Groceries Item 179,Home Appliances,Zenith,KG,Inactive,1717.79
+P2081,Nova Office Item 180,Home Appliances,Prime,EA,Active,3778.34
+P2082,Orion Personal Item 181,Home Appliances,Apex,KG,Inactive,1507.02
+P2083,Apex Groceries Item 182,Office Supplies,Prime,EA,Active,3828.37
+P2084,Zenith Electronics Item 183,furniture,Nova,EA,Active,3740.06
+P2085,Zenith Personal Item 184,Groceries,Urban,BOX,Inactive,1266.84
+P2086,Orion Electronics Item 185,Furniture,Urban,BOX,Inactive,3657.67
+P2087,Zenith Home Item 186,Furniture,Zenith,EA,Inactive,3751.49
+P2088,Nova Home Item 187,Groceries,Urban,KG,Inactive,2017.4
+P2089,Vertex Groceries Item 188,Electronics,Orion,EA,Inactive,1091.58
+P2090,Urban Office Item 189,Groceries,Prime,EA,Active,2630.29
+P2091,Vertex Personal Item 190,Electronics,Urban,EA,Active,4610.92
+P2092,Nova Groceries Item 191,Personal Care,Orion,EA,Active,3216.1
+P2093,Apex Personal Item 192,Electronics,Orion,EA,Active,-905.97
+P2094,Vertex Furniture Item 193,home appliances,Vertex,EA,Active,3429.65
+P2095,Apex Home Item 194,Home Appliances,Zenith,EA,Active,2164.65
+P2096,Urban Office Item 195,Groceries,Prime,BOX,Active,2978.07
+P2097,Orion Office Item 196,Home Appliances,Orion,KG,Inactive,3683.62
+P2098,Vertex Furniture Item 197,Home Appliances,Nova,EA,Active,2598.99
+P2099,Apex Office Item 198,Personal Care,Urban,KG,Active,4079.22
+P2100,Zenith Furniture Item 199,Home Appliances,Vertex,EA,Inactive,3624.67
+P2101, apex electronics item 200 ,Office Supplies,Apex,EA,Active,3094.61
+P2102,Orion Furniture Item 201,Office Supplies,Urban,EA,Inactive,796.42
+P2103,Vertex Personal Item 202,Office Supplies,Urban,EA,Active,4187.95
+P2104,Vertex Furniture Item 203,Electronics,Urban,EA,Inactive,4682.73
+P2105,Orion Personal Item 204,Groceries,Vertex,EA,Active,727.98
+P2106,Zenith Office Item 205,Groceries,Apex,EA,Active,2466.79
+P2107,Apex Home Item 206,Furniture,Zenith,EA,Active,1331.5
+P2108, prime home item 207 ,Personal Care,Prime,EA,Active,3784.89
+P2109,Orion Office Item 208,Office Supplies,Prime,KG,Active,3622.07
+P2110,Prime Home Item 209,Office Supplies,Apex,EA,Inactive,747.38
+P2111,Nova Home Item 210,Home Appliances,Urban,EA,Active,4391.28
+P2112,Vertex Electronics Item 211,Office Supplies,Nova,EA,Active,945.82
+P2113,Prime Electronics Item 212,Home Appliances,Apex,KG,Active,3996.43
+P2114,Orion Personal Item 213,home appliances,Apex,KG,Active,2312.05
+P2115,Nova Groceries Item 214,Furniture,Prime,BOX,Active,1674.95
+P2116,Zenith Furniture Item 215,Electronics,Orion,EA,Active,833.28
+P2117, vertex personal item 216 ,Home Appliances,Nova,EA,Active,879.69
+P2118, urban furniture item 217 ,Home Appliances,Prime,BOX,Active,3326.36
+P2119,Zenith Personal Item 218,Groceries,Vertex,EA,Inactive,2774.63
+P2120,Apex Groceries Item 219,Furniture,Apex,EA,Active,654.32
+P2121,Vertex Electronics Item 220,Home Appliances,Orion,EA,Inactive,607.85
+P2122,Urban Groceries Item 221,Personal Care,Nova,EA,Active,407.94
+P2123,Vertex Personal Item 222,Electronics,Zenith,EA,Active,3731.65
+P2124,Urban Office Item 223,Personal Care,Nova,EA,Active,3573.82
+P2125,Apex Electronics Item 224,Office Supplies,Nova,BOX,Active,339.23
+P2126,Apex Electronics Item 225,Electronics,Urban,KG,Active,2823.34
+P2127,Orion Personal Item 226,Office Supplies,Apex,EA,Active,469.15
+P2128,Vertex Groceries Item 227,Groceries,Apex,EA,Active,4523.54
+P2129,Prime Home Item 228,Home Appliances,Zenith,BOX,Active,4540.23
+P2130,Apex Home Item 229,Furniture,Zenith,BOX,Inactive,3506.25
+P2131,Urban Groceries Item 230,Personal Care,Zenith,EA,Inactive,4634.64
+P2132,Urban Home Item 231,Office Supplies,Prime,EA,Active,4066.69
+P2133,Zenith Electronics Item 232,Home Appliances,Prime,EA,Active,4151.27
+P2134,Vertex Personal Item 233,Personal Care,Apex,KG,Inactive,2870.05
+P2135,Orion Personal Item 234,Personal Care,Apex,EA,Inactive,1564.99
+P2136,Zenith Furniture Item 235,Groceries,Zenith,EA,Active,1128.11
+P2137,Zenith Electronics Item 236,Groceries,Prime,EA,Active,1669.64
+P2138,Vertex Office Item 237,Office Supplies,Orion,EA,Inactive,3161.05
+P2139,Urban Furniture Item 238,Home Appliances,Prime,BOX,Active,904.65
+P2140,Vertex Home Item 239,Furniture,Apex,EA,Active,1330.27
+P2141,Nova Office Item 240,Office Supplies,Prime,EA,Active,2366.9
+P2142,Nova Electronics Item 241,Personal Care,Apex,EA,Inactive,1203.6
+P2143,Apex Office Item 242,Personal Care,Zenith,EA,Active,2963.79
+P2144,Urban Electronics Item 243,Electronics,Urban,KG,Active,4619.72
+P2145,Apex Furniture Item 244,Home Appliances,Zenith,EA,Inactive,3753.04
+P2146,Apex Personal Item 245,Electronics,Zenith,EA,Active,3348.81
+P2147,Vertex Home Item 246,Groceries,Orion,EA,Active,2934.47
+P2148,Apex Home Item 247,Furniture,Urban,BOX,Active,2465.34
+P2149,Urban Electronics Item 248,Office Supplies,Orion,EA,Active,973.49
+P2150,Urban Office Item 249,Personal Care,Apex,EA,Active,4478.82
+P2151,Apex Home Item 250,Home Appliances,Nova,BOX,Active,1280.25
+P2152,Zenith Personal Item 251,Personal Care,Vertex,EA,Active,501.98
+P2153,Orion Furniture Item 252,Groceries,Orion,BOX,Active,3762.58
+P2154,Zenith Office Item 253,Electronics,Apex,EA,Active,919.3
+P2155,Orion Groceries Item 254,Electronics,Urban,EA,Active,1890.89
+P2156,Vertex Office Item 255,Office Supplies,Prime,EA,Inactive,190.01
+P2157,Zenith Furniture Item 256,Home Appliances,Urban,KG,Active,728.49
+P2158,Apex Personal Item 257,Groceries,Zenith,EA,Inactive,907.36
+P2159, orion office item 258 ,Home Appliances,Zenith,EA,Active,319.33
+P2160,Vertex Office Item 259,Office Supplies,Zenith,EA,Active,3300.45
+P2161,Orion Office Item 260,Groceries,Apex,EA,Active,4193.19
+P2162,Orion Furniture Item 261,Groceries,Zenith,EA,Active,1897.91
+P2163,Prime Electronics Item 262,Electronics,Orion,EA,Active,4379.15
+P2164,Apex Personal Item 263,Electronics,Prime,EA,Inactive,1106.07
+P2165,Vertex Home Item 264,Electronics,Zenith,EA,Active,1660.68
+P2166,Zenith Personal Item 265,Personal Care,Apex,EA,Active,796.15
+P2167,Vertex Home Item 266,Furniture,Prime,BOX,Active,3121.77
+P2168,Vertex Furniture Item 267,Electronics,Zenith,EA,Active,2128.35
+P2169,Vertex Office Item 268,Furniture,Nova,EA,Active,3085.75
+P2170,Nova Electronics Item 269,Furniture,Zenith,EA,Inactive,3820.29
+P2171,Nova Home Item 270,Home Appliances,Vertex,EA,Inactive,2751.23
+P2172,Apex Furniture Item 271,Office Supplies,Urban,KG,Active,3156.77
+P2173,Urban Electronics Item 272,Personal Care,Orion,EA,Active,4679.49
+P2174,Orion Electronics Item 273,Furniture,Prime,EA,Active,1530.37
+P2175,Apex Office Item 274,Personal Care,Orion,EA,Inactive,1827.86
+P2176,Prime Office Item 275,Home Appliances,Nova,EA,Active,3602.63
+P2177,Vertex Office Item 276,Electronics,Nova,BOX,Active,3075.96
+P2178,Zenith Electronics Item 277,Groceries,Vertex,BOX,Active,933.74
+P2179,Prime Personal Item 278,Furniture,Orion,EA,Active,1911.93
+P2180,Zenith Personal Item 279,Office Supplies,Prime,EA,Inactive,2365.8
+P2181,Orion Furniture Item 280,Groceries,Nova,KG,Inactive,2125.98
+P2182,Zenith Groceries Item 281,Home Appliances,Nova,EA,Active,932.46
+P2183,Prime Electronics Item 282,Personal Care,Zenith,EA,Active,4625.93
+P2184,Urban Groceries Item 283,Electronics,Vertex,EA,Inactive,3823.48
+P2185,Apex Furniture Item 284,Personal Care,Urban,EA,Inactive,2432.71
+P2186,Prime Office Item 285,Office Supplies,Apex,EA,Inactive,3416.3
+P2187,Apex Home Item 286,Furniture,Urban,EA,Active,4491.55
+P2188,Urban Office Item 287,Office Supplies,Urban,KG,Active,724.06
+P2189,Apex Office Item 288,Personal Care,Nova,BOX,Active,1289.35
+P2190,Vertex Home Item 289,Personal Care,Prime,EA,Active,2736.37
+P2191,Vertex Groceries Item 290,Groceries,Prime,EA,Active,4005.1
+P2192,Apex Office Item 291,Office Supplies,Zenith,KG,Inactive,229.46
+P2193,Zenith Office Item 292,Office Supplies,Prime,KG,Active,4920.89
+P2194,Nova Home Item 293,Office Supplies,Zenith,EA,Inactive,2301.79
+P2195,Orion Home Item 294,Electronics,Nova,KG,Active,1828.19
+P2196,Nova Groceries Item 295,Personal Care,Nova,KG,Active,1498.99
+P2197,Orion Furniture Item 296,Home Appliances,Urban,EA,Active,913.07
+P2198,Prime Personal Item 297,Electronics,Nova,EA,Active,3968.29
+P2199,Prime Furniture Item 298,Electronics,Nova,KG,Inactive,4779.3
+P2200,Orion Personal Item 299,Electronics,Apex,EA,Active,2097.54
+P2201,Urban Home Item 300,Groceries,Vertex,EA,Active,4764.48
+P2202,Zenith Groceries Item 301,Home Appliances,Urban,EA,Inactive,4127.8
+P2203,Prime Home Item 302,Office Supplies,Urban,KG,Active,2431.2
+P2204,Prime Personal Item 303,Groceries,Vertex,EA,Active,3386.43
+P2205,Apex Personal Item 304,Personal Care,Apex,KG,Inactive,2203.17
+P2206,Vertex Electronics Item 305,Furniture,Nova,EA,Active,-2815.68
+P2207,Orion Home Item 306,Groceries,Prime,EA,Active,337.33
+P2208,Orion Electronics Item 307,Furniture,Zenith,EA,Inactive,3496.5
+P2209,Apex Furniture Item 308,personal care,Urban,EA,Active,311.48
+P2210,Orion Home Item 309,Home Appliances,Vertex,BOX,Inactive,4094.57
+P2211,Orion Furniture Item 310,Furniture,Orion,EA,Active,4133.49
+P2212,Apex Furniture Item 311,Electronics,Zenith,KG,Inactive,1223.53
+P2213,Orion Office Item 312,Groceries,Orion,EA,Active,1652.13
+P2214, vertex office item 313 ,Furniture,Orion,BOX,Active,2432.49
+P2215,Nova Office Item 314,Personal Care,Urban,EA,Active,3003.48
+P2216,Prime Electronics Item 315,Electronics,Nova,EA,Inactive,1472.4
+P2217,Orion Furniture Item 316,Furniture,Orion,EA,Active,2982.81
+P2218,Prime Electronics Item 317,Personal Care,Nova,EA,Active,1524.05
+P2219,Orion Personal Item 318,Home Appliances,Apex,BOX,Inactive,324.68
+P2220,Apex Home Item 319,Personal Care,Prime,EA,Active,62.51
+P2221,Vertex Home Item 320,Home Appliances,Orion,BOX,Inactive,550.7
+P2222,Prime Home Item 321,Electronics,Urban,EA,Inactive,3971.64
+P2223,Apex Personal Item 322,Personal Care,Prime,EA,Active,4809.08
+P2224,Orion Personal Item 323,Office Supplies,Nova,KG,Active,2163.48
+P2225,Prime Home Item 324,Groceries,Orion,EA,Active,2587.79
+P2226,Urban Furniture Item 325,Office Supplies,Zenith,EA,Active,776.9
+P2227,Vertex Groceries Item 326,Office Supplies,Urban,BOX,Active,2777.61
+P2228,Apex Home Item 327,Office Supplies,Apex,BOX,Active,-766.04
+P2229,Vertex Groceries Item 328,Groceries,Vertex,EA,Active,3075.51
+P2230,Urban Office Item 329,Office Supplies,Apex,EA,Active,4669.63
+P2231,Apex Groceries Item 330,Home Appliances,Orion,KG,Active,1018.71
+P2232,Urban Electronics Item 331,Personal Care,Urban,EA,Active,3834.59
+P2233,Vertex Furniture Item 332,Electronics,Apex,EA,Active,166.34
+P2234,Orion Electronics Item 333,Office Supplies,Vertex,EA,Active,1908.71
+P2235,Prime Home Item 334,Office Supplies,Zenith,EA,Inactive,598.21
+P2236,Apex Groceries Item 335,Electronics,Prime,BOX,Active,1794.75
+P2237,Orion Office Item 336,Electronics,Zenith,EA,Active,909.01
+P2238,Prime Office Item 337,Office Supplies,Apex,KG,Active,1897.86
+P2239, vertex home item 338 ,Home Appliances,Vertex,EA,Active,2116.74
+P2240,Prime Groceries Item 339,Electronics,Prime,EA,Active,1537.93
+P2241,Vertex Electronics Item 340,Personal Care,Urban,EA,Active,3300.28
+P2242,Zenith Office Item 341,Personal Care,Vertex,EA,Active,4598.32
+P2243,Zenith Home Item 342,Home Appliances,Zenith,BOX,Active,2032.95
+P2244,Vertex Office Item 343,Groceries,Nova,EA,Active,1002.1
+P2245,Urban Furniture Item 344,Furniture,Nova,KG,Active,1390.08
+P2246,Apex Electronics Item 345,Home Appliances,Prime,EA,Active,4277.3
+P2247,Nova Personal Item 346,Office Supplies,Prime,KG,Inactive,2879.62
+P2248,Vertex Personal Item 347,Furniture,Prime,EA,Inactive,2302.3
+P2249,Orion Furniture Item 348,Office Supplies,Nova,BOX,Inactive,790.7
+P2250,Nova Office Item 349,Personal Care,Zenith,EA,Active,2276.15
+P2251,Nova Electronics Item 350,Electronics,Prime,EA,Active,1428.54
+P2252,Urban Furniture Item 351,Office Supplies,Nova,EA,Active,4718.66
+P2253,Urban Personal Item 352,Personal Care,Prime,EA,Active,4426.15
+P2254,Orion Groceries Item 353,Home Appliances,Prime,EA,Active,465.32
+P2255,Orion Furniture Item 354,Office Supplies,Vertex,EA,Active,2607.43
+P2256,Nova Office Item 355,Personal Care,Prime,EA,Active,1164.04
+P2257,Nova Home Item 356,Electronics,Nova,BOX,Active,2083.35
+P2258,Orion Furniture Item 357,Office Supplies,Zenith,EA,Active,4390.4
+P2259,Urban Home Item 358,groceries,Nova,KG,Active,2661.2
+P2260,Orion Furniture Item 359,Personal Care,Nova,EA,Active,1704.37
+P2261,Vertex Furniture Item 360,Office Supplies,Prime,EA,Inactive,1079.05
+P2262,Apex Electronics Item 361,Electronics,Vertex,EA,Active,4011.61
+P2263,Orion Office Item 362,Office Supplies,Orion,EA,Active,3141.36
+P2264,Apex Personal Item 363,Office Supplies,Urban,KG,Active,2366.92
+P2265,Vertex Home Item 364,Groceries,Orion,EA,Active,1126.55
+P2266,Nova Home Item 365,Personal Care,Orion,EA,Active,1704.52
+P2267,Zenith Groceries Item 366,Furniture,Nova,BOX,Inactive,4801.22
+P2268,Prime Personal Item 367,Office Supplies,Prime,EA,Inactive,2624.45
+P2269,Apex Personal Item 368,Furniture,Urban,EA,Active,2033.46
+P2270,Urban Home Item 369,home appliances,Orion,KG,Active,2631.04
+P2271,Urban Office Item 370,Office Supplies,Apex,KG,Active,3905.99
+P2272,Prime Electronics Item 371,Furniture,Apex,EA,Active,1733.54
+P2273,Prime Furniture Item 372,Home Appliances,Apex,EA,Active,934.6
+P2274,Zenith Personal Item 373,Groceries,Zenith,KG,Active,2945.43
+P2275,Apex Office Item 374,Personal Care,Prime,EA,Inactive,3342.76
+P2276,Nova Electronics Item 375,Office Supplies,Nova,EA,Active,3577.95
+P2277, nova groceries item 376 ,Personal Care,Nova,EA,Inactive,4415.84
+P2278,Urban Furniture Item 377,Home Appliances,Prime,EA,Inactive,1887.31
+P2279,Prime Electronics Item 378,Personal Care,Vertex,EA,Inactive,423.01
+P2280,Urban Furniture Item 379,Personal Care,Urban,EA,Active,-4793.83
+P2281,Zenith Home Item 380,Electronics,Vertex,KG,Inactive,2203.31
+P2282,Prime Office Item 381,Home Appliances,Zenith,EA,Active,-3135.12
+P2283,Vertex Personal Item 382,Personal Care,Prime,EA,Active,3348.21
+P2284,Prime Groceries Item 383,Furniture,Vertex,BOX,Active,2755.24
+P2285,Vertex Groceries Item 384,Home Appliances,Urban,EA,Active,1066.02
+P2286,Prime Office Item 385,Electronics,Zenith,EA,Active,3787.96
+P2287,Prime Furniture Item 386,Office Supplies,Orion,EA,Active,4028.57
+P2288,Vertex Furniture Item 387,Groceries,Orion,EA,Active,2787.23
+P2289,Apex Office Item 388,Personal Care,Zenith,EA,Active,2468.38
+P2290,Urban Personal Item 389,Furniture,Prime,EA,Active,613.99
+P2291,Nova Home Item 390,Electronics,Orion,EA,Active,465.56
+P2292,Urban Electronics Item 391,Home Appliances,Prime,BOX,Inactive,1730.85
+P2293,Nova Office Item 392,Groceries,Vertex,KG,Inactive,1588.69
+P2294,Zenith Electronics Item 393,Groceries,Orion,BOX,Active,4770.6
+P2295,Vertex Electronics Item 394,Personal Care,Urban,KG,Active,3928.93
+P2296,Apex Personal Item 395,Electronics,Urban,KG,Active,3316.63
+P2297,Zenith Electronics Item 396,Electronics,Vertex,BOX,Active,2612.36
+P2298,Zenith Home Item 397,Furniture,Urban,EA,Inactive,878.47
+P2299,Urban Home Item 398,Office Supplies,Prime,EA,Active,4893.36
+P2300,Apex Groceries Item 399,Office Supplies,Prime,EA,Inactive,1906.45
+P2301,Prime Electronics Item 400,Office Supplies,Urban,EA,Active,579.28
+P2302,Urban Personal Item 401,Groceries,Apex,EA,Active,2494.3
+P2303, apex electronics item 402 ,groceries,Zenith,KG,Inactive,4376.29
+P2304,Urban Electronics Item 403,Home Appliances,Nova,BOX,Active,4442.09
+P2305,Prime Groceries Item 404,Groceries,Zenith,EA,Active,104.28
+P2306,Zenith Groceries Item 405,Groceries,Urban,EA,Active,4437.16
+P2307,Urban Personal Item 406,Electronics,Prime,EA,Inactive,1393.85
+P2308,Urban Home Item 407,Home Appliances,Prime,BOX,Active,242.91
+P2309,Apex Electronics Item 408,Electronics,Zenith,KG,Inactive,4246.56
+P2310,Zenith Personal Item 409,Furniture,Prime,EA,Active,4326.14
+P2311,Urban Groceries Item 410,Furniture,Vertex,KG,Active,3001.34
+P2312,Apex Furniture Item 411,Home Appliances,Orion,EA,Active,2893.45
+P2313,Nova Personal Item 412,Home Appliances,Prime,KG,Active,4074.95
+P2314,Prime Office Item 413,Groceries,Urban,EA,Inactive,3942.23
+P2315,Orion Home Item 414,Furniture,Urban,EA,Inactive,4456.02
+P2316,Apex Home Item 415,Personal Care,Zenith,EA,Active,2786.1
+P2317,Vertex Office Item 416,Office Supplies,Zenith,EA,Active,4839.85
+P2318,Apex Office Item 417,Groceries,Zenith,KG,Active,4980.93
+P2319,Orion Electronics Item 418,Office Supplies,Urban,EA,Active,626.9
+P2320,Urban Groceries Item 419,Furniture,Apex,BOX,Inactive,4255.24
+P2321,Zenith Furniture Item 420,Office Supplies,Urban,EA,Active,2524.12
+P2322,Urban Office Item 421,Personal Care,Vertex,KG,Active,1968.45
+P2323,Orion Personal Item 422,Personal Care,Urban,EA,Active,3084.71
+P2324,Urban Groceries Item 423,Electronics,Vertex,EA,Active,-327.03
+P2325,Nova Personal Item 424,Home Appliances,Urban,EA,Active,2556.98
+P2326,Urban Groceries Item 425,Office Supplies,Urban,EA,Active,4360.91
+P2327,Prime Personal Item 426,Personal Care,Apex,KG,Active,1106.63
+P2328,Orion Home Item 427,Home Appliances,Vertex,BOX,Active,-2160.63
+P2329,Orion Office Item 428,Home Appliances,Apex,BOX,Active,4700.43
+P2330,Urban Electronics Item 429,Electronics,Vertex,KG,Active,2171.39
+P2331,Zenith Electronics Item 430,Home Appliances,Apex,KG,Inactive,1823.92
+P2332,Prime Personal Item 431,Home Appliances,Apex,KG,Active,2230.66
+P2333, vertex groceries item 432 ,Groceries,Vertex,EA,Active,2621.29
+P2334,Urban Furniture Item 433,Furniture,Apex,EA,Active,3178.36
+P2335,Urban Furniture Item 434,Electronics,Urban,EA,Active,4013.43
+P2336,Prime Groceries Item 435,Electronics,Vertex,KG,Active,2287.91
+P2337,Zenith Groceries Item 436,Office Supplies,Apex,KG,Active,4096.53
+P2338,Orion Office Item 437,Home Appliances,Urban,KG,Active,2691.92
+P2339,Vertex Office Item 438,Office Supplies,Urban,BOX,Active,1725.48
+P2340,Vertex Electronics Item 439,groceries,Zenith,KG,Active,3306.86
+P2341,Urban Groceries Item 440,Personal Care,Nova,EA,Active,3602.73
+P2342,Orion Personal Item 441,Home Appliances,Vertex,KG,Active,2812.34
+P2343,Orion Furniture Item 442,Personal Care,Apex,EA,Active,330.24
+P2344,Orion Office Item 443,Furniture,Zenith,EA,Inactive,890.92
+P2345,Apex Home Item 444,Groceries,Nova,EA,Active,1462.22
+P2346,Nova Furniture Item 445,Home Appliances,Apex,BOX,Active,-1449
+P2347,Apex Electronics Item 446,Office Supplies,Nova,EA,Active,3383.43
+P2348,Prime Furniture Item 447,Office Supplies,Vertex,EA,Active,140.83
+P2349,Zenith Office Item 448,Home Appliances,Urban,EA,Inactive,3790.62
+P2350,Nova Office Item 449,Office Supplies,Urban,EA,Active,1363.45
+P2351, zenith office item 450 ,Home Appliances,Nova,EA,Active,1584.61
+P2352,Nova Personal Item 451,Electronics,Urban,EA,Active,2663.15
+P2353,Zenith Office Item 452,Office Supplies,Orion,EA,Active,1118.83
+P2354,Zenith Office Item 453,Home Appliances,Prime,KG,Active,4428.13
+P2355,Orion Personal Item 454,Home Appliances,Urban,EA,Active,472.58
+P2356,Prime Furniture Item 455,Office Supplies,Orion,EA,Active,2249.69
+P2357,Zenith Furniture Item 456,Electronics,Vertex,EA,Active,4254.64
+P2358, vertex personal item 457 ,Office Supplies,Vertex,EA,Inactive,3098.43
+P2359,Vertex Electronics Item 458,Home Appliances,Nova,EA,Active,1497.03
+P2360,Nova Office Item 459,Electronics,Urban,EA,Active,2132.76
+P2361,Apex Groceries Item 460,Personal Care,Urban,EA,Active,3548.14
+P2362,Vertex Electronics Item 461,Furniture,Urban,EA,Inactive,4867.64
+P2363,Vertex Home Item 462,Office Supplies,Zenith,EA,Active,4471.04
+P2364,Orion Furniture Item 463,Groceries,Apex,EA,Active,1745.04
+P2365,Apex Groceries Item 464,Home Appliances,Prime,BOX,Active,4991.08
+P2366,Vertex Groceries Item 465,Electronics,Urban,EA,Active,67.35
+P2367,Urban Office Item 466,electronics,Apex,EA,Active,186.77
+P2368,Zenith Home Item 467,Personal Care,Zenith,EA,Active,4128.01
+P2369,Apex Home Item 468,Office Supplies,Vertex,EA,Active,1037.34
+P2370,Apex Home Item 469,Groceries,Prime,BOX,Active,350.81
+P2371,Vertex Office Item 470,Electronics,Orion,KG,Inactive,-1223.88
+P2372,Nova Groceries Item 471,Personal Care,Vertex,EA,Active,2159.2
+P2373,Vertex Personal Item 472,Home Appliances,Vertex,EA,Active,3666.3
+P2374,Urban Electronics Item 473,Personal Care,Nova,BOX,Active,3140.46
+P2375,Apex Electronics Item 474,office supplies,Zenith,KG,Active,1226.23
+P2376,Prime Furniture Item 475,Personal Care,Nova,EA,Active,2541.19
+P2377,Vertex Electronics Item 476,Electronics,Nova,KG,Inactive,4634.76
+P2378,Zenith Office Item 477,Electronics,Apex,EA,Active,4084.29
+P2379,Orion Office Item 478,Furniture,Vertex,BOX,Active,1649.79
+P2380,Urban Home Item 479,personal care,Zenith,BOX,Inactive,4912.21
+P2381,Orion Personal Item 480,Home Appliances,Nova,KG,Active,3557.67
+P2382,Orion Personal Item 481,Groceries,Orion,EA,Active,359.12
+P2383,Apex Personal Item 482,Groceries,Prime,EA,Active,224.05
+P2384,Prime Electronics Item 483,Office Supplies,Urban,BOX,Inactive,883.62
+P2385,Prime Groceries Item 484,Furniture,Zenith,EA,Active,3652.89
+P2386,Prime Furniture Item 485,Personal Care,Apex,BOX,Active,959.51
+P2387,Apex Groceries Item 486,Home Appliances,Zenith,EA,Active,2581.86
+P2388,Vertex Groceries Item 487,Furniture,Vertex,EA,Inactive,511.64
+P2389,Urban Electronics Item 488,Electronics,Apex,BOX,Inactive,4608.39
+P2390,Zenith Furniture Item 489,Office Supplies,Prime,KG,Active,1752.61
+P2391,Urban Home Item 490,Personal Care,Orion,EA,Active,4545.25
+P2392,Urban Electronics Item 491,Groceries,Nova,EA,Active,4727.13
+P2393,Urban Office Item 492,Home Appliances,Zenith,EA,Active,80.34
+P2394,Apex Groceries Item 493,Electronics,Apex,EA,Active,2347.47
+P2395,Apex Home Item 494,furniture,Prime,EA,Active,172.05
+P2396,Prime Personal Item 495,Office Supplies,Nova,EA,Inactive,4548.03
+P2397,Urban Furniture Item 496,Furniture,Urban,EA,Inactive,2616.12
+P2398,Vertex Personal Item 497,Groceries,Prime,KG,Active,420.97
+P2399,Nova Groceries Item 498,Furniture,Orion,KG,Active,595.87
+P2400,Orion Electronics Item 499,Home Appliances,Nova,EA,Active,1948.37
+P2401,Prime Personal Item 500,Electronics,Nova,BOX,Active,4704.16
+P2402,Urban Groceries Item 501,Personal Care,Urban,BOX,Active,3479.9
+P2403,Apex Furniture Item 502,Home Appliances,Nova,EA,Active,4344.71
+P2404,Urban Groceries Item 503,Groceries,Apex,BOX,Active,1863.96
+P2405, apex groceries item 504 ,Office Supplies,Nova,EA,Active,263.91
+P2406,Urban Electronics Item 505,Groceries,Prime,KG,Active,4872.87
+P2407,Apex Home Item 506,Groceries,Apex,EA,Inactive,135.01
+P2408,Vertex Office Item 507,Furniture,Nova,EA,Active,4740.88
+P2409,Urban Office Item 508,Office Supplies,Prime,BOX,Inactive,1874.95
+P2410,Zenith Electronics Item 509,Home Appliances,Prime,BOX,Active,99.95
+P2411, prime groceries item 510 ,Groceries,Zenith,KG,Inactive,3461.33
+P2412,Urban Office Item 511,Home Appliances,Prime,BOX,Inactive,4903.67
+P2413,Zenith Furniture Item 512,Personal Care,Urban,EA,Active,4829.85
+P2414,Zenith Home Item 513,Furniture,Vertex,EA,Active,846.64
+P2415,Urban Home Item 514,Home Appliances,Orion,EA,Active,947.18
+P2416,Prime Office Item 515,Office Supplies,Nova,EA,Active,2849.42
+P2417,Zenith Personal Item 516,Groceries,Urban,EA,Active,3204.66
+P2418,Vertex Electronics Item 517,Personal Care,Nova,EA,Inactive,3710.12
+P2419,Vertex Home Item 518,Office Supplies,Nova,EA,Active,946.2
+P2420,Vertex Personal Item 519,Furniture,Prime,EA,Active,4797.09
+P2421,Urban Groceries Item 520,Personal Care,Prime,EA,Active,3211.76
+P2422,Orion Electronics Item 521,Personal Care,Nova,KG,Active,4242.88
+P2423,Zenith Office Item 522,Personal Care,Vertex,BOX,Active,2723.33
+P2424,Vertex Personal Item 523,Groceries,Apex,EA,Active,2100.67
+P2425,Prime Office Item 524,Electronics,Apex,EA,Active,4887.06
+P2426,Apex Home Item 525,Personal Care,Orion,EA,Active,2931.5
+P2427,Urban Personal Item 526,Office Supplies,Zenith,EA,Active,4341.02
+P2428,Urban Personal Item 527,Office Supplies,Urban,EA,Active,4768.8
+P2429,Orion Electronics Item 528,Furniture,Orion,EA,Active,3393.01
+P2430, nova personal item 529 ,Home Appliances,Nova,EA,Active,2767.25
+P2431,Apex Groceries Item 530,Home Appliances,Urban,BOX,Active,67.38
+P2432,Urban Furniture Item 531,Electronics,Nova,BOX,Active,248.1
+P2433,Nova Personal Item 532,Groceries,Nova,BOX,Active,1044.21
+P2434,Apex Home Item 533,Groceries,Zenith,BOX,Active,970.74
+P2435,Apex Groceries Item 534,Personal Care,Prime,BOX,Active,1311.06
+P2436,Prime Groceries Item 535,Electronics,Zenith,EA,Active,1559.43
+P2437,Apex Personal Item 536,Furniture,Orion,EA,Active,1832.32
+P2438,Orion Groceries Item 537,Furniture,Prime,EA,Active,2131.66
+P2439,Zenith Home Item 538,Home Appliances,Prime,EA,Inactive,539.39
+P2440,Orion Electronics Item 539,Furniture,Orion,EA,Active,259.69
+P2441,Nova Personal Item 540,Personal Care,Prime,EA,Inactive,3386.03
+P2442,Orion Personal Item 541,Office Supplies,Urban,EA,Active,2709.81
+P2443,Orion Furniture Item 542,Furniture,Apex,KG,Active,2248.51
+P2444,Urban Personal Item 543,Electronics,Orion,KG,Active,3190.48
+P2445,Urban Furniture Item 544,Personal Care,Orion,EA,Active,4147.01
+P2446,Vertex Home Item 545,Furniture,Apex,EA,Active,2167.08
+P2447,Orion Groceries Item 546,Groceries,Zenith,EA,Active,3223.54
+P2448,Orion Groceries Item 547,Furniture,Zenith,EA,Active,4770.18
+P2449,Zenith Electronics Item 548,Groceries,Zenith,EA,Active,4206.14
+P2450,Prime Furniture Item 549,Personal Care,Prime,EA,Active,2158.7
+P2451,Prime Furniture Item 550,Furniture,Apex,EA,Active,3241.35
+P2452,Zenith Personal Item 551,Groceries,Urban,EA,Active,926.5
+P2453,Vertex Furniture Item 552,Office Supplies,Orion,EA,Active,-2824.58
+P2454,Zenith Personal Item 553,Home Appliances,Orion,BOX,Inactive,4907.58
+P2455,Orion Groceries Item 554,Personal Care,Orion,KG,Inactive,2615.66
+P2456,Vertex Groceries Item 555,Groceries,Prime,EA,Inactive,4641.81
+P2457,Vertex Electronics Item 556,Electronics,Prime,EA,Active,2066.31
+P2458,Orion Electronics Item 557,Furniture,Vertex,BOX,Inactive,4994.28
+P2459,Zenith Electronics Item 558,Groceries,Urban,EA,Active,2917.14
+P2460,Urban Groceries Item 559,Groceries,Zenith,EA,Active,259.23
+P2461,Zenith Electronics Item 560,Groceries,Vertex,BOX,Active,2954.44
+P2462,Nova Furniture Item 561,Home Appliances,Vertex,EA,Active,1409.13
+P2463,Nova Personal Item 562,Electronics,Prime,BOX,Active,210.78
+P2464,Vertex Furniture Item 563,Electronics,Zenith,KG,Active,4113.22
+P2465,Nova Furniture Item 564,Office Supplies,Zenith,KG,Active,1414.86
+P2466,Prime Furniture Item 565,Home Appliances,Orion,EA,Inactive,3992.92
+P2467,Urban Groceries Item 566,Groceries,Prime,EA,Active,1476.68
+P2468,Urban Office Item 567,Personal Care,Zenith,KG,Active,1011.92
+P2469,Urban Office Item 568,Home Appliances,Vertex,KG,Active,4870.98
+P2470,Orion Personal Item 569,Home Appliances,Apex,EA,Active,1840.14
+P2471,Vertex Personal Item 570,Electronics,Apex,KG,Active,3026.81
+P2472,Vertex Groceries Item 571,Office Supplies,Prime,EA,Inactive,3069.41
+P2473,Urban Personal Item 572,Office Supplies,Orion,KG,Active,2824.34
+P2474,Apex Office Item 573,Home Appliances,Orion,EA,Active,4577.74
+P2475,Urban Furniture Item 574,Home Appliances,Zenith,EA,Inactive,3388.48
+P2476,Zenith Personal Item 575,furniture,Urban,KG,Inactive,2048.48
+P2477,Urban Furniture Item 576,Groceries,Prime,EA,Inactive,4318.78
+P2478,Urban Office Item 577,Electronics,Urban,BOX,Active,946.26
+P2479,Orion Groceries Item 578,Groceries,Apex,EA,Active,2743.97
+P2480,Apex Groceries Item 579,Personal Care,Vertex,EA,Active,4755.22
+P2481, apex furniture item 580 ,personal care,Zenith,KG,Inactive,3145.72
+P2482,Vertex Office Item 581,Office Supplies,Vertex,KG,Active,4093.99
+P2483,Vertex Personal Item 582,Electronics,Urban,EA,Inactive,3285.13
+P2484,Apex Home Item 583,Groceries,Zenith,BOX,Active,4204.89
+P2485,Urban Office Item 584,Office Supplies,Nova,EA,Inactive,4725.22
+P2486,Apex Home Item 585,Personal Care,Vertex,BOX,Active,1400.96
+P2487,Urban Office Item 586,Home Appliances,Prime,EA,Inactive,889.82
+P2488,Vertex Furniture Item 587,Electronics,Vertex,EA,Active,2445.75
+P2489,Vertex Personal Item 588,Electronics,Vertex,BOX,Active,3524.22
+P2490,Zenith Home Item 589,Groceries,Zenith,EA,Active,1174.6
+P2491,Zenith Furniture Item 590,Furniture,Apex,EA,Inactive,70.3
+P2492,Apex Personal Item 591,Groceries,Urban,EA,Active,1747.53
+P2493,Urban Electronics Item 592,Home Appliances,Nova,KG,Active,4845.85
+P2494,Nova Electronics Item 593,Home Appliances,Vertex,EA,Active,3490.09
+P2495,Urban Electronics Item 594,Office Supplies,Urban,KG,Active,2036.56
+P2496,Vertex Electronics Item 595,Electronics,Urban,EA,Active,1003.25
+P2497,Apex Office Item 596,Office Supplies,Apex,EA,Active,1812.64
+P2498,Vertex Office Item 597,Home Appliances,Orion,EA,Active,890.71
+P2499,Apex Home Item 598,Furniture,Nova,EA,Active,576.21
+P2500,Orion Groceries Item 599,Electronics,Nova,EA,Active,4538.37
+P2501, vertex personal item 216 ,Home Appliances,Nova,EA,Active,879.69
+P2502,Vertex Office Item 259,Office Supplies,Zenith,EA,Active,3300.45
+P2503,Prime Home Item 302,Office Supplies,Urban,KG,Active,2431.2
+P2504,Apex Home Item 194,Home Appliances,Zenith,EA,Active,2164.65
+P2505,Apex Office Item 374,Personal Care,Prime,EA,Inactive,3342.76
+P2506,Vertex Office Item 255,Office Supplies,Prime,EA,Inactive,190.01
+P2507,Apex Electronics Item 345,Home Appliances,Prime,EA,Active,4277.3
+P2508,Vertex Personal Item 171,Electronics,Nova,BOX,Active,4187.82
+P2509,Urban Furniture Item 574,Home Appliances,Zenith,EA,Inactive,3388.48
+P2510,Vertex Electronics Item 461,Furniture,Urban,EA,Inactive,4867.64
+P2511,Zenith Electronics Item 232,Home Appliances,Prime,EA,Active,4151.27
+P2512,Orion Home Item 414,Furniture,Urban,EA,Inactive,4456.02

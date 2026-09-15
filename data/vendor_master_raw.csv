@@ -1,0 +1,361 @@
+﻿Vendor_ID,Vendor_Name,Email,Phone,City,State,Country,Vendor_Type,Status
+V3001,Reliable Solutions 1,vendor1@supplier.com,8426907364,Kolkata,Tamil Nadu,India,Wholesaler,Inactive
+V3002,Reliable Solutions 2,vendor2@supplier.com,9884056224,Kolkata,Maharashtra,India,Distributor,Active
+V3003,Apex Supplies 3,vendor3@supplier.com,8766617514,Noida,Delhi,India,Wholesaler,Active
+V3004,Apex Industries 4,vendor4@supplier.com,9589198484,Mumbai,West Bengal,India,Service,Active
+V3005,Prime Distributors 5,vendor5@supplier.com,8075456851,Chennai,Karnataka,India,Manufacturer,Active
+V3006, national distributors 6 ,vendor6@supplier.com,9117386350,Chennai,Andhra Pradesh,India,Manufacturer,Active
+V3007, prime industries 7 ,,7895476956,Kolkata,West Bengal,India,Service,Active
+V3008,Prime Solutions 8,vendor8@supplier.com,7699420735,Kolkata,Karnataka,India,Service,Inactive
+V3009,Prime Traders 9,vendor9@supplier.com,8488382589,Pune,West Bengal,India,Wholesaler,Active
+V3010,Reliable Solutions 10,,7181890777,Hyderabad,Uttar Pradesh,India,Manufacturer,Active
+V3011, reliable distributors 11 ,vendor11@supplier.com,9400101729,Ahmedabad,West Bengal,India,Service,Active
+V3012,United Supplies 12,vendor12@supplier.com,9740100569,Mumbai,Delhi,India,Wholesaler,Active
+V3013,Prime Traders 13,vendor13@supplier.com,9338919308,Vijayawada,Karnataka,India,Wholesaler,Active
+V3014,Reliable Distributors 14,vendor14@supplier.com,7881472996,Ahmedabad,Andhra Pradesh,India,Distributor,Active
+V3015,Reliable Industries 15,vendor15@supplier.com,8550360588,Pune,Gujarat,India,Manufacturer,Active
+V3016,United Industries 16,vendor16@supplier.com,9986417061,Ahmedabad,West Bengal,India,Wholesaler,Inactive
+V3017,Global Solutions 17,vendor17@supplier.com,7625570968,Ahmedabad,Andhra Pradesh,India,Service,Active
+V3018,Global Supplies 18,vendor18@supplier.com,8427377341,Pune,Karnataka,India,Manufacturer,Inactive
+V3019,Global Solutions 19,vendor19@supplier.com,8112818326,Kolkata,Andhra Pradesh,India,Service,Inactive
+V3020, united distributors 20 ,vendor20@supplier.com,8955345493,Kolkata,Tamil Nadu,India,Service,Active
+V3021,National Traders 21,vendor21@supplier.com,8477897236,Noida,Tamil Nadu,India,Wholesaler,Active
+V3022, apex industries 22 ,vendor22@supplier.com,9290967221,Ahmedabad,West Bengal,India,Wholesaler,Active
+V3023,Global Solutions 23,vendor23@supplier.com,9193908893,Vijayawada,West Bengal,India,Distributor,Active
+V3024,United Supplies 24,vendor24@supplier.com,8607453642,Pune,West Bengal,India,Service,Active
+V3025,Prime Industries 25,vendor25@supplier.com,9345286595,Vijayawada,Maharashtra,India,Wholesaler,Active
+V3026,National Distributors 26,vendor26@supplier.com,8944440907,Delhi,Uttar Pradesh,India,Distributor,Active
+V3027,Reliable Traders 27,,7730579272,Chennai,Andhra Pradesh,India,Manufacturer,Active
+V3028,United Supplies 28,vendor28@supplier.com,8357429962,Noida,Maharashtra,India,Distributor,Active
+V3029,Apex Supplies 29,vendor29@supplier.com,9867990278,Chennai,Telangana,India,Distributor,Active
+V3030,United Supplies 30,vendor30@supplier.com,9407149639,Noida,West Bengal,India,Service,Inactive
+V3031,National Industries 31,vendor31@supplier.com,9505640408,Mumbai,Delhi,India,Manufacturer,Active
+V3032,Global Industries 32,vendor32@supplier.com,9053262978,Pune,Tamil Nadu,India,Service,Active
+V3033, reliable supplies 33 ,vendor33@supplier.com,9491009383,Chennai,Tamil Nadu,India,Service,Active
+V3034,Global Industries 34,vendor34@supplier.com,9357828123,Vijayawada,Gujarat,India,Distributor,Active
+V3035,National Supplies 35,vendor35@supplier.com,8019921194,Pune,Telangana,India,Distributor,Inactive
+V3036,National Traders 36,vendor36@supplier.com,7850745952,Vijayawada,Andhra Pradesh,India,Wholesaler,Inactive
+V3037, metro traders 37 ,vendor37@supplier.com,8712098349,Ahmedabad,Karnataka,India,Distributor,Active
+V3038,Metro Traders 38,vendor38@supplier.com,9348775424,Chennai,Telangana,India,Wholesaler,Inactive
+V3039,Metro Supplies 39,vendor39@supplier.com,9795523290,Ahmedabad,Uttar Pradesh,India,Service,Active
+V3040,Apex Industries 40,vendor40@supplier.com,9431155813,Kolkata,West Bengal,India,Distributor,Active
+V3041,United Distributors 41,vendor41@supplier.com,7763638050,Delhi,Delhi,India,Manufacturer,Active
+V3042,United Solutions 42,vendor42@supplier.com,7190707145,Mumbai,Andhra Pradesh,India,Manufacturer,Active
+V3043,Metro Industries 43,vendor43@supplier.com,7220072139,Mumbai,Andhra Pradesh,India,Service,Active
+V3044,Metro Supplies 44,vendor44@supplier.com,9933297717,Chennai,West Bengal,India,Service,Inactive
+V3045,United Solutions 45,vendor45@supplier.com,8702848993,Bengaluru,Uttar Pradesh,India,Distributor,Active
+V3046,National Distributors 46,,8078376215,Delhi,West Bengal,India,Wholesaler,Active
+V3047,United Industries 47,vendor47@supplier.com,7660034046,Hyderabad,West Bengal,India,Distributor,Active
+V3048,United Distributors 48,vendor48@supplier.com,9146067355,Noida,Telangana,India,Wholesaler,Active
+V3049,National Industries 49,vendor49@supplier.com,7850288655,Mumbai,Delhi,India,Distributor,Active
+V3050,Apex Solutions 50,vendor50@supplier.com,9416635404,Pune,Andhra Pradesh,India,Manufacturer,Active
+V3051,Metro Solutions 51,vendor51@supplier.com,7357781859,Kolkata,Gujarat,India,Manufacturer,Active
+V3052,Reliable Supplies 52,vendor52@supplier.com,8897501501,Ahmedabad,West Bengal,India,Wholesaler,Inactive
+V3053,National Supplies 53,vendor53@supplier.com,7797061034,Hyderabad,Maharashtra,India,Distributor,Active
+V3054,Apex Solutions 54,vendor54@supplier.com,7942007373,Pune,Karnataka,India,Service,Active
+V3055,Global Traders 55,vendor55@supplier.com,9349329311,Chennai,West Bengal,India,Wholesaler,Active
+V3056,Global Solutions 56,vendor56@supplier.com,8107518530,Delhi,West Bengal,India,Manufacturer,Active
+V3057,United Supplies 57,vendor57@supplier.com,8102203738,Mumbai,Andhra Pradesh,India,Wholesaler,Active
+V3058,United Solutions 58,vendor58@supplier.com,9428389074,Noida,Tamil Nadu,India,Distributor,Active
+V3059,Reliable Traders 59,vendor59@supplier.com,9882310357,Hyderabad,Maharashtra,India,Service,Inactive
+V3060,Apex Solutions 60,vendor60@supplier.com,9164516536,Mumbai,Karnataka,India,Service,Active
+V3061,Metro Industries 61,vendor61@supplier.com,98765,Bengaluru,Tamil Nadu,India,Wholesaler,Active
+V3062,National Industries 62,vendor62@supplier.com,7290145824,Bengaluru,Telangana,India,Distributor,Active
+V3063,Metro Supplies 63,vendor63@supplier.com,9594237554,Bengaluru,Maharashtra,India,Distributor,Inactive
+V3064,Prime Solutions 64,vendor64@supplier.com,7736295698,Kolkata,Maharashtra,India,Service,Active
+V3065,Global Distributors 65,vendor65@supplier.com,8139569349,Ahmedabad,Karnataka,India,Manufacturer,Active
+V3066,Prime Traders 66,vendor66@supplier.com,9012393851,Chennai,Tamil Nadu,India,Distributor,Active
+V3067, prime distributors 67 ,vendor67@supplier.com,7267754638,Pune,Delhi,India,Service,Active
+V3068,National Supplies 68,vendor68@supplier.com,7138001015,Mumbai,Delhi,India,Service,Active
+V3069,United Traders 69,vendor69@supplier.com,9196959770,Pune,Uttar Pradesh,India,Distributor,Inactive
+V3070,Reliable Traders 70,vendor70@supplier.com,9727736048,Pune,West Bengal,India,Distributor,Active
+V3071,Global Traders 71,vendor71@supplier.com,7827863574,Mumbai,Maharashtra,India,Wholesaler,Inactive
+V3072,Prime Distributors 72,vendor72@supplier.com,9956641320,Ahmedabad,Maharashtra,India,Manufacturer,Active
+V3073,Apex Supplies 73,vendor73@supplier.com,9997784301,Kolkata,Karnataka,India,Wholesaler,Inactive
+V3074,Global Supplies 74,vendor74@supplier.com,8169882862,Kolkata,Delhi,India,Wholesaler,Inactive
+V3075,National Distributors 75,vendor75@supplier.com,8593238071,Delhi,Maharashtra,India,Service,Active
+V3076,Metro Solutions 76,vendor76@supplier.com,7778498462,Chennai,Maharashtra,India,Service,Active
+V3077,National Distributors 77,vendor77@supplier.com,7359592384,Delhi,Uttar Pradesh,India,Manufacturer,Active
+V3078,National Supplies 78,vendor78@supplier.com,7444946385,Ahmedabad,Delhi,India,Wholesaler,Active
+V3079,United Industries 79,vendor79@supplier.com,7429225733,Pune,Andhra Pradesh,India,Wholesaler,Active
+V3080,Prime Traders 80,vendor80@supplier.com,9332117427,Chennai,Delhi,India,Service,Active
+V3081,United Industries 81,vendor81@supplier.com,8348653760,Delhi,Gujarat,India,Service,Active
+V3082,Reliable Traders 82,vendor82@supplier.com,8306548462,Delhi,Andhra Pradesh,India,Distributor,Active
+V3083,United Distributors 83,vendor83@supplier.com,8165718569,Bengaluru,Maharashtra,India,Wholesaler,Active
+V3084,Global Industries 84,,9810598109,Kolkata,Uttar Pradesh,India,Manufacturer,Active
+V3085,National Traders 85,vendor85@supplier.com,9773839555,Vijayawada,Tamil Nadu,India,Wholesaler,Inactive
+V3086,Global Solutions 86,vendor86@supplier.com,9093806367,Delhi,Telangana,India,Service,Active
+V3087,National Traders 87,vendor87@supplier.com,7993155081,Hyderabad,West Bengal,India,Distributor,Inactive
+V3088,Global Distributors 88,vendor88@supplier.com,8573260010,Bengaluru,West Bengal,India,Wholesaler,Active
+V3089,Apex Solutions 89,vendor89@supplier.com,9772151560,Pune,Delhi,India,Manufacturer,Active
+V3090, prime distributors 90 ,vendor90@supplier.com,8743945284,Noida,Karnataka,India,Service,Inactive
+V3091,Apex Industries 91,vendor91@supplier.com,9909304970,Kolkata,Andhra Pradesh,India,Distributor,Active
+V3092,Reliable Distributors 92,vendor92@supplier.com,98765,Ahmedabad,Gujarat,India,Wholesaler,Active
+V3093,Prime Industries 93,vendor93@supplier.com,9933212233,Mumbai,Delhi,India,Manufacturer,Inactive
+V3094,United Supplies 94,vendor94@supplier.com,9615985766,Ahmedabad,Uttar Pradesh,India,Service,Active
+V3095,United Industries 95,vendor95@supplier.com,7992699493,Bengaluru,Telangana,India,Manufacturer,Active
+V3096,Global Distributors 96,vendor96@supplier.com,8648730375,Hyderabad,Tamil Nadu,India,Wholesaler,Active
+V3097,Global Supplies 97,vendor97@supplier.com,7369601456,Ahmedabad,Telangana,India,Service,Inactive
+V3098,Reliable Supplies 98,vendor98@supplier.com,9026550167,Hyderabad,Gujarat,India,Wholesaler,Inactive
+V3099,Apex Traders 99,vendor99@supplier.com,7238223334,Mumbai,Telangana,India,Distributor,Active
+V3100,National Industries 100,vendor100@supplier.com,8781758442,Noida,Telangana,India,Wholesaler,Inactive
+V3101,Prime Distributors 101,vendor101@supplier.com,9296345345,Kolkata,Maharashtra,India,Distributor,Active
+V3102,Metro Distributors 102,vendor102@supplier.com,8299341622,Kolkata,Uttar Pradesh,India,Wholesaler,Active
+V3103,Metro Distributors 103,vendor103@supplier.com,7086736522,Vijayawada,Uttar Pradesh,India,Manufacturer,Inactive
+V3104,United Industries 104,vendor104@supplier.com,9978619618,Hyderabad,Maharashtra,India,Manufacturer,Active
+V3105,Prime Distributors 105,vendor105@supplier.com,7681173264,Mumbai,Delhi,India,Service,Active
+V3106,United Solutions 106,,7038280105,Delhi,Karnataka,India,Manufacturer,Active
+V3107,United Industries 107,,9756022588,Delhi,Maharashtra,India,Manufacturer,Inactive
+V3108,Metro Solutions 108,vendor108@supplier.com,7810166146,Pune,Uttar Pradesh,India,Distributor,Active
+V3109,Reliable Solutions 109,vendor109@supplier.com,9960410914,Hyderabad,West Bengal,India,Manufacturer,Active
+V3110,Metro Industries 110,vendor110@supplier.com,9502251988,Chennai,Delhi,India,Distributor,Inactive
+V3111,United Traders 111,,7282983128,Ahmedabad,Gujarat,India,Distributor,Active
+V3112, global supplies 112 ,vendor112@supplier.com,7615511910,Pune,Maharashtra,India,Distributor,Active
+V3113,Global Industries 113,vendor113@supplier.com,9012235329,Pune,Tamil Nadu,India,Wholesaler,Active
+V3114,United Supplies 114,,8913001728,Pune,West Bengal,India,Distributor,Inactive
+V3115,Global Distributors 115,vendor115@supplier.com,98765,Mumbai,Uttar Pradesh,India,Wholesaler,Active
+V3116,Reliable Solutions 116,vendor116@supplier.com,8525120403,Kolkata,Delhi,India,Distributor,Active
+V3117,United Distributors 117,vendor117@supplier.com,9128849270,Pune,Uttar Pradesh,India,Wholesaler,Active
+V3118,United Traders 118,vendor118@supplier.com,8949124485,Kolkata,Andhra Pradesh,India,Service,Active
+V3119,National Industries 119,vendor119@supplier.com,98765,Kolkata,Maharashtra,India,Service,Active
+V3120,Metro Supplies 120,vendor120@supplier.com,9317459707,Hyderabad,Tamil Nadu,India,Wholesaler,Active
+V3121,United Traders 121,vendor121@supplier.com,7360732180,Mumbai,Tamil Nadu,India,Service,Active
+V3122,Reliable Traders 122,vendor122@supplier.com,7224651570,Kolkata,Karnataka,India,Manufacturer,Active
+V3123,Apex Traders 123,vendor123@supplier.com,9026224483,Pune,Andhra Pradesh,India,Distributor,Active
+V3124,National Solutions 124,vendor124@supplier.com,7740288775,Mumbai,Telangana,India,Wholesaler,Active
+V3125,United Traders 125,vendor125@supplier.com,7136603715,Pune,Andhra Pradesh,India,Service,Inactive
+V3126,United Solutions 126,vendor126@supplier.com,7601463914,Bengaluru,Tamil Nadu,India,Service,Active
+V3127,Reliable Supplies 127,vendor127@supplier.com,8937751439,Ahmedabad,West Bengal,India,Manufacturer,Active
+V3128, national distributors 128 ,vendor128@supplier.com,9880718402,Bengaluru,Karnataka,India,Distributor,Active
+V3129,United Solutions 129,vendor129@supplier.com,8015012543,Bengaluru,Gujarat,India,Manufacturer,Active
+V3130,National Industries 130,vendor130@supplier.com,7647807489,Hyderabad,West Bengal,India,Wholesaler,Active
+V3131,Metro Distributors 131,,8882831616,Chennai,Delhi,India,Service,Active
+V3132,Reliable Distributors 132,vendor132@supplier.com,7055222713,Ahmedabad,Telangana,India,Service,Active
+V3133,Prime Supplies 133,vendor133@supplier.com,7072425472,Hyderabad,Maharashtra,India,Service,Active
+V3134,Global Industries 134,vendor134@supplier.com,7472357221,Pune,Gujarat,India,Manufacturer,Active
+V3135,Metro Distributors 135,vendor135@supplier.com,98765,Hyderabad,West Bengal,India,Manufacturer,Inactive
+V3136,United Traders 136,vendor136@supplier.com,8561904006,Pune,Delhi,India,Distributor,Active
+V3137,Prime Industries 137,vendor137@supplier.com,7395482711,Chennai,Uttar Pradesh,India,Wholesaler,Active
+V3138,Global Distributors 138,vendor138@supplier.com,9491819204,Kolkata,Maharashtra,India,Distributor,Active
+V3139,National Industries 139,vendor139@supplier.com,8029693396,Hyderabad,Telangana,India,Distributor,Active
+V3140,Reliable Traders 140,vendor140@supplier.com,7828980827,Vijayawada,Maharashtra,India,Service,Active
+V3141,Prime Traders 141,vendor141@supplier.com,7429574417,Kolkata,Karnataka,India,Manufacturer,Active
+V3142,Metro Distributors 142,vendor142@supplier.com,9971730937,Noida,Andhra Pradesh,India,Wholesaler,Active
+V3143,Metro Solutions 143,vendor143@supplier.com,7124725420,Hyderabad,Maharashtra,India,Distributor,Inactive
+V3144,Global Traders 144,vendor144@supplier.com,9988711456,Pune,Telangana,India,Wholesaler,Active
+V3145,Prime Solutions 145,vendor145@supplier.com,9653175241,Ahmedabad,Gujarat,India,Service,Active
+V3146, prime traders 146 ,vendor146@supplier.com,9093666888,Hyderabad,Uttar Pradesh,India,Distributor,Inactive
+V3147,Metro Distributors 147,vendor147@supplier.com,7604335536,Pune,Karnataka,India,Manufacturer,Active
+V3148,Global Traders 148,vendor148@supplier.com,8568594848,Chennai,Tamil Nadu,India,Distributor,Active
+V3149,Apex Traders 149,vendor149@supplier.com,8613132230,Bengaluru,West Bengal,India,Service,Active
+V3150,Prime Supplies 150,vendor150@supplier.com,9160671515,Hyderabad,West Bengal,India,Distributor,Active
+V3151,Apex Traders 151,vendor151@supplier.com,7968528470,Delhi,Karnataka,India,Service,Active
+V3152,National Industries 152,vendor152@supplier.com,7332064052,Noida,Tamil Nadu,India,Distributor,Active
+V3153,National Distributors 153,vendor153@supplier.com,9638919391,Delhi,West Bengal,India,Wholesaler,Active
+V3154,Metro Industries 154,vendor154@supplier.com,9930479659,Kolkata,Telangana,India,Manufacturer,Active
+V3155,Prime Industries 155,vendor155@supplier.com,7120281935,Kolkata,Karnataka,India,Service,Inactive
+V3156, national industries 156 ,vendor156@supplier.com,8509713389,Bengaluru,Karnataka,India,Wholesaler,Active
+V3157,National Distributors 157,vendor157@supplier.com,7965331593,Bengaluru,Gujarat,India,Service,Active
+V3158,Apex Solutions 158,vendor158@supplier.com,9246213389,Kolkata,Tamil Nadu,India,Distributor,Active
+V3159, national solutions 159 ,vendor159@supplier.com,8195405670,Hyderabad,Gujarat,India,Service,Inactive
+V3160,Metro Traders 160,vendor160@supplier.com,7185642019,Mumbai,Tamil Nadu,India,Service,Active
+V3161,National Traders 161,vendor161@supplier.com,7774358049,Hyderabad,Gujarat,India,Manufacturer,Active
+V3162,Metro Traders 162,vendor162@supplier.com,8471026263,Noida,Karnataka,India,Wholesaler,Active
+V3163,Reliable Supplies 163,vendor163@supplier.com,7330065935,Kolkata,Andhra Pradesh,India,Distributor,Active
+V3164,National Solutions 164,vendor164@supplier.com,7726010600,Delhi,Andhra Pradesh,India,Manufacturer,Inactive
+V3165, global supplies 165 ,vendor165@supplier.com,8687683492,Bengaluru,Andhra Pradesh,India,Service,Active
+V3166,Global Distributors 166,vendor166@supplier.com,9877311742,Delhi,Karnataka,India,Manufacturer,Active
+V3167,Global Industries 167,vendor167@supplier.com,9457766680,Kolkata,West Bengal,India,Service,Active
+V3168,Prime Distributors 168,,9018161789,Chennai,Uttar Pradesh,India,Distributor,Active
+V3169, apex industries 169 ,vendor169@supplier.com,8648074199,Kolkata,Maharashtra,India,Service,Active
+V3170,United Solutions 170,vendor170@supplier.com,9036090323,Vijayawada,Uttar Pradesh,India,Manufacturer,Active
+V3171,Apex Solutions 171,vendor171@supplier.com,7511775599,Noida,Andhra Pradesh,India,Manufacturer,Active
+V3172,Prime Traders 172,vendor172@supplier.com,8052005203,Vijayawada,West Bengal,India,Service,Active
+V3173,National Solutions 173,vendor173@supplier.com,7908345853,Ahmedabad,Karnataka,India,Wholesaler,Active
+V3174,Global Industries 174,vendor174@supplier.com,7430112145,Delhi,Delhi,India,Manufacturer,Inactive
+V3175,Prime Solutions 175,,9382382915,Chennai,West Bengal,India,Wholesaler,Active
+V3176,Reliable Solutions 176,vendor176@supplier.com,7540473059,Noida,Delhi,India,Wholesaler,Active
+V3177,Prime Traders 177,vendor177@supplier.com,7580850629,Pune,Karnataka,India,Wholesaler,Active
+V3178,Global Solutions 178,vendor178@supplier.com,8920796482,Ahmedabad,Telangana,India,Wholesaler,Active
+V3179,United Distributors 179,vendor179@supplier.com,9557109137,Mumbai,Tamil Nadu,India,Manufacturer,Active
+V3180,National Supplies 180,vendor180@supplier.com,9447717742,Vijayawada,Maharashtra,India,Manufacturer,Active
+V3181,Prime Traders 181,vendor181@supplier.com,8472058855,Noida,Uttar Pradesh,India,Wholesaler,Active
+V3182,Apex Traders 182,vendor182@supplier.com,9601355281,Noida,Gujarat,India,Manufacturer,Active
+V3183,United Traders 183,vendor183@supplier.com,98765,Vijayawada,Gujarat,India,Wholesaler,Active
+V3184,United Solutions 184,vendor184@supplier.com,8569934230,Ahmedabad,Tamil Nadu,India,Wholesaler,Active
+V3185,Global Traders 185,vendor185@supplier.com,98765,Chennai,West Bengal,India,Wholesaler,Active
+V3186,Global Solutions 186,vendor186@supplier.com,7327859077,Chennai,Gujarat,India,Service,Inactive
+V3187,Reliable Traders 187,vendor187@supplier.com,8962809973,Bengaluru,Maharashtra,India,Distributor,Active
+V3188,National Traders 188,vendor188@supplier.com,9814604057,Hyderabad,Gujarat,India,Manufacturer,Active
+V3189,Global Supplies 189,vendor189@supplier.com,8718611709,Ahmedabad,Karnataka,India,Manufacturer,Active
+V3190,United Solutions 190,vendor190@supplier.com,9097798868,Delhi,Tamil Nadu,India,Wholesaler,Active
+V3191,Prime Traders 191,vendor191@supplier.com,9546279996,Delhi,Maharashtra,India,Service,Active
+V3192,Metro Distributors 192,vendor192@supplier.com,7587890263,Ahmedabad,Tamil Nadu,India,Service,Active
+V3193,Apex Solutions 193,vendor193@supplier.com,9109978382,Vijayawada,Maharashtra,India,Manufacturer,Active
+V3194, national industries 194 ,vendor194@supplier.com,8303454751,Delhi,Maharashtra,India,Wholesaler,Active
+V3195,Reliable Industries 195,vendor195@supplier.com,9401149951,Delhi,Gujarat,India,Manufacturer,Active
+V3196,Global Supplies 196,vendor196@supplier.com,9875474495,Hyderabad,Tamil Nadu,India,Wholesaler,Active
+V3197,Metro Industries 197,vendor197@supplier.com,7114646271,Noida,Delhi,India,Wholesaler,Active
+V3198,Reliable Distributors 198,vendor198@supplier.com,7423789909,Noida,Andhra Pradesh,India,Distributor,Inactive
+V3199,National Solutions 199,vendor199@supplier.com,9000903834,Ahmedabad,Maharashtra,India,Wholesaler,Inactive
+V3200,Prime Supplies 200,,7247747814,Kolkata,West Bengal,India,Distributor,Active
+V3201,United Solutions 201,vendor201@supplier.com,8719621932,Noida,Delhi,India,Manufacturer,Inactive
+V3202,Reliable Supplies 202,vendor202@supplier.com,7800605176,Vijayawada,Maharashtra,India,Manufacturer,Inactive
+V3203,Global Industries 203,vendor203@supplier.com,7700599842,Pune,Tamil Nadu,India,Service,Active
+V3204,Metro Solutions 204,vendor204@supplier.com,9407366681,Kolkata,Maharashtra,India,Distributor,Active
+V3205,Apex Industries 205,,7969506265,Hyderabad,Maharashtra,India,Manufacturer,Active
+V3206,United Solutions 206,vendor206@supplier.com,9259905820,Vijayawada,Maharashtra,India,Distributor,Active
+V3207,Prime Distributors 207,,7300407233,Chennai,Delhi,India,Manufacturer,Active
+V3208, reliable solutions 208 ,vendor208@supplier.com,7549824831,Hyderabad,Tamil Nadu,India,Distributor,Active
+V3209,National Supplies 209,vendor209@supplier.com,8800042651,Bengaluru,Gujarat,India,Distributor,Active
+V3210,Prime Distributors 210,vendor210@supplier.com,9038587862,Delhi,Telangana,India,Wholesaler,Active
+V3211,National Supplies 211,vendor211@supplier.com,9503993763,Mumbai,Uttar Pradesh,India,Manufacturer,Active
+V3212, national supplies 212 ,vendor212@supplier.com,9397199472,Chennai,Uttar Pradesh,India,Service,Active
+V3213,Metro Traders 213,vendor213@supplier.com,7631660421,Kolkata,Maharashtra,India,Wholesaler,Inactive
+V3214,Reliable Supplies 214,vendor214@supplier.com,98765,Vijayawada,West Bengal,India,Service,Active
+V3215,Apex Distributors 215,vendor215@supplier.com,7298443637,Chennai,Karnataka,India,Distributor,Inactive
+V3216,Metro Solutions 216,vendor216@supplier.com,9082797264,Bengaluru,Telangana,India,Wholesaler,Active
+V3217,Prime Industries 217,vendor217@supplier.com,9014094187,Vijayawada,Tamil Nadu,India,Distributor,Active
+V3218,Apex Solutions 218,vendor218@supplier.com,7036447149,Mumbai,Uttar Pradesh,India,Manufacturer,Active
+V3219,Global Supplies 219,vendor219@supplier.com,8123650529,Kolkata,West Bengal,India,Manufacturer,Inactive
+V3220,Apex Traders 220,vendor220@supplier.com,7930651733,Hyderabad,Karnataka,India,Service,Active
+V3221,Global Distributors 221,vendor221@supplier.com,8794404405,Ahmedabad,Delhi,India,Manufacturer,Inactive
+V3222,National Solutions 222,,9880119388,Chennai,Tamil Nadu,India,Service,Inactive
+V3223,Prime Supplies 223,vendor223@supplier.com,7471002569,Mumbai,Maharashtra,India,Distributor,Inactive
+V3224,National Industries 224,vendor224@supplier.com,7245584756,Bengaluru,West Bengal,India,Wholesaler,Inactive
+V3225,United Supplies 225,vendor225@supplier.com,8369567496,Chennai,Tamil Nadu,India,Manufacturer,Inactive
+V3226,Apex Supplies 226,vendor226@supplier.com,9563940733,Pune,Telangana,India,Distributor,Active
+V3227,United Distributors 227,vendor227@supplier.com,7757335252,Pune,Maharashtra,India,Wholesaler,Active
+V3228,Reliable Distributors 228,vendor228@supplier.com,9444036428,Kolkata,Telangana,India,Distributor,Inactive
+V3229,Reliable Industries 229,vendor229@supplier.com,8754110985,Hyderabad,Andhra Pradesh,India,Service,Inactive
+V3230,Reliable Distributors 230,vendor230@supplier.com,7153220453,Kolkata,Uttar Pradesh,India,Distributor,Active
+V3231,United Industries 231,vendor231@supplier.com,7479475914,Kolkata,Karnataka,India,Service,Active
+V3232,Global Traders 232,vendor232@supplier.com,9205560515,Delhi,West Bengal,India,Service,Active
+V3233,Reliable Supplies 233,vendor233@supplier.com,8894230073,Hyderabad,Maharashtra,India,Manufacturer,Active
+V3234,United Industries 234,vendor234@supplier.com,9617869805,Delhi,Uttar Pradesh,India,Service,Inactive
+V3235,Global Industries 235,vendor235@supplier.com,8519863293,Vijayawada,Maharashtra,India,Service,Active
+V3236,Metro Traders 236,vendor236@supplier.com,7821597951,Mumbai,Telangana,India,Distributor,Active
+V3237,United Supplies 237,vendor237@supplier.com,7959130846,Mumbai,Andhra Pradesh,India,Service,Active
+V3238,Prime Solutions 238,vendor238@supplier.com,8173941616,Hyderabad,Telangana,India,Service,Active
+V3239,United Distributors 239,vendor239@supplier.com,9758139571,Hyderabad,Tamil Nadu,India,Distributor,Active
+V3240,National Industries 240,vendor240@supplier.com,9750270881,Vijayawada,Delhi,India,Wholesaler,Active
+V3241,Apex Traders 241,vendor241@supplier.com,98765,Mumbai,Andhra Pradesh,India,Manufacturer,Inactive
+V3242,Metro Solutions 242,vendor242@supplier.com,7889545574,Vijayawada,Andhra Pradesh,India,Distributor,Active
+V3243,Reliable Distributors 243,vendor243@supplier.com,8470518471,Ahmedabad,Karnataka,India,Service,Active
+V3244,Metro Traders 244,vendor244@supplier.com,8145294518,Bengaluru,West Bengal,India,Distributor,Active
+V3245,Apex Distributors 245,vendor245@supplier.com,9139411296,Pune,Maharashtra,India,Wholesaler,Active
+V3246,Metro Distributors 246,vendor246@supplier.com,7124522887,Ahmedabad,Maharashtra,India,Distributor,Inactive
+V3247,Global Distributors 247,vendor247@supplier.com,8555836658,Kolkata,Karnataka,India,Distributor,Active
+V3248,Metro Solutions 248,vendor248@supplier.com,9796166726,Chennai,Telangana,India,Distributor,Active
+V3249,National Supplies 249,vendor249@supplier.com,7473884236,Delhi,Gujarat,India,Distributor,Active
+V3250,Metro Distributors 250,vendor250@supplier.com,9844181557,Noida,Uttar Pradesh,India,Service,Active
+V3251,Prime Traders 251,vendor251@supplier.com,7118048020,Chennai,Gujarat,India,Distributor,Active
+V3252,National Supplies 252,vendor252@supplier.com,8733601390,Hyderabad,Tamil Nadu,India,Wholesaler,Inactive
+V3253,United Supplies 253,vendor253@supplier.com,8175513311,Bengaluru,Maharashtra,India,Distributor,Active
+V3254,Global Traders 254,vendor254@supplier.com,8360607306,Ahmedabad,West Bengal,India,Distributor,Inactive
+V3255,Prime Solutions 255,vendor255@supplier.com,8156831737,Noida,Delhi,India,Service,Active
+V3256,Reliable Distributors 256,vendor256@supplier.com,7491621564,Noida,Telangana,India,Service,Active
+V3257,United Distributors 257,vendor257@supplier.com,7514898158,Hyderabad,West Bengal,India,Distributor,Active
+V3258,National Industries 258,vendor258@supplier.com,8796393944,Ahmedabad,West Bengal,India,Service,Active
+V3259,Reliable Traders 259,vendor259@supplier.com,98765,Noida,Maharashtra,India,Service,Active
+V3260,Apex Industries 260,vendor260@supplier.com,9956747143,Ahmedabad,Andhra Pradesh,India,Distributor,Inactive
+V3261,Prime Industries 261,vendor261@supplier.com,7973919248,Delhi,Uttar Pradesh,India,Service,Active
+V3262,Reliable Supplies 262,vendor262@supplier.com,7151119883,Delhi,Andhra Pradesh,India,Manufacturer,Active
+V3263,Metro Solutions 263,vendor263@supplier.com,7256141310,Noida,West Bengal,India,Manufacturer,Inactive
+V3264,Prime Supplies 264,vendor264@supplier.com,8604265241,Noida,Karnataka,India,Manufacturer,Active
+V3265,National Solutions 265,vendor265@supplier.com,7488128478,Hyderabad,Gujarat,India,Service,Active
+V3266,United Solutions 266,vendor266@supplier.com,7333239844,Ahmedabad,Maharashtra,India,Manufacturer,Active
+V3267,Apex Industries 267,vendor267@supplier.com,9562545832,Mumbai,Andhra Pradesh,India,Wholesaler,Active
+V3268,Apex Industries 268,vendor268@supplier.com,9779936937,Vijayawada,Tamil Nadu,India,Manufacturer,Active
+V3269,Global Industries 269,vendor269@supplier.com,8604035324,Vijayawada,Delhi,India,Wholesaler,Inactive
+V3270,Prime Solutions 270,vendor270@supplier.com,7906106201,Chennai,Delhi,India,Service,Active
+V3271,Global Industries 271,vendor271@supplier.com,9164358603,Chennai,Uttar Pradesh,India,Manufacturer,Active
+V3272,National Solutions 272,vendor272@supplier.com,9104716584,Noida,Tamil Nadu,India,Wholesaler,Active
+V3273,Global Solutions 273,vendor273@supplier.com,9922960814,Pune,Andhra Pradesh,India,Service,Active
+V3274,National Supplies 274,vendor274@supplier.com,8847817357,Delhi,Andhra Pradesh,India,Manufacturer,Inactive
+V3275,Metro Supplies 275,vendor275@supplier.com,8062865792,Kolkata,West Bengal,India,Distributor,Inactive
+V3276,Apex Solutions 276,vendor276@supplier.com,8748000528,Ahmedabad,Andhra Pradesh,India,Manufacturer,Active
+V3277,United Solutions 277,vendor277@supplier.com,9579011296,Bengaluru,Tamil Nadu,India,Manufacturer,Inactive
+V3278,Prime Traders 278,vendor278@supplier.com,8851588278,Bengaluru,Delhi,India,Manufacturer,Active
+V3279,Apex Distributors 279,vendor279@supplier.com,8106292444,Delhi,West Bengal,India,Distributor,Inactive
+V3280,Prime Supplies 280,vendor280@supplier.com,8432186997,Chennai,Telangana,India,Wholesaler,Active
+V3281,Reliable Industries 281,vendor281@supplier.com,9926621036,Hyderabad,Tamil Nadu,India,Wholesaler,Active
+V3282,Reliable Distributors 282,vendor282@supplier.com,8896308382,Bengaluru,Karnataka,India,Distributor,Active
+V3283,Reliable Supplies 283,vendor283@supplier.com,8353815997,Noida,Andhra Pradesh,India,Manufacturer,Active
+V3284,United Traders 284,vendor284@supplier.com,9272854151,Pune,Delhi,India,Manufacturer,Active
+V3285,Global Distributors 285,vendor285@supplier.com,8930011724,Bengaluru,Gujarat,India,Manufacturer,Active
+V3286,Apex Supplies 286,vendor286@supplier.com,8418487631,Vijayawada,Andhra Pradesh,India,Wholesaler,Active
+V3287,Apex Solutions 287,vendor287@supplier.com,9118258625,Pune,Karnataka,India,Wholesaler,Active
+V3288,Metro Distributors 288,vendor288@supplier.com,7539941420,Pune,Delhi,India,Distributor,Active
+V3289,Reliable Traders 289,vendor289@supplier.com,8282428945,Bengaluru,Uttar Pradesh,India,Service,Active
+V3290,National Distributors 290,vendor290@supplier.com,9041657186,Hyderabad,Andhra Pradesh,India,Distributor,Active
+V3291,Global Supplies 291,vendor291@supplier.com,7682749868,Hyderabad,West Bengal,India,Wholesaler,Active
+V3292,Global Solutions 292,vendor292@supplier.com,7203366604,Chennai,Maharashtra,India,Manufacturer,Active
+V3293,Metro Distributors 293,vendor293@supplier.com,8622036978,Delhi,Tamil Nadu,India,Manufacturer,Inactive
+V3294,Global Traders 294,vendor294@supplier.com,7841722179,Noida,Karnataka,India,Manufacturer,Active
+V3295,Reliable Traders 295,vendor295@supplier.com,9499428913,Kolkata,Andhra Pradesh,India,Manufacturer,Active
+V3296,Metro Distributors 296,vendor296@supplier.com,8661949208,Mumbai,Telangana,India,Service,Inactive
+V3297,Apex Distributors 297,vendor297@supplier.com,8502547186,Kolkata,Gujarat,India,Distributor,Active
+V3298,Reliable Supplies 298,vendor298@supplier.com,7726912888,Vijayawada,Delhi,India,Distributor,Active
+V3299,National Solutions 299,vendor299@supplier.com,7466241699,Hyderabad,Karnataka,India,Wholesaler,Inactive
+V3300,Metro Distributors 300,vendor300@supplier.com,9072201539,Chennai,Tamil Nadu,India,Distributor,Active
+V3301,Global Industries 301,vendor301@supplier.com,8310645054,Vijayawada,Andhra Pradesh,India,Service,Inactive
+V3302,National Distributors 302,vendor302@supplier.com,7364621497,Kolkata,Telangana,India,Service,Active
+V3303,Prime Traders 303,vendor303@supplier.com,8403406543,Pune,Delhi,India,Service,Active
+V3304,Prime Solutions 304,vendor304@supplier.com,8164882234,Delhi,Tamil Nadu,India,Manufacturer,Inactive
+V3305,United Distributors 305,vendor305@supplier.com,8243576623,Pune,Delhi,India,Wholesaler,Active
+V3306,Metro Distributors 306,vendor306@supplier.com,9249267438,Kolkata,Tamil Nadu,India,Service,Active
+V3307,United Distributors 307,vendor307@supplier.com,9416355030,Bengaluru,Andhra Pradesh,India,Distributor,Inactive
+V3308,Global Industries 308,vendor308@supplier.com,7339923747,Delhi,Maharashtra,India,Distributor,Active
+V3309,Reliable Traders 309,vendor309@supplier.com,9403527903,Chennai,Maharashtra,India,Distributor,Inactive
+V3310,Prime Supplies 310,vendor310@supplier.com,7505416791,Ahmedabad,West Bengal,India,Service,Active
+V3311, metro solutions 311 ,vendor311@supplier.com,7713889304,Pune,Maharashtra,India,Service,Active
+V3312,Metro Distributors 312,vendor312@supplier.com,7755303852,Bengaluru,Maharashtra,India,Distributor,Active
+V3313,Prime Traders 313,vendor313@supplier.com,8207543003,Vijayawada,Andhra Pradesh,India,Service,Active
+V3314,United Traders 314,vendor314@supplier.com,9239112838,Ahmedabad,Andhra Pradesh,India,Distributor,Active
+V3315,Metro Supplies 315,,9207000555,Vijayawada,Andhra Pradesh,India,Manufacturer,Inactive
+V3316,United Supplies 316,vendor316@supplier.com,8190484921,Hyderabad,Maharashtra,India,Service,Active
+V3317,Metro Solutions 317,vendor317@supplier.com,7045385448,Ahmedabad,Telangana,India,Manufacturer,Inactive
+V3318,Global Solutions 318,vendor318@supplier.com,7903157712,Delhi,Karnataka,India,Manufacturer,Active
+V3319,Metro Solutions 319,vendor319@supplier.com,9892731457,Hyderabad,Maharashtra,India,Service,Active
+V3320,Reliable Distributors 320,vendor320@supplier.com,7376909391,Delhi,Gujarat,India,Distributor,Active
+V3321,United Solutions 321,vendor321@supplier.com,8819735462,Noida,Karnataka,India,Wholesaler,Active
+V3322,National Traders 322,vendor322@supplier.com,7668838142,Bengaluru,Gujarat,India,Manufacturer,Active
+V3323,National Distributors 323,vendor323@supplier.com,9194094204,Kolkata,Tamil Nadu,India,Service,Active
+V3324,Apex Solutions 324,vendor324@supplier.com,7919622246,Vijayawada,West Bengal,India,Manufacturer,Inactive
+V3325,Global Traders 325,vendor325@supplier.com,9369886654,Kolkata,West Bengal,India,Distributor,Active
+V3326,National Traders 326,vendor326@supplier.com,7196854146,Ahmedabad,West Bengal,India,Service,Active
+V3327,National Solutions 327,vendor327@supplier.com,7873098516,Pune,Uttar Pradesh,India,Wholesaler,Active
+V3328,Apex Traders 328,vendor328@supplier.com,7315442557,Pune,Maharashtra,India,Service,Active
+V3329,National Distributors 329,vendor329@supplier.com,9407137403,Vijayawada,Telangana,India,Manufacturer,Active
+V3330,United Solutions 330,vendor330@supplier.com,8219415965,Hyderabad,Tamil Nadu,India,Service,Active
+V3331,Apex Distributors 331,vendor331@supplier.com,8385676042,Vijayawada,Andhra Pradesh,India,Service,Active
+V3332,Metro Industries 332,vendor332@supplier.com,8043666709,Noida,Maharashtra,India,Manufacturer,Active
+V3333,Reliable Supplies 333,vendor333@supplier.com,8067511164,Noida,Gujarat,India,Wholesaler,Active
+V3334,Reliable Distributors 334,vendor334@supplier.com,8626531416,Kolkata,Gujarat,India,Distributor,Inactive
+V3335,Global Supplies 335,vendor335@supplier.com,9417771223,Ahmedabad,Karnataka,India,Service,Inactive
+V3336,United Solutions 336,,8512156972,Noida,Andhra Pradesh,India,Wholesaler,Active
+V3337,Prime Solutions 337,vendor337@supplier.com,7868507171,Bengaluru,Uttar Pradesh,India,Distributor,Active
+V3338,Metro Distributors 338,vendor338@supplier.com,9603028054,Hyderabad,Gujarat,India,Manufacturer,Active
+V3339,National Supplies 339,vendor339@supplier.com,9331952245,Hyderabad,West Bengal,India,Wholesaler,Active
+V3340,Metro Solutions 340,vendor340@supplier.com,7382839111,Noida,Karnataka,India,Wholesaler,Inactive
+V3341,Reliable Solutions 341,vendor341@supplier.com,9735460287,Mumbai,Maharashtra,India,Service,Active
+V3342,National Solutions 342,vendor342@supplier.com,7041171637,Pune,Delhi,India,Manufacturer,Active
+V3343,Reliable Industries 343,vendor343@supplier.com,9241231939,Mumbai,Karnataka,India,Service,Active
+V3344,National Distributors 344,vendor344@supplier.com,7073416113,Ahmedabad,Karnataka,India,Manufacturer,Inactive
+V3345,National Traders 345,vendor345@supplier.com,8864343910,Ahmedabad,Gujarat,India,Distributor,Active
+V3346,Metro Distributors 346,vendor346@supplier.com,8750383594,Delhi,Maharashtra,India,Service,Active
+V3347,Reliable Industries 347,vendor347@supplier.com,7824528542,Ahmedabad,Andhra Pradesh,India,Manufacturer,Active
+V3348,Metro Supplies 348,vendor348@supplier.com,7979585820,Delhi,Maharashtra,India,Manufacturer,Active
+V3349,United Solutions 349,vendor349@supplier.com,9096886202,Hyderabad,West Bengal,India,Wholesaler,Active
+V3350,National Industries 350,vendor350@supplier.com,7675760291,Bengaluru,Maharashtra,India,Service,Active
+V3351,Prime Traders 313,vendor313@supplier.com,8207543003,Vijayawada,Andhra Pradesh,India,Service,Active
+V3352,Metro Distributors 142,vendor142@supplier.com,9971730937,Noida,Andhra Pradesh,India,Wholesaler,Active
+V3353,Prime Industries 261,vendor261@supplier.com,7973919248,Delhi,Uttar Pradesh,India,Service,Active
+V3354,Prime Solutions 175,,9382382915,Chennai,West Bengal,India,Wholesaler,Active
+V3355,Metro Industries 197,vendor197@supplier.com,7114646271,Noida,Delhi,India,Wholesaler,Active
+V3356,National Traders 36,vendor36@supplier.com,7850745952,Vijayawada,Andhra Pradesh,India,Wholesaler,Inactive
+V3357,United Supplies 12,vendor12@supplier.com,9740100569,Mumbai,Delhi,India,Wholesaler,Active
+V3358,National Traders 322,vendor322@supplier.com,7668838142,Bengaluru,Gujarat,India,Manufacturer,Active
+V3359,Global Industries 113,vendor113@supplier.com,9012235329,Pune,Tamil Nadu,India,Wholesaler,Active
+V3360,United Solutions 106,,7038280105,Delhi,Karnataka,India,Manufacturer,Active

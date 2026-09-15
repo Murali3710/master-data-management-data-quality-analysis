@@ -1,0 +1,1226 @@
+﻿Customer_ID,Customer_Name,Email,Phone,City,State,Country,Customer_Type,Status,Created_Date
+C1001,Vikram Patel,vikrampatel1000@example.com,9590807619,Hyderabad,Telangana,India,Retail,Active,2025-01-01
+C1002,Nikhil Das,nikhildas1001@example.com,,Bengaluru,Karnataka,India,Corporate,Active,2025-01-02
+C1003,Neha Mishra,nehamishra1002@example.com,9484152873,Delhi,Delhi,India,Corporate,Active,2025-01-03
+C1004,Vikram Iyer,vikramiyer1003@example.com,8177511078,Mumbai,Maharashtra,India,Corporate,Inactive,2025-01-04
+C1005,Manoj Verma,manojverma1004@example.com,,Noida,Uttar Pradesh,India,SMB,Active,2025-01-05
+C1006,Suresh Das,sureshdas1005@example.com,8137717283,Chennai,Tamil Nadu,India,Wholesale,Active,2025-01-06
+C1007,Sneha Gupta,snehagupta1006@example.com,7367899367,Chennai,Tamil Nadu,India,Retail,Inactive,2025-01-07
+C1008,Arjun Rao,arjunrao1007@example.com,9771498724,Ahmedabad,Gujarat,India,Corporate,Active,2025-01-08
+C1009,Priya Gupta,priyagupta1008@example.com,9558729891,Bengaluru,Karnataka,India,Retail,Active,2025-01-09
+C1010,Divya Mehta,divyamehta1009@example.com,7824063874,Chennai,Tamil Nadu,India,SMB,Active,2025-01-10
+C1011,Ananya Sharma,ananyasharma1010@example.com,8723088968,Ahmedabad,Gujarat,India,Corporate,Active,2025-01-11
+C1012,Ravi Joshi,ravijoshi1011@example.com,8388870279,Hyderabad,Telangana,India,SMB,Inactive,2025-01-12
+C1013,Divya Naidu,divyanaidu1012@example.com,8576064352,Mumbai,Maharashtra,India,Wholesale,Active,2025-01-13
+C1014,Rohan Das,rohandas1013@example.com,7973481850,mumbai,Maharashtra,India,SMB,Active,2025-01-14
+C1015,Pooja Joshi,poojajoshi1014@example.com,8475580997,Noida,Uttar Pradesh,India,SMB,Active,2025-01-15
+C1016,Kavya Nair,kavyanair1015@example.com,8524697512,pune,Maharashtra,India,Wholesale,Inactive,2025-01-16
+C1017,Nikhil Mehta,nikhilmehta1016@example.com,9650663910,Chennai,Tamil Nadu,India,Retail,Active,2025-01-17
+C1018,Manoj Joshi,manojjoshi1017@example.com,7298173123,Hyderabad,Telangana,India,Wholesale,Inactive,2025-01-18
+C1019,Isha Naidu,ishanaidu1018@example.com,8900136204,Vijayawada,Andhra Pradesh,India,Wholesale,Active,2025-01-19
+C1020,Arjun Singh,arjunsingh1019@example.com,9229344816,Chennai,Tamil Nadu,India,SMB,Active,2025-01-20
+C1021,Manoj Verma,manojverma1020@example.com,7290393729,Bengaluru,Karnataka,India,Retail,Active,2025-01-21
+C1022,Kiran Verma,kiranverma1021@example.com,9875921339,Pune,Maharashtra,India,Corporate,Inactive,2025-01-22
+C1023,Swathi Patel,,7300353963,Chennai,Tamil Nadu,India,Wholesale,Active,2025-01-23
+C1024,Meera Sharma,meerasharma1023@example.com,8003785754,Hyderabad,Telangana,India,Retail,Active,2025-01-24
+C1025,Kiran Iyer,kiraniyer1024@example.com,9749501599,Chennai,Tamil Nadu,India,Wholesale,Inactive,2025-01-25
+C1026,Priya Patel,priyapatel1025@example.com,9319333524,Bengaluru,Karnataka,India,Wholesale,Inactive,2025-01-26
+C1027,Nikhil Joshi,nikhiljoshi1026@example.com,8164569351,Vijayawada,Andhra Pradesh,India,Wholesale,Active,2025-01-27
+C1028,Vikram Joshi,vikramjoshi1027@example.com,9546108103,Delhi,Delhi,India,Wholesale,Active,2025-01-28
+C1029,Neha Nair,nehanair1028@example.com,9795497009,Kolkata,West Bengal,India,SMB,Active,2025-01-29
+C1030,Arjun Mehta,arjunmehta1029@example.com,9921144386,Vijayawada,Andhra Pradesh,India,Retail,Inactive,2025-01-30
+C1031,Rohan Patel,rohanpatel1030@example.com,9289036277,Ahmedabad,Gujarat,India,Retail,Active,2025-01-31
+C1032,Swathi Gupta,swathigupta1031@example.com,7991403819,Chennai,Tamil Nadu,India,Retail,Active,2025-02-01
+C1033,Sneha Sharma,snehasharma1032@example.com,8393002876,Mumbai,Maharashtra,India,Wholesale,Active,2025-02-02
+C1034,Ananya Rao,ananyarao1033@example.com,8962192953,Noida,Uttar Pradesh,India,SMB,Active,2025-02-03
+C1035,Pooja Patel,poojapatel1034@example.com,8430232322,Mumbai,Maharashtra,India,Wholesale,Active,2025-02-04
+C1036,Swathi Iyer,swathiiyer1035@example.com,7817439061,Vijayawada,Andhra Pradesh,India,wholesale,Active,2025-02-05
+C1037,Divya Sharma,divyasharma1036@example.com,9875424581,Mumbai,Maharashtra,India,Retail,Active,2025-02-06
+C1038,Pooja Mehta,poojamehta1037@example.com,7224793729,Hyderabad,Telangana,India,Wholesale,Active,2025-02-07
+C1039,Sneha Mehta,snehamehta1038@example.com,8625543851,Mumbai,Maharashtra,India,Corporate,Active,2025-02-08
+C1040,Kavya Nair,kavyanair1039@example.com,9842577665,Pune,Maharashtra,India,Wholesale,Active,2025-02-09
+C1041,Neha Mehta,nehamehta1040@example.com,8558833765,Delhi,Delhi,India,Corporate,Inactive,2025-02-10
+C1042,Neha Singh,nehasingh1041@example.com,9395661520,Chennai,Tamil Nadu,India,Wholesale,Active,2025-02-11
+C1043,Kavya Mishra,kavyamishra1042@example.com,8917068758,Mumbai,Maharashtra,India,SMB,Inactive,2025-02-12
+C1044,Swathi Nair,swathinair1043@example.com,8998042909,Bengaluru,Karnataka,India,SMB,Inactive,2025-02-13
+C1045,Amit Naidu,,8432670323,delhi,Delhi,India,Retail,Active,2025-02-14
+C1046,Nikhil Mishra,nikhilmishra1045@example.com,7258309383,Delhi,Delhi,India,Wholesale,Inactive,2025-02-15
+C1047,Ravi Naidu,ravinaidu1046@example.com,9493121173,Mumbai,Maharashtra,India,Corporate,Active,2025-02-16
+C1048,Vikram Naidu,vikramnaidu1047@example.com,9415046443,Delhi,Delhi,India,Corporate,Active,2025-02-17
+C1049,Ravi Joshi,ravijoshi1048@example.com,7381253049,Noida,Uttar Pradesh,India,Wholesale,Active,2025-02-18
+C1050,Neha Gupta,nehagupta1049@example.com,7752920396,Mumbai,Maharashtra,India,Corporate,Active,2025-02-19
+C1051,Suresh Reddy,sureshreddy1050@example.com,9727132636,Hyderabad,Telangana,India,SMB,Active,2025-02-20
+C1052,Rohan Gupta,rohangupta1051@example.com,9963548446,Vijayawada,Andhra Pradesh,India,Corporate,Active,2025-02-21
+C1053,  arjun reddy  ,arjunreddy1052@example.com,7863003640,Pune,Maharashtra,India,Retail,Inactive,2025-02-22
+C1054,Ravi Das,ravidas1053@example.com,7732197174,Kolkata,West Bengal,India,SMB,Active,2025-02-23
+C1055,Rahul Iyer,rahuliyer1054@example.com,9301362383,Ahmedabad,Gujarat,India,SMB,Active,2025-02-24
+C1056,Vikram Iyer,vikramiyer1055@example.com,8758693993,Delhi,Delhi,India,SMB,Active,2025-02-25
+C1057,Kiran Joshi,kiranjoshi1056@example.com,7415222205,Hyderabad,Telangana,India,Wholesale,Inactive,2025-02-26
+C1058,Vikram Naidu,vikramnaidu1057@example.com,8815435933,Chennai,Tamil Nadu,India,Wholesale,Active,2025-02-27
+C1059,Neha Joshi,nehajoshi1058@example.com,8934328440,Chennai,Tamil Nadu,India,SMB,Inactive,2025-02-28
+C1060,Priya Kumar,priyakumar1059@example.com,7005311499,Ahmedabad,Gujarat,India,Wholesale,Inactive,2025-03-01
+C1061,Kavya Verma,,8492808336,Pune,Maharashtra,India,Corporate,Active,2025-03-02
+C1062,Rahul Reddy,rahulreddy1061@example.com,8292154255,Delhi,Delhi,India,Wholesale,Active,2025-03-03
+C1063,Divya Gupta,divyagupta1062@example.com,9855774091,Noida,Uttar Pradesh,India,Wholesale,Active,2025-03-04
+C1064,Arjun Kumar,arjunkumar1063@example.com,9039622146,Ahmedabad,Gujarat,India,SMB,Inactive,2025-03-05
+C1065,Arjun Singh,arjunsingh1064@example.com,8642937885,Pune,Maharashtra,India,Retail,Active,2025-03-06
+C1066,Nikhil Mehta,nikhilmehta1065@example.com,8007780076,Delhi,Delhi,India,Retail,Active,2025-03-07
+C1067,Arjun Kumar,arjunkumar1066@example.com,7514661654,Hyderabad,Telangana,India,Retail,Active,2025-03-08
+C1068,Rahul Iyer,rahuliyer1067@example.com,8715048795,Vijayawada,Andhra Pradesh,India,Corporate,Active,2025-03-09
+C1069,Meera Verma,meeraverma1068@example.com,7654621799,Noida,Uttar Pradesh,India,Wholesale,Active,2025-03-10
+C1070,Kiran Nair,kirannair1069@example.com,7086012533,Kolkata,West Bengal,India,Retail,Active,2025-03-11
+C1071,Nikhil Iyer,nikhiliyer1070@example.com,9319098219,Chennai,Tamil Nadu,India,SMB,Inactive,2025-03-12
+C1072,Pooja Joshi,poojajoshi1071@example.com,8046497600,Bengaluru,Karnataka,India,Retail,Active,2025-03-13
+C1073,Amit Reddy,amitreddy1072@example.com,9884321565,Hyderabad,Telangana,India,Retail,Inactive,2025-03-14
+C1074,Vikram Kumar,vikramkumar1073@example.com,9237497492,Chennai,Tamil Nadu,India,Wholesale,Active,2025-03-15
+C1075,Isha Mishra,ishamishra1074@example.com,7399127635,Mumbai,Maharashtra,India,Wholesale,Active,2025-03-16
+C1076,Sneha Mehta,snehamehta1075@example.com,9678280133,Bengaluru,Karnataka,India,Wholesale,Active,2025-03-17
+C1077,Rahul Verma,rahulverma1076@example.com,8104009621,Chennai,Tamil Nadu,India,Corporate,Active,2025-03-18
+C1078,Vikram Mishra,vikrammishra1077@example.com,,Pune,Maharashtra,India,Corporate,Active,2025-03-19
+C1079,Nikhil Das,nikhildas1078@example.com,7548525216,Noida,Uttar Pradesh,India,retail,Active,2025-03-20
+C1080,Sneha Mishra,snehamishra1079@example.com,9613429236,Chennai,Tamil Nadu,India,Wholesale,Active,2025-03-21
+C1081,Vikram Das,vikramdas1080@example.com,9176854475,Kolkata,West Bengal,India,Retail,Inactive,2025-03-22
+C1082,Manoj Rao,manojrao1081@example.com,7684205555,Vijayawada,Andhra Pradesh,India,SMB,Active,2025-03-23
+C1083,Priya Iyer,priyaiyer1082@example.com,7271051260,Pune,Maharashtra,India,SMB,Active,2025-03-24
+C1084,Amit Mehta,amitmehta1083@example.com,7155307661,Hyderabad,Telangana,India,Wholesale,Active,2025-03-25
+C1085,Ananya Joshi,ananyajoshi1084@example.com,7505298723,Hyderabad,Telangana,India,Wholesale,Active,2025-03-26
+C1086,Divya Joshi,divyajoshi1085@example.com,8301926368,Hyderabad,Telangana,India,SMB,Inactive,2025-03-27
+C1087,Isha Mehta,ishamehta1086@example.com,7976492182,Hyderabad,Telangana,India,Wholesale,Active,2025-03-28
+C1088,Suresh Iyer,sureshiyer1087@example.com,8130059889,Vijayawada,Andhra Pradesh,India,Corporate,Active,2025-03-29
+C1089,Vikram Mehta,vikrammehta1088@example.com,8467480812,Chennai,Tamil Nadu,India,Corporate,Active,2025-03-30
+C1090,Ravi Kumar,ravikumar1089@example.com,8546774081,Delhi,Delhi,India,Wholesale,Active,2025-03-31
+C1091,Isha Mishra,ishamishra1090@example.com,8635993960,Chennai,Tamil Nadu,India,SMB,Active,2025-04-01
+C1092,Kiran Reddy,kiranreddy1091@example.com,7376422740,Mumbai,Maharashtra,India,Retail,Active,2025-04-02
+C1093,Vikram Rao,vikramrao1092@example.com,8487440641,Noida,Uttar Pradesh,India,Wholesale,Active,2025-04-03
+C1094,Neha Das,nehadas1093@example.com,8026734840,Bengaluru,Karnataka,India,Wholesale,Active,2025-04-04
+C1095,Kiran Mehta,kiranmehta1094@example.com,9378562504,Delhi,Delhi,India,Retail,Inactive,2025-04-05
+C1096,Rahul Kumar,,9189248960,Delhi,Delhi,India,Wholesale,Active,2025-04-06
+C1097,Manoj Iyer,manojiyer1096@example.com,8312216906,Chennai,Tamil Nadu,India,Retail,Active,2025-04-07
+C1098,Divya Gupta,divyagupta1097@example.com,8705022643,Delhi,Delhi,India,SMB,Inactive,2025-04-08
+C1099,Nikhil Das,nikhildas1098@example.com,8201317565,Ahmedabad,Gujarat,India,Corporate,Active,2025-04-09
+C1100,Kiran Patel,kiranpatel1099@example.com,8920720278,Ahmedabad,Gujarat,India,SMB,Active,2025-04-10
+C1101,Rohan Mehta,rohanmehta1100@example.com,9579532995,Mumbai,Maharashtra,India,Corporate,Active,2025-04-11
+C1102,Rohan Iyer,rohaniyer1101@example.com,9214826294,Bengaluru,Karnataka,India,Retail,Inactive,2025-04-12
+C1103,Isha Joshi,ishajoshi1102@example.com,7694771973,Kolkata,West Bengal,India,Corporate,Inactive,2025-04-13
+C1104,Vikram Sharma,vikramsharma1103@example.com,9134441898,Vijayawada,Andhra Pradesh,India,SMB,Active,2025-04-14
+C1105,Arjun Kumar,arjunkumar1104@example.com,9467833998,Chennai,Tamil Nadu,India,Corporate,Inactive,2025-04-15
+C1106,Rahul Kumar,rahulkumar1105@example.com,9433422651,Vijayawada,Andhra Pradesh,India,Retail,Inactive,2025-04-16
+C1107,Rohan Das,rohandas1106@example.com,8679515891,Kolkata,West Bengal,India,Corporate,Inactive,2025-04-17
+C1108,Rohan Sharma,rohansharma1107@example.com,7895545833,chennai,Tamil Nadu,India,Wholesale,Active,2025-04-18
+C1109,Priya Joshi,priyajoshi1108@example.com,9152435723,Chennai,Tamil Nadu,India,SMB,Active,2025-04-19
+C1110,Rahul Kumar,rahulkumar1109@example.com,8705869872,Bengaluru,Karnataka,India,Wholesale,Active,2025-04-20
+C1111,Ravi Reddy,ravireddy1110@example.com,7499789865,Vijayawada,Andhra Pradesh,India,Retail,Active,2025-04-21
+C1112,Priya Singh,priyasingh1111@example.com,9318133925,Ahmedabad,Gujarat,India,Corporate,Active,2025-04-22
+C1113,Divya Iyer,divyaiyer1112@example.com,9697024940,Hyderabad,Telangana,India,Wholesale,Inactive,2025-04-23
+C1114,Ananya Verma,ananyaverma1113@example.com,8634764578,Vijayawada,Andhra Pradesh,India,Wholesale,Active,2025-04-24
+C1115,Sneha Verma,snehaverma1114@example.com,9896112797,Noida,Uttar Pradesh,India,Corporate,Active,2025-04-25
+C1116,Suresh Gupta,sureshgupta1115@example.com,9286989289,Noida,Uttar Pradesh,India,Corporate,Active,2025-04-26
+C1117,Rohan Nair,rohannair1116@example.com,7606784578,Chennai,Tamil Nadu,India,SMB,Active,2025-04-27
+C1118,Ananya Gupta,ananyagupta1117@example.com,7910457862,Hyderabad,Telangana,India,Wholesale,Inactive,2025-04-28
+C1119,Rahul Patel,rahulpatel1118@example.com,8308586931,Pune,Maharashtra,India,Wholesale,Active,2025-04-29
+C1120,Priya Rao,priyarao1119@example.com,7347545672,Kolkata,West Bengal,India,Retail,Active,2025-04-30
+C1121,Suresh Nair,sureshnair1120@example.com,8385247118,Mumbai,Maharashtra,India,SMB,Active,2025-05-01
+C1122,Kavya Kumar,kavyakumar1121@example.com,8730786708,Hyderabad,Telangana,India,Retail,Active,2025-05-02
+C1123,Kiran Joshi,kiranjoshi1122@example.com,7098328226,Mumbai,Maharashtra,India,Wholesale,Inactive,2025-05-03
+C1124,Ananya Mishra,ananyamishra1123@example.com,7745282113,Vijayawada,Andhra Pradesh,India,Retail,Active,2025-05-04
+C1125,Arjun Patel,arjunpatel1124@example.com,7660527962,Vijayawada,Andhra Pradesh,India,Wholesale,Active,2025-05-05
+C1126,Sneha Reddy,snehareddy1125@example.com,9984792193,Mumbai,Maharashtra,India,Wholesale,Active,2025-05-06
+C1127,Arjun Nair,arjunnair1126@example.com,7960416674,Kolkata,West Bengal,India,Retail,Active,2025-05-07
+C1128,Manoj Patel,manojpatel1127@example.com,8486486993,Hyderabad,Telangana,India,Retail,Inactive,2025-05-08
+C1129,Vikram Patel,vikrampatel1128@example.com,9461194193,Pune,Maharashtra,India,Corporate,Inactive,2025-05-09
+C1130,Kiran Kumar,kirankumar1129@example.com,9752954111,Chennai,Tamil Nadu,India,Corporate,Active,2025-05-10
+C1131,Neha Verma,nehaverma1130@example.com,9470307777,Bengaluru,Karnataka,India,Corporate,Active,2025-05-11
+C1132,Swathi Gupta,swathigupta1131@example.com,7569189144,Vijayawada,Andhra Pradesh,India,Wholesale,Inactive,2025-05-12
+C1133,Ravi Das,ravidas1132@example.com,9058811644,Noida,Uttar Pradesh,India,Retail,Active,2025-05-13
+C1134,Swathi Verma,swathiverma1133@example.com,8347450144,Kolkata,West Bengal,India,SMB,Active,2025-05-14
+C1135,Pooja Reddy,poojareddy1134@example.com,9604343390,Bengaluru,Karnataka,India,Wholesale,Active,2025-05-15
+C1136,Vikram Joshi,vikramjoshi1135@example.com,9091915021,Pune,Maharashtra,India,SMB,Active,2025-05-16
+C1137,Kavya Iyer,kavyaiyer1136@example.com,7597850944,Delhi,Delhi,India,Retail,Active,2025-05-17
+C1138,Kavya Naidu,,9603836525,Chennai,Tamil Nadu,India,Wholesale,Inactive,2025-05-18
+C1139,Isha Joshi,ishajoshi1138@example.com,7750926204,Vijayawada,Andhra Pradesh,India,SMB,Inactive,2025-05-19
+C1140,Rohan Sharma,rohansharma1139@example.com,12345,Chennai,Tamil Nadu,India,SMB,Inactive,2025-05-20
+C1141,Ravi Mehta,ravimehta1140@example.com,9158504834,Bengaluru,Karnataka,India,Corporate,Active,2025-05-21
+C1142,  divya singh  ,divyasingh1141@example.com,8712244648,Chennai,Tamil Nadu,India,Corporate,Active,2025-05-22
+C1143,Rahul Das,rahuldas1142@example.com,7628671512,Delhi,Delhi,India,Corporate,Active,2025-05-23
+C1144,Kiran Naidu,kirannaidu1143@example.com,9861766284,Bengaluru,Karnataka,India,Wholesale,Inactive,2025-05-24
+C1145,Arjun Reddy,,8578548340,Vijayawada,Andhra Pradesh,India,Retail,Active,2025-05-25
+C1146,Kavya Reddy,kavyareddy1145@example.com,7522963425,Hyderabad,Telangana,India,Retail,Active,2025-05-26
+C1147,Isha Gupta,ishagupta1146@example.com,7292797831,Noida,Uttar Pradesh,India,Corporate,Active,2025-05-27
+C1148,Ravi Gupta,ravigupta1147@example.com,9053999508,Bengaluru,Karnataka,India,Corporate,Active,2025-05-28
+C1149,Isha Das,ishadas1148@example.com,7110861281,Ahmedabad,Gujarat,India,Corporate,Active,2025-05-29
+C1150,Rohan Gupta,rohangupta1149@example.com,9173715395,Delhi,Delhi,India,SMB,Inactive,2025-05-30
+C1151,Sneha Rao,sneharao1150@example.com,7580534808,Bengaluru,Karnataka,India,Corporate,Active,2025-05-31
+C1152,Neha Patel,nehapatel1151@example.com,7998800462,Bengaluru,Karnataka,India,SMB,Active,2025-06-01
+C1153,Arjun Mehta,arjunmehta1152@example.com,7343448748,Ahmedabad,Gujarat,India,Retail,Active,2025-06-02
+C1154,Arjun Naidu,arjunnaidu1153@example.com,9360211387,Vijayawada,Andhra Pradesh,India,Wholesale,Active,2025-06-03
+C1155,Swathi Mehta,swathimehta1154@example.com,7524136575,Bengaluru,Karnataka,India,Wholesale,Active,2025-06-04
+C1156,Swathi Sharma,swathisharma1155@example.com,8857564255,Noida,Uttar Pradesh,India,Wholesale,Active,2025-06-05
+C1157,Arjun Mishra,arjunmishra1156@example.com,9552459355,Chennai,Tamil Nadu,India,Wholesale,Active,2025-06-06
+C1158,Kiran Patel,kiranpatel1157@example.com,8339240076,Vijayawada,Andhra Pradesh,India,SMB,Inactive,2025-06-07
+C1159,Ravi Patel,ravipatel1158@example.com,9173862733,Noida,Uttar Pradesh,India,SMB,Active,2025-06-08
+C1160,Ravi Mehta,ravimehta1159@example.com,8887688337,Vijayawada,Andhra Pradesh,India,Corporate,Inactive,2025-06-09
+C1161,Kavya Patel,kavyapatel1160@example.com,8192938460,Noida,Uttar Pradesh,India,SMB,Active,2025-06-10
+C1162,Neha Verma,nehaverma1161@example.com,7453826363,Delhi,Delhi,India,Corporate,Active,2025-06-11
+C1163,Arjun Kumar,arjunkumar1162@example.com,9752328069,Noida,Uttar Pradesh,India,Corporate,Inactive,2025-06-12
+C1164,Ravi Joshi,ravijoshi1163@example.com,7001428127,Mumbai,Maharashtra,India,Wholesale,Active,2025-06-13
+C1165,Manoj Rao,manojrao1164@example.com,7927876956,Noida,Uttar Pradesh,India,SMB,Inactive,2025-06-14
+C1166,Meera Mehta,meeramehta1165@example.com,7075968554,Hyderabad,Telangana,India,SMB,Active,2025-06-15
+C1167,Ananya Rao,ananyarao1166@example.com,9661110013,Hyderabad,Telangana,India,Corporate,Inactive,2025-06-16
+C1168,Amit Reddy,amitreddy1167@example.com,9587946113,Kolkata,West Bengal,India,Corporate,Active,2025-06-17
+C1169,Neha Das,nehadas1168@example.com,9792592443,Mumbai,Maharashtra,India,Retail,Active,2025-06-18
+C1170,Priya Singh,priyasingh1169@example.com,8566796438,Mumbai,Maharashtra,India,Retail,Inactive,2025-06-19
+C1171,Ravi Joshi,ravijoshi1170@example.com,7652941778,Chennai,Tamil Nadu,India,Corporate,Active,2025-06-20
+C1172,Nikhil Kumar,nikhilkumar1171@example.com,8659836702,Mumbai,Maharashtra,India,Retail,Inactive,2025-06-21
+C1173,Rahul Joshi,rahuljoshi1172@example.com,7263494642,Chennai,Tamil Nadu,India,Retail,Active,2025-06-22
+C1174,Kavya Reddy,kavyareddy1173@example.com,9424256004,Kolkata,West Bengal,India,Corporate,Active,2025-06-23
+C1175,Sneha Reddy,snehareddy1174@example.com,7823699361,Kolkata,West Bengal,India,Corporate,Inactive,2025-06-24
+C1176,Rohan Kumar,rohankumar1175@example.com,8974827785,Delhi,Delhi,India,SMB,Active,2025-06-25
+C1177,Divya Joshi,,7909482328,Hyderabad,Telangana,India,Corporate,Active,2025-06-26
+C1178,Meera Singh,meerasingh1177@example.com,7249811585,Noida,Uttar Pradesh,India,Corporate,Active,2025-06-27
+C1179,Ananya Reddy,ananyareddy1178@example.com,9081347965,Noida,Uttar Pradesh,India,Wholesale,Active,2025-06-28
+C1180,Kiran Singh,kiransingh1179@example.com,,Ahmedabad,Gujarat,India,SMB,Active,2025-06-29
+C1181,Rohan Mehta,rohanmehta1180@example.com,9660722590,Ahmedabad,Gujarat,India,SMB,Active,2025-06-30
+C1182,Arjun Joshi,arjunjoshi1181@example.com,9985153591,Pune,Maharashtra,India,SMB,Inactive,2025-07-01
+C1183,Ravi Patel,ravipatel1182@example.com,8277130190,Vijayawada,Andhra Pradesh,India,Wholesale,Active,2025-07-02
+C1184,Ravi Reddy,ravireddy1183@example.com,12345,Delhi,Delhi,India,Corporate,Active,2025-07-03
+C1185,Swathi Naidu,swathinaidu1184@example.com,8027270738,Pune,Maharashtra,India,SMB,Active,2025-07-04
+C1186,Pooja Nair,poojanair1185@example.com,7732999560,Pune,Maharashtra,India,SMB,Inactive,2025-07-05
+C1187,Arjun Gupta,arjungupta1186@example.com,7610956386,Bengaluru,Karnataka,India,Retail,Active,2025-07-06
+C1188,Meera Gupta,meeragupta1187@example.com,7320532628,Bengaluru,Karnataka,India,SMB,Active,2025-07-07
+C1189,Swathi Nair,swathinair1188@example.com,,Pune,Maharashtra,India,Corporate,Active,2025-07-08
+C1190,Priya Nair,priyanair1189@example.com,8302556861,mumbai,Maharashtra,India,Corporate,Active,2025-07-09
+C1191,Pooja Sharma,poojasharma1190@example.com,8139830253,Vijayawada,Andhra Pradesh,India,Retail,Inactive,2025-07-10
+C1192,Rohan Gupta,rohangupta1191@example.com,12345,Delhi,Delhi,India,SMB,Active,2025-07-11
+C1193,Ravi Naidu,,7763500806,Pune,Maharashtra,India,SMB,Inactive,2025-07-12
+C1194,Suresh Rao,sureshrao1193@example.com,9972810319,Noida,Uttar Pradesh,India,SMB,Active,2025-07-13
+C1195,Kavya Verma,kavyaverma1194@example.com,9970476943,Vijayawada,Andhra Pradesh,India,Wholesale,Active,2025-07-14
+C1196,Pooja Verma,poojaverma1195@example.com,7267541243,Bengaluru,Karnataka,India,SMB,Active,2025-07-15
+C1197,Arjun Sharma,arjunsharma1196@example.com,9654511712,Noida,Uttar Pradesh,India,Corporate,Inactive,2025-07-16
+C1198,Amit Joshi,amitjoshi1197@example.com,9187951363,Bengaluru,Karnataka,India,Corporate,Inactive,2025-07-17
+C1199,Vikram Naidu,vikramnaidu1198@example.com,9719528707,Bengaluru,Karnataka,India,Wholesale,Active,2025-07-18
+C1200,Sneha Mishra,snehamishra1199@example.com,7983094823,Vijayawada,Andhra Pradesh,India,Wholesale,Inactive,2025-07-19
+C1201,Isha Kumar,ishakumar1200@example.com,7999204964,Bengaluru,Karnataka,India,SMB,Active,2025-07-20
+C1202,Neha Mehta,nehamehta1201@example.com,9642347366,Kolkata,West Bengal,India,Retail,Active,2025-07-21
+C1203,Kavya Mehta,kavyamehta1202@example.com,7948340091,Hyderabad,Telangana,India,Wholesale,Active,2025-07-22
+C1204,Divya Reddy,divyareddy1203@example.com,8315349299,Kolkata,West Bengal,India,Wholesale,Inactive,2025-07-23
+C1205,Nikhil Joshi,nikhiljoshi1204@example.com,7746261724,Hyderabad,Telangana,India,SMB,Active,2025-07-24
+C1206,Priya Sharma,priyasharma1205@example.com,9679612211,Ahmedabad,Gujarat,India,SMB,Active,2025-07-25
+C1207,Manoj Naidu,manojnaidu1206@example.com,9816311715,Ahmedabad,Gujarat,India,Wholesale,Inactive,2025-07-26
+C1208,Rohan Patel,rohanpatel1207@example.com,9263625851,Bengaluru,Karnataka,India,Retail,Inactive,2025-07-27
+C1209,Pooja Rao,poojarao1208@example.com,8830014182,Delhi,Delhi,India,Wholesale,Active,2025-07-28
+C1210,Nikhil Rao,nikhilrao1209@example.com,7561396798,Delhi,Delhi,India,SMB,Inactive,2025-07-29
+C1211,Suresh Joshi,sureshjoshi1210@example.com,8738596030,Hyderabad,Telangana,India,SMB,Active,2025-07-30
+C1212,Rahul Kumar,rahulkumar1211@example.com,8931810365,Noida,Uttar Pradesh,India,Wholesale,Active,2025-07-31
+C1213,Neha Singh,nehasingh1212@example.com,9809234175,Vijayawada,Andhra Pradesh,India,Retail,Active,2025-08-01
+C1214,Divya Joshi,divyajoshi1213@example.com,7835897340,Bengaluru,Karnataka,India,Wholesale,Inactive,2025-08-02
+C1215,Rahul Verma,rahulverma1214@example.com,8521433058,Vijayawada,Andhra Pradesh,India,Wholesale,Inactive,2025-08-03
+C1216,Sneha Rao,sneharao1215@example.com,8579514374,Kolkata,West Bengal,India,SMB,Inactive,2025-08-04
+C1217,Amit Patel,amitpatel1216@example.com,9257025178,Delhi,Delhi,India,Retail,Active,2025-08-05
+C1218,Nikhil Reddy,nikhilreddy1217@example.com,8778673755,Mumbai,Maharashtra,India,Corporate,Active,2025-08-06
+C1219,Neha Patel,nehapatel1218@example.com,9068605909,Kolkata,West Bengal,India,Retail,Active,2025-08-07
+C1220,Kavya Mishra,kavyamishra1219@example.com,7759724486,Kolkata,West Bengal,India,Wholesale,Active,2025-08-08
+C1221,Swathi Joshi,swathijoshi1220@example.com,8662490620,Hyderabad,Telangana,India,Wholesale,Active,2025-08-09
+C1222,Pooja Mehta,poojamehta1221@example.com,7047378941,Chennai,Tamil Nadu,India,Wholesale,Active,2025-08-10
+C1223,Manoj Kumar,manojkumar1222@example.com,8067644086,Kolkata,West Bengal,India,Retail,Active,2025-08-11
+C1224,Manoj Joshi,manojjoshi1223@example.com,8787367809,Bengaluru,Karnataka,India,SMB,Active,2025-08-12
+C1225,Rahul Iyer,rahuliyer1224@example.com,7574682685,Pune,Maharashtra,India,Wholesale,Active,2025-08-13
+C1226,Kiran Joshi,kiranjoshi1225@example.com,9067357402,Pune,Maharashtra,India,Wholesale,Inactive,2025-08-14
+C1227,Ravi Iyer,raviiyer1226@example.com,8797790100,Bengaluru,Karnataka,India,Retail,Active,2025-08-15
+C1228,Ravi Nair,ravinair1227@example.com,7082430197,Chennai,Tamil Nadu,India,Corporate,Inactive,2025-08-16
+C1229,Priya Mehta,priyamehta1228@example.com,8115889230,Chennai,Tamil Nadu,India,Corporate,Inactive,2025-08-17
+C1230,Kavya Naidu,kavyanaidu1229@example.com,9500307604,Hyderabad,Telangana,India,SMB,Active,2025-08-18
+C1231,Neha Mishra,nehamishra1230@example.com,9924764630,Delhi,Delhi,India,SMB,Active,2025-08-19
+C1232,Ravi Mishra,ravimishra1231@example.com,7588881721,Vijayawada,Andhra Pradesh,India,Wholesale,Inactive,2025-08-20
+C1233,Vikram Nair,vikramnair1232@example.com,7814733175,Chennai,Tamil Nadu,India,Retail,Active,2025-08-21
+C1234,Rahul Rao,rahulrao1233@example.com,9299139494,Mumbai,Maharashtra,India,Wholesale,Active,2025-08-22
+C1235,  arjun joshi  ,arjunjoshi1234@example.com,9658362244,Hyderabad,Telangana,India,SMB,Active,2025-08-23
+C1236,Kavya Reddy,kavyareddy1235@example.com,7924284992,Ahmedabad,Gujarat,India,Retail,Active,2025-08-24
+C1237,Rahul Rao,rahulrao1236@example.com,8389423628,Noida,Uttar Pradesh,India,Retail,Active,2025-08-25
+C1238,Meera Joshi,meerajoshi1237@example.com,7052058324,Ahmedabad,Gujarat,India,SMB,Active,2025-08-26
+C1239,Rahul Nair,rahulnair1238@example.com,8035952369,Hyderabad,Telangana,India,Corporate,Inactive,2025-08-27
+C1240,Rohan Mehta,rohanmehta1239@example.com,9702817772,Kolkata,West Bengal,India,Corporate,Active,2025-08-28
+C1241,Meera Mehta,meeramehta1240@example.com,7854081204,Vijayawada,Andhra Pradesh,India,Retail,Active,2025-08-29
+C1242,Isha Singh,ishasingh1241@example.com,7277526500,Noida,Uttar Pradesh,India,Wholesale,Inactive,2025-08-30
+C1243,Divya Iyer,divyaiyer1242@example.com,12345,Ahmedabad,Gujarat,India,Corporate,Active,2025-08-31
+C1244,Kavya Singh,kavyasingh1243@example.com,9095317155,Noida,Uttar Pradesh,India,Wholesale,Inactive,2025-09-01
+C1245,  vikram patel  ,vikrampatel1244@example.com,8595187664,Mumbai,Maharashtra,India,Corporate,Active,2025-09-02
+C1246,Ravi Mehta,ravimehta1245@example.com,7471313378,Mumbai,Maharashtra,India,Corporate,Inactive,2025-09-03
+C1247,Rahul Verma,rahulverma1246@example.com,8141821936,Mumbai,Maharashtra,India,Wholesale,Active,2025-09-04
+C1248,Pooja Rao,poojarao1247@example.com,,Hyderabad,Telangana,India,smb,Inactive,2025-09-05
+C1249,Rahul Patel,rahulpatel1248@example.com,9774935946,Vijayawada,Andhra Pradesh,India,Corporate,Active,2025-09-06
+C1250,Priya Patel,priyapatel1249@example.com,8951535806,Hyderabad,Telangana,India,Corporate,Inactive,2025-09-07
+C1251,Pooja Iyer,poojaiyer1250@example.com,9144622484,Pune,Maharashtra,India,Wholesale,Active,2025-09-08
+C1252,Manoj Iyer,manojiyer1251@example.com,8142544127,Kolkata,West Bengal,India,SMB,Active,2025-09-09
+C1253,Ravi Gupta,ravigupta1252@example.com,7421261494,Kolkata,West Bengal,India,Corporate,Active,2025-09-10
+C1254,Rahul Mishra,rahulmishra1253@example.com,7640971380,Mumbai,Maharashtra,India,Corporate,Inactive,2025-09-11
+C1255,Sneha Gupta,snehagupta1254@example.com,9096979737,Pune,Maharashtra,India,SMB,Active,2025-09-12
+C1256,Kavya Verma,kavyaverma1255@example.com,7546318845,Chennai,Tamil Nadu,India,Corporate,Inactive,2025-09-13
+C1257,Priya Kumar,priyakumar1256@example.com,7644454083,Chennai,Tamil Nadu,India,SMB,Inactive,2025-09-14
+C1258,Isha Gupta,ishagupta1257@example.com,8394472499,Mumbai,Maharashtra,India,SMB,Active,2025-09-15
+C1259,Divya Sharma,divyasharma1258@example.com,8045729903,Ahmedabad,Gujarat,India,Wholesale,Inactive,2025-09-16
+C1260,Arjun Joshi,arjunjoshi1259@example.com,12345,Hyderabad,Telangana,India,Retail,Active,2025-09-17
+C1261,Ravi Kumar,ravikumar1260@example.com,9044482279,Mumbai,Maharashtra,India,SMB,Active,2025-09-18
+C1262,Manoj Das,manojdas1261@example.com,8614427880,Delhi,Delhi,India,Wholesale,Inactive,2025-09-19
+C1263,Rahul Joshi,rahuljoshi1262@example.com,9637459164,Noida,Uttar Pradesh,India,Retail,Inactive,2025-09-20
+C1264,Arjun Kumar,arjunkumar1263@example.com,8694262707,Kolkata,West Bengal,India,Corporate,Active,2025-09-21
+C1265,Ravi Gupta,ravigupta1264@example.com,8973308837,Chennai,Tamil Nadu,India,Retail,Active,2025-09-22
+C1266,Pooja Das,poojadas1265@example.com,8685318185,Bengaluru,Karnataka,India,SMB,Active,2025-09-23
+C1267,Divya Mishra,divyamishra1266@example.com,7571853424,Chennai,Tamil Nadu,India,SMB,Active,2025-09-24
+C1268,Amit Joshi,amitjoshi1267@example.com,7438728895,Kolkata,West Bengal,India,SMB,Inactive,2025-09-25
+C1269,  meera sharma  ,meerasharma1268@example.com,9829061239,Noida,Uttar Pradesh,India,SMB,Active,2025-09-26
+C1270,Manoj Sharma,manojsharma1269@example.com,8354662280,Kolkata,West Bengal,India,SMB,Active,2025-09-27
+C1271,Arjun Verma,arjunverma1270@example.com,9955516032,Bengaluru,Karnataka,India,Wholesale,Inactive,2025-09-28
+C1272,  rohan iyer  ,rohaniyer1271@example.com,8879491131,Mumbai,Maharashtra,India,SMB,Active,2025-09-29
+C1273,Neha Mishra,nehamishra1272@example.com,7328207919,Pune,Maharashtra,India,Wholesale,Active,2025-09-30
+C1274,Pooja Iyer,poojaiyer1273@example.com,8093802012,Bengaluru,Karnataka,India,Corporate,Inactive,2025-10-01
+C1275,Priya Reddy,priyareddy1274@example.com,8199875168,Kolkata,West Bengal,India,SMB,Active,2025-10-02
+C1276,Kiran Verma,kiranverma1275@example.com,7165039929,Kolkata,West Bengal,India,SMB,Inactive,2025-10-03
+C1277,Sneha Iyer,snehaiyer1276@example.com,8086877695,Delhi,Delhi,India,Retail,Active,2025-10-04
+C1278,Swathi Mishra,swathimishra1277@example.com,8982030612,Delhi,Delhi,India,Corporate,Active,2025-10-05
+C1279,Suresh Mishra,sureshmishra1278@example.com,9736759498,Vijayawada,Andhra Pradesh,India,SMB,Active,2025-10-06
+C1280,Sneha Naidu,snehanaidu1279@example.com,9127950582,Delhi,Delhi,India,SMB,Active,2025-10-07
+C1281,Sneha Iyer,snehaiyer1280@example.com,9831903521,Hyderabad,Telangana,India,Corporate,Active,2025-10-08
+C1282,Rahul Naidu,rahulnaidu1281@example.com,8659355911,Pune,Maharashtra,India,Wholesale,Active,2025-10-09
+C1283,Arjun Kumar,arjunkumar1282@example.com,8933269717,Noida,Uttar Pradesh,India,SMB,Inactive,2025-10-10
+C1284,Arjun Patel,arjunpatel1283@example.com,9734475463,Bengaluru,Karnataka,India,Retail,Inactive,2025-10-11
+C1285,Swathi Kumar,swathikumar1284@example.com,7974805936,Kolkata,West Bengal,India,SMB,Active,2025-10-12
+C1286,Vikram Gupta,vikramgupta1285@example.com,9636824654,Vijayawada,Andhra Pradesh,India,Retail,Active,2025-10-13
+C1287,Rahul Joshi,rahuljoshi1286@example.com,7286268347,Vijayawada,Andhra Pradesh,India,Retail,Active,2025-10-14
+C1288,Rohan Verma,rohanverma1287@example.com,8935396694,Noida,Uttar Pradesh,India,SMB,Active,2025-10-15
+C1289,Amit Verma,amitverma1288@example.com,9226545495,Pune,Maharashtra,India,SMB,Active,2025-10-16
+C1290,Arjun Naidu,arjunnaidu1289@example.com,7644970962,Bengaluru,Karnataka,India,Retail,Active,2025-10-17
+C1291,Rohan Kumar,rohankumar1290@example.com,7453950020,Chennai,Tamil Nadu,India,Corporate,Active,2025-10-18
+C1292,Isha Naidu,ishanaidu1291@example.com,9199976384,Delhi,Delhi,India,Corporate,Inactive,2025-10-19
+C1293,Amit Das,amitdas1292@example.com,8903843414,Mumbai,Maharashtra,India,SMB,Active,2025-10-20
+C1294,Manoj Kumar,manojkumar1293@example.com,9921556068,Vijayawada,Andhra Pradesh,India,Wholesale,Inactive,2025-10-21
+C1295,Sneha Joshi,snehajoshi1294@example.com,7205431815,Delhi,Delhi,India,Corporate,Active,2025-10-22
+C1296,Kiran Reddy,kiranreddy1295@example.com,7178983756,Delhi,Delhi,India,SMB,Active,2025-10-23
+C1297,Divya Naidu,divyanaidu1296@example.com,7163302599,Hyderabad,Telangana,India,Corporate,Active,2025-10-24
+C1298,Vikram Joshi,vikramjoshi1297@example.com,,Pune,Maharashtra,India,Wholesale,Active,2025-10-25
+C1299,Meera Nair,meeranair1298@example.com,9830536064,Mumbai,Maharashtra,India,SMB,Inactive,2025-10-26
+C1300,Isha Reddy,ishareddy1299@example.com,7309599852,Chennai,Tamil Nadu,India,Wholesale,Active,2025-10-27
+C1301,Nikhil Singh,nikhilsingh1300@example.com,7306045335,Kolkata,West Bengal,India,SMB,Active,2025-10-28
+C1302,Rahul Reddy,rahulreddy1301@example.com,7452550114,Hyderabad,Telangana,India,Wholesale,Active,2025-10-29
+C1303,Divya Naidu,divyanaidu1302@example.com,7052005527,Delhi,Delhi,India,Corporate,Active,2025-10-30
+C1304,Isha Das,ishadas1303@example.com,7152775696,Delhi,Delhi,India,Corporate,Inactive,2025-10-31
+C1305,Sneha Singh,snehasingh1304@example.com,9184331411,Ahmedabad,Gujarat,India,Wholesale,Active,2025-11-01
+C1306,Kavya Naidu,kavyanaidu1305@example.com,8664708839,Mumbai,Maharashtra,India,Wholesale,Inactive,2025-11-02
+C1307,Vikram Mishra,vikrammishra1306@example.com,8517203257,Mumbai,Maharashtra,India,Wholesale,Inactive,2025-11-03
+C1308,Pooja Iyer,poojaiyer1307@example.com,8984047006,Ahmedabad,Gujarat,India,SMB,Active,2025-11-04
+C1309,Vikram Mehta,vikrammehta1308@example.com,8273610605,Mumbai,Maharashtra,India,Corporate,Active,2025-11-05
+C1310,Rahul Reddy,rahulreddy1309@example.com,8501963914,Delhi,Delhi,India,SMB,Active,2025-11-06
+C1311,Suresh Das,sureshdas1310@example.com,9840565126,Vijayawada,Andhra Pradesh,India,Corporate,Active,2025-11-07
+C1312,Swathi Nair,swathinair1311@example.com,,Bengaluru,Karnataka,India,Retail,Active,2025-11-08
+C1313,Divya Naidu,divyanaidu1312@example.com,8524032050,Delhi,Delhi,India,SMB,Active,2025-11-09
+C1314,Pooja Iyer,poojaiyer1313@example.com,7747793898,Hyderabad,Telangana,India,Corporate,Active,2025-11-10
+C1315,Divya Kumar,divyakumar1314@example.com,8770088889,Pune,Maharashtra,India,Corporate,Active,2025-11-11
+C1316,Ananya Verma,ananyaverma1315@example.com,7422606084,Ahmedabad,Gujarat,India,SMB,Active,2025-11-12
+C1317,Meera Mishra,meeramishra1316@example.com,9360582916,Chennai,Tamil Nadu,India,SMB,Inactive,2025-11-13
+C1318,Neha Iyer,nehaiyer1317@example.com,9835978589,Kolkata,West Bengal,India,Corporate,Active,2025-11-14
+C1319,Kiran Sharma,kiransharma1318@example.com,7295119367,Chennai,Tamil Nadu,India,SMB,Active,2025-11-15
+C1320,Priya Singh,priyasingh1319@example.com,8138365759,Delhi,Delhi,India,Wholesale,Active,2025-11-16
+C1321,Rahul Rao,rahulrao1320@example.com,8822341257,Hyderabad,Telangana,India,SMB,Active,2025-11-17
+C1322,Manoj Gupta,manojgupta1321@example.com,7089957925,Delhi,Delhi,India,SMB,Active,2025-11-18
+C1323,Kavya Mishra,kavyamishra1322@example.com,7354840174,Pune,Maharashtra,India,SMB,Inactive,2025-11-19
+C1324,Ravi Rao,ravirao1323@example.com,7352924639,Vijayawada,Andhra Pradesh,India,Corporate,Inactive,2025-11-20
+C1325,Isha Kumar,ishakumar1324@example.com,9210437487,Kolkata,West Bengal,India,Wholesale,Active,2025-11-21
+C1326,  vikram naidu  ,vikramnaidu1325@example.com,8268925662,Pune,Maharashtra,India,Retail,Active,2025-11-22
+C1327,Amit Patel,amitpatel1326@example.com,7978575719,Ahmedabad,Gujarat,India,Retail,Inactive,2025-11-23
+C1328,Sneha Rao,sneharao1327@example.com,9682909592,Ahmedabad,Gujarat,India,Wholesale,Active,2025-11-24
+C1329,Manoj Mishra,manojmishra1328@example.com,8640418241,Delhi,Delhi,India,Wholesale,Active,2025-11-25
+C1330,Divya Rao,divyarao1329@example.com,12345,Hyderabad,Telangana,India,Wholesale,Active,2025-11-26
+C1331,Vikram Das,vikramdas1330@example.com,7883420081,Pune,Maharashtra,India,Corporate,Active,2025-11-27
+C1332,Pooja Iyer,poojaiyer1331@example.com,7044786626,Noida,Uttar Pradesh,India,Retail,Active,2025-11-28
+C1333,Manoj Verma,manojverma1332@example.com,7521350704,Hyderabad,Telangana,India,Wholesale,Active,2025-11-29
+C1334,Arjun Mishra,arjunmishra1333@example.com,8096992547,Vijayawada,Andhra Pradesh,India,Corporate,Active,2025-11-30
+C1335,Amit Sharma,amitsharma1334@example.com,9641460605,Ahmedabad,Gujarat,India,Retail,Active,2025-12-01
+C1336,Isha Joshi,ishajoshi1335@example.com,8119755075,Delhi,Delhi,India,SMB,Active,2025-12-02
+C1337,Neha Mishra,nehamishra1336@example.com,7297444968,Mumbai,Maharashtra,India,Corporate,Active,2025-12-03
+C1338,Kiran Verma,kiranverma1337@example.com,9765547688,Ahmedabad,Gujarat,India,Retail,Active,2025-12-04
+C1339,Ravi Reddy,ravireddy1338@example.com,,Kolkata,West Bengal,India,Corporate,Active,2025-12-05
+C1340,Amit Joshi,amitjoshi1339@example.com,9054090870,Bengaluru,Karnataka,India,Retail,Inactive,2025-12-06
+C1341,Rohan Naidu,rohannaidu1340@example.com,7180179133,Mumbai,Maharashtra,India,Retail,Active,2025-12-07
+C1342,Ravi Rao,ravirao1341@example.com,8383905033,Delhi,Delhi,India,SMB,Active,2025-12-08
+C1343,Ananya Iyer,ananyaiyer1342@example.com,7537874083,Noida,Uttar Pradesh,India,Corporate,Inactive,2025-12-09
+C1344,Divya Mishra,divyamishra1343@example.com,8257661067,Mumbai,Maharashtra,India,Wholesale,Active,2025-12-10
+C1345,  amit mishra  ,amitmishra1344@example.com,9037258074,Kolkata,West Bengal,India,SMB,Active,2025-12-11
+C1346,Nikhil Singh,nikhilsingh1345@example.com,7489440001,Hyderabad,Telangana,India,SMB,Inactive,2025-12-12
+C1347,Kavya Rao,kavyarao1346@example.com,9585061749,Noida,Uttar Pradesh,India,Retail,Inactive,2025-12-13
+C1348,Suresh Joshi,sureshjoshi1347@example.com,9087420684,Ahmedabad,Gujarat,India,Wholesale,Active,2025-12-14
+C1349,Rahul Patel,rahulpatel1348@example.com,9501486260,Noida,Uttar Pradesh,India,Corporate,Inactive,2025-12-15
+C1350,Arjun Reddy,arjunreddy1349@example.com,9236682127,Pune,Maharashtra,India,Wholesale,Active,2025-12-16
+C1351,  isha naidu  ,ishanaidu1350@example.com,9647846175,Kolkata,West Bengal,India,Wholesale,Active,2025-12-17
+C1352,Swathi Nair,swathinair1351@example.com,9819554171,Mumbai,Maharashtra,India,Wholesale,Active,2025-12-18
+C1353,Kiran Kumar,kirankumar1352@example.com,7672756961,Pune,Maharashtra,India,Wholesale,Active,2025-12-19
+C1354,Meera Nair,meeranair1353@example.com,7550167050,Noida,Uttar Pradesh,India,Wholesale,Inactive,2025-12-20
+C1355,Ravi Singh,ravisingh1354@example.com,7187843081,Pune,Maharashtra,India,Retail,Active,2025-12-21
+C1356,Arjun Verma,arjunverma1355@example.com,8452847886,Chennai,Tamil Nadu,India,Retail,Active,2025-12-22
+C1357,Suresh Joshi,sureshjoshi1356@example.com,7475916560,Kolkata,West Bengal,India,SMB,Active,2025-12-23
+C1358,Pooja Gupta,poojagupta1357@example.com,9570673553,Vijayawada,Andhra Pradesh,India,Retail,Active,2025-12-24
+C1359,Ananya Joshi,ananyajoshi1358@example.com,7964716726,Hyderabad,Telangana,India,SMB,Inactive,2025-12-25
+C1360,Neha Iyer,nehaiyer1359@example.com,7408072136,Noida,Uttar Pradesh,India,SMB,Active,2025-12-26
+C1361,Sneha Iyer,snehaiyer1360@example.com,,Kolkata,West Bengal,India,Corporate,Inactive,2025-12-27
+C1362,Neha Iyer,nehaiyer1361@example.com,8614877159,Vijayawada,Andhra Pradesh,India,Wholesale,Active,2025-12-28
+C1363,Swathi Joshi,swathijoshi1362@example.com,8855756090,Vijayawada,Andhra Pradesh,India,Retail,Active,2025-12-29
+C1364,Rahul Naidu,rahulnaidu1363@example.com,9362626893,Delhi,Delhi,India,Corporate,Active,2025-12-30
+C1365,Sneha Das,snehadas1364@example.com,8887230075,Pune,Maharashtra,India,Retail,Active,2025-12-31
+C1366,Rohan Naidu,rohannaidu1365@example.com,8669251065,Vijayawada,Andhra Pradesh,India,SMB,Active,2026-01-01
+C1367,Ravi Singh,ravisingh1366@example.com,9632555480,Chennai,Tamil Nadu,India,Retail,Active,2026-01-02
+C1368,Isha Mishra,ishamishra1367@example.com,7703016561,Kolkata,West Bengal,India,Wholesale,Active,2026-01-03
+C1369,Kavya Mishra,kavyamishra1368@example.com,8175924723,Bengaluru,Karnataka,India,SMB,Active,2026-01-04
+C1370,Amit Mehta,amitmehta1369@example.com,8033767325,Bengaluru,Karnataka,India,SMB,Active,2026-01-05
+C1371,Arjun Mishra,arjunmishra1370@example.com,7521844436,Noida,Uttar Pradesh,India,Corporate,Active,2026-01-06
+C1372,Ananya Sharma,ananyasharma1371@example.com,9903321771,Ahmedabad,Gujarat,India,Wholesale,Active,2026-01-07
+C1373,Manoj Singh,manojsingh1372@example.com,7848129311,Pune,Maharashtra,India,SMB,Inactive,2026-01-08
+C1374,Nikhil Naidu,nikhilnaidu1373@example.com,9130509234,Ahmedabad,Gujarat,India,Wholesale,Active,2026-01-09
+C1375,Priya Iyer,priyaiyer1374@example.com,7054610032,Vijayawada,Andhra Pradesh,India,Retail,Inactive,2026-01-10
+C1376,Swathi Das,swathidas1375@example.com,9773736311,Kolkata,West Bengal,India,Wholesale,Active,2026-01-11
+C1377,Amit Singh,amitsingh1376@example.com,8227960290,Noida,Uttar Pradesh,India,SMB,Inactive,2026-01-12
+C1378,Ravi Rao,ravirao1377@example.com,9883876985,Mumbai,Maharashtra,India,Corporate,Active,2026-01-13
+C1379,Ravi Sharma,ravisharma1378@example.com,8361171677,Vijayawada,Andhra Pradesh,India,SMB,Active,2026-01-14
+C1380,Nikhil Kumar,nikhilkumar1379@example.com,8109955339,Pune,Maharashtra,India,Wholesale,Active,2026-01-15
+C1381,Suresh Singh,sureshsingh1380@example.com,9336533422,Bengaluru,Karnataka,India,Wholesale,Inactive,2026-01-16
+C1382,Rohan Mishra,rohanmishra1381@example.com,8083366929,Delhi,Delhi,India,SMB,Active,2026-01-17
+C1383,Ravi Sharma,ravisharma1382@example.com,,Kolkata,West Bengal,India,Wholesale,Active,2026-01-18
+C1384,Kiran Reddy,kiranreddy1383@example.com,7949459965,Hyderabad,Telangana,India,Retail,Active,2026-01-19
+C1385,Ravi Singh,ravisingh1384@example.com,8978002068,Ahmedabad,Gujarat,India,SMB,Inactive,2026-01-20
+C1386,Kavya Verma,kavyaverma1385@example.com,9395789549,Noida,Uttar Pradesh,India,Corporate,Inactive,2026-01-21
+C1387,Ananya Joshi,ananyajoshi1386@example.com,7775647894,Ahmedabad,Gujarat,India,SMB,Inactive,2026-01-22
+C1388,Rohan Singh,rohansingh1387@example.com,9818193643,Kolkata,West Bengal,India,Retail,Active,2026-01-23
+C1389,Rahul Rao,rahulrao1388@example.com,7231319263,Ahmedabad,Gujarat,India,Retail,Inactive,2026-01-24
+C1390,Arjun Singh,arjunsingh1389@example.com,7762050762,Kolkata,West Bengal,India,Retail,Active,2026-01-25
+C1391,Rahul Singh,rahulsingh1390@example.com,,Ahmedabad,Gujarat,India,Retail,Active,2026-01-26
+C1392,Rahul Iyer,rahuliyer1391@example.com,9340872789,Chennai,Tamil Nadu,India,Retail,Inactive,2026-01-27
+C1393,  pooja reddy  ,poojareddy1392@example.com,8156769112,Mumbai,Maharashtra,India,Corporate,Active,2026-01-28
+C1394,Rohan Singh,rohansingh1393@example.com,9317376347,Vijayawada,Andhra Pradesh,India,Wholesale,Active,2026-01-29
+C1395,Meera Naidu,meeranaidu1394@example.com,7185429788,Vijayawada,Andhra Pradesh,India,Retail,Active,2026-01-30
+C1396,Meera Kumar,meerakumar1395@example.com,7707874257,Pune,Maharashtra,India,Retail,Active,2026-01-31
+C1397,Manoj Mishra,manojmishra1396@example.com,7463614721,Hyderabad,Telangana,India,SMB,Active,2026-02-01
+C1398,Amit Patel,amitpatel1397@example.com,7565770780,Hyderabad,Telangana,India,Corporate,Active,2026-02-02
+C1399,Ravi Kumar,ravikumar1398@example.com,9943332564,Pune,Maharashtra,India,Corporate,Active,2026-02-03
+C1400,Neha Sharma,,7394582451,Delhi,Delhi,India,Wholesale,Active,2026-02-04
+C1401,  neha verma  ,nehaverma1400@example.com,7917024350,Vijayawada,Andhra Pradesh,India,Corporate,Active,2026-02-05
+C1402,Priya Rao,priyarao1401@example.com,9097636814,Delhi,Delhi,India,SMB,Inactive,2026-02-06
+C1403,Arjun Das,arjundas1402@example.com,9172620786,Kolkata,West Bengal,India,SMB,Active,2026-02-07
+C1404,Swathi Joshi,swathijoshi1403@example.com,7647148950,kolkata,West Bengal,India,Wholesale,Active,2026-02-08
+C1405,Ravi Rao,ravirao1404@example.com,8470526507,Bengaluru,Karnataka,India,SMB,Inactive,2026-02-09
+C1406,  divya singh  ,divyasingh1405@example.com,8775610133,Ahmedabad,Gujarat,India,Retail,Inactive,2026-02-10
+C1407,Rohan Nair,rohannair1406@example.com,9328891050,hyderabad,Telangana,India,Retail,Active,2026-02-11
+C1408,Nikhil Verma,nikhilverma1407@example.com,9535524028,Bengaluru,Karnataka,India,SMB,Active,2026-02-12
+C1409,Nikhil Singh,nikhilsingh1408@example.com,9183391927,Mumbai,Maharashtra,India,Wholesale,Active,2026-02-13
+C1410,Meera Sharma,meerasharma1409@example.com,9628264450,Pune,Maharashtra,India,Corporate,Active,2026-02-14
+C1411,Suresh Reddy,sureshreddy1410@example.com,8277960894,Pune,Maharashtra,India,Wholesale,Active,2026-02-15
+C1412,Vikram Rao,vikramrao1411@example.com,7454968949,Kolkata,West Bengal,India,Corporate,Active,2026-02-16
+C1413,Priya Rao,priyarao1412@example.com,9426750994,Vijayawada,Andhra Pradesh,India,SMB,Inactive,2026-02-17
+C1414,Swathi Sharma,swathisharma1413@example.com,7650985494,Delhi,Delhi,India,SMB,Inactive,2026-02-18
+C1415,Swathi Mehta,swathimehta1414@example.com,9958739868,Hyderabad,Telangana,India,Retail,Inactive,2026-02-19
+C1416,Nikhil Das,nikhildas1415@example.com,7402682909,Bengaluru,Karnataka,India,Corporate,Active,2026-02-20
+C1417,Manoj Nair,manojnair1416@example.com,9478938219,Delhi,Delhi,India,Wholesale,Active,2026-02-21
+C1418,Priya Patel,priyapatel1417@example.com,9732850542,Bengaluru,Karnataka,India,SMB,Inactive,2026-02-22
+C1419,Ananya Kumar,,8863159012,ahmedabad,Gujarat,India,Wholesale,Active,2026-02-23
+C1420,  nikhil joshi  ,nikhiljoshi1419@example.com,7687502446,Mumbai,Maharashtra,India,Retail,Active,2026-02-24
+C1421,Pooja Reddy,,7690837639,Mumbai,Maharashtra,India,Corporate,Active,2026-02-25
+C1422,Rohan Singh,rohansingh1421@example.com,8982374249,Delhi,Delhi,India,Corporate,Active,2026-02-26
+C1423,Sneha Iyer,snehaiyer1422@example.com,9396773561,Delhi,Delhi,India,SMB,Active,2026-02-27
+C1424,Rohan Iyer,rohaniyer1423@example.com,7040078991,Delhi,Delhi,India,Corporate,Inactive,2026-02-28
+C1425,Rohan Joshi,rohanjoshi1424@example.com,8059477632,Bengaluru,Karnataka,India,SMB,Active,2026-03-01
+C1426,Isha Gupta,ishagupta1425@example.com,8193580419,Ahmedabad,Gujarat,India,Retail,Inactive,2026-03-02
+C1427,Rahul Sharma,rahulsharma1426@example.com,7425966695,Chennai,Tamil Nadu,India,Corporate,Inactive,2026-03-03
+C1428,Ananya Singh,ananyasingh1427@example.com,7833025506,Delhi,Delhi,India,SMB,Active,2026-03-04
+C1429,Priya Mishra,priyamishra1428@example.com,8724404959,Vijayawada,Andhra Pradesh,India,Wholesale,Inactive,2026-03-05
+C1430,Suresh Das,sureshdas1429@example.com,9824200033,Hyderabad,Telangana,India,SMB,Active,2026-03-06
+C1431,Kavya Das,kavyadas1430@example.com,7876326378,Hyderabad,Telangana,India,Corporate,Active,2026-03-07
+C1432,Manoj Nair,manojnair1431@example.com,8335429592,Bengaluru,Karnataka,India,Retail,Inactive,2026-03-08
+C1433,Kavya Nair,kavyanair1432@example.com,9384071689,Delhi,Delhi,India,Corporate,Active,2026-03-09
+C1434,Suresh Rao,sureshrao1433@example.com,9645637350,Kolkata,West Bengal,India,Corporate,Active,2026-03-10
+C1435,Kavya Gupta,kavyagupta1434@example.com,9641311450,Pune,Maharashtra,India,SMB,Active,2026-03-11
+C1436,Sneha Gupta,snehagupta1435@example.com,7807560090,Chennai,Tamil Nadu,India,Wholesale,Active,2026-03-12
+C1437,Sneha Gupta,snehagupta1436@example.com,9954439745,Vijayawada,Andhra Pradesh,India,Corporate,Active,2026-03-13
+C1438,Arjun Reddy,arjunreddy1437@example.com,8526365096,Ahmedabad,Gujarat,India,Wholesale,Active,2026-03-14
+C1439,Swathi Mishra,swathimishra1438@example.com,8611729007,Kolkata,West Bengal,India,SMB,Active,2026-03-15
+C1440,Manoj Reddy,manojreddy1439@example.com,9313680264,Mumbai,Maharashtra,India,Wholesale,Active,2026-03-16
+C1441,Rahul Sharma,rahulsharma1440@example.com,9380384755,Kolkata,West Bengal,India,SMB,Active,2026-03-17
+C1442,Pooja Mishra,poojamishra1441@example.com,9251246499,Bengaluru,Karnataka,India,Retail,Active,2026-03-18
+C1443,Ananya Kumar,ananyakumar1442@example.com,7022461013,Chennai,Tamil Nadu,India,Wholesale,Active,2026-03-19
+C1444,Rahul Naidu,rahulnaidu1443@example.com,7151661109,Noida,Uttar Pradesh,India,Wholesale,Active,2026-03-20
+C1445,Divya Iyer,divyaiyer1444@example.com,7047380429,Noida,Uttar Pradesh,India,Retail,Active,2026-03-21
+C1446,Meera Sharma,meerasharma1445@example.com,7869647373,Delhi,Delhi,India,Wholesale,Inactive,2026-03-22
+C1447,Rohan Mehta,rohanmehta1446@example.com,8580293496,Delhi,Delhi,India,Retail,Active,2026-03-23
+C1448,Amit Das,amitdas1447@example.com,9913614867,Bengaluru,Karnataka,India,Corporate,Active,2026-03-24
+C1449,Kiran Iyer,kiraniyer1448@example.com,8404160586,Ahmedabad,Gujarat,India,SMB,Inactive,2026-03-25
+C1450,Nikhil Naidu,nikhilnaidu1449@example.com,7639469298,Delhi,Delhi,India,Retail,Active,2026-03-26
+C1451,Nikhil Gupta,nikhilgupta1450@example.com,8312560118,Pune,Maharashtra,India,Wholesale,Active,2026-03-27
+C1452,Suresh Nair,sureshnair1451@example.com,9020004933,Chennai,Tamil Nadu,India,Retail,Active,2026-03-28
+C1453,Kavya Mishra,kavyamishra1452@example.com,9156289234,Bengaluru,Karnataka,India,Wholesale,Inactive,2026-03-29
+C1454,Rohan Iyer,rohaniyer1453@example.com,7535642809,Hyderabad,Telangana,India,Corporate,Active,2026-03-30
+C1455,Sneha Kumar,snehakumar1454@example.com,8581877379,Mumbai,Maharashtra,India,Retail,Active,2026-03-31
+C1456,Neha Kumar,nehakumar1455@example.com,8655176814,Bengaluru,Karnataka,India,Corporate,Inactive,2026-04-01
+C1457,Arjun Mishra,arjunmishra1456@example.com,8926767996,Bengaluru,Karnataka,India,SMB,Inactive,2026-04-02
+C1458,  isha nair  ,ishanair1457@example.com,9763232387,Noida,Uttar Pradesh,India,Wholesale,Active,2026-04-03
+C1459,Nikhil Nair,nikhilnair1458@example.com,7932905973,Vijayawada,Andhra Pradesh,India,Wholesale,Inactive,2026-04-04
+C1460,Meera Iyer,meeraiyer1459@example.com,9547106018,Ahmedabad,Gujarat,India,Corporate,Active,2026-04-05
+C1461,Meera Gupta,meeragupta1460@example.com,7591944857,Vijayawada,Andhra Pradesh,India,SMB,Active,2026-04-06
+C1462,Priya Mishra,priyamishra1461@example.com,8681590052,Pune,Maharashtra,India,Retail,Inactive,2026-04-07
+C1463,Meera Das,meeradas1462@example.com,9847743717,Hyderabad,Telangana,India,Retail,Active,2026-04-08
+C1464,Manoj Verma,manojverma1463@example.com,8772197332,Noida,Uttar Pradesh,India,Wholesale,Active,2026-04-09
+C1465,Arjun Nair,arjunnair1464@example.com,7008074037,Hyderabad,Telangana,India,Corporate,Active,2026-04-10
+C1466,Meera Das,meeradas1465@example.com,9987657191,Pune,Maharashtra,India,Corporate,Active,2026-04-11
+C1467,Nikhil Joshi,nikhiljoshi1466@example.com,7766104422,Vijayawada,Andhra Pradesh,India,Retail,Inactive,2026-04-12
+C1468,Amit Sharma,amitsharma1467@example.com,7013822356,Bengaluru,Karnataka,India,SMB,Active,2026-04-13
+C1469,Ananya Reddy,ananyareddy1468@example.com,7124860617,Delhi,Delhi,India,SMB,Inactive,2026-04-14
+C1470,Manoj Nair,manojnair1469@example.com,9661115941,Delhi,Delhi,India,Retail,Active,2026-04-15
+C1471,Rahul Joshi,rahuljoshi1470@example.com,7716766125,Kolkata,West Bengal,India,Retail,Active,2026-04-16
+C1472,Pooja Verma,,8526830851,Mumbai,Maharashtra,India,Corporate,Active,2026-04-17
+C1473,Rohan Verma,rohanverma1472@example.com,7778760379,Ahmedabad,Gujarat,India,SMB,Inactive,2026-04-18
+C1474,Divya Naidu,divyanaidu1473@example.com,8665045420,Pune,Maharashtra,India,Retail,Active,2026-04-19
+C1475,Rohan Mishra,rohanmishra1474@example.com,7399391763,Mumbai,Maharashtra,India,Retail,Active,2026-04-20
+C1476,Isha Naidu,ishanaidu1475@example.com,8727981840,Ahmedabad,Gujarat,India,Wholesale,Active,2026-04-21
+C1477,Sneha Iyer,snehaiyer1476@example.com,9526309494,Mumbai,Maharashtra,India,Retail,Active,2026-04-22
+C1478,Arjun Naidu,arjunnaidu1477@example.com,9065762819,Vijayawada,Andhra Pradesh,India,Retail,Active,2026-04-23
+C1479,Amit Sharma,amitsharma1478@example.com,9190904540,Ahmedabad,Gujarat,India,SMB,Active,2026-04-24
+C1480,Nikhil Patel,nikhilpatel1479@example.com,9758767117,Vijayawada,Andhra Pradesh,India,Corporate,Inactive,2026-04-25
+C1481,  nikhil rao  ,nikhilrao1480@example.com,7278544087,Bengaluru,Karnataka,India,SMB,Inactive,2026-04-26
+C1482,Priya Nair,priyanair1481@example.com,7447266532,Noida,Uttar Pradesh,India,Corporate,Active,2026-04-27
+C1483,Neha Gupta,nehagupta1482@example.com,9491011407,Vijayawada,Andhra Pradesh,India,Wholesale,Active,2026-04-28
+C1484,  rohan joshi  ,rohanjoshi1483@example.com,7968252089,Delhi,Delhi,India,Retail,Active,2026-04-29
+C1485,Manoj Iyer,manojiyer1484@example.com,9411557942,Mumbai,Maharashtra,India,Wholesale,Active,2026-04-30
+C1486,Kiran Singh,kiransingh1485@example.com,9408016771,Kolkata,West Bengal,India,Corporate,Active,2026-05-01
+C1487,Ananya Patel,ananyapatel1486@example.com,7226791287,Chennai,Tamil Nadu,India,SMB,Active,2026-05-02
+C1488,Priya Das,priyadas1487@example.com,9591959805,Ahmedabad,Gujarat,India,SMB,Active,2026-05-03
+C1489,Amit Rao,amitrao1488@example.com,9089921047,Pune,Maharashtra,India,Wholesale,Inactive,2026-05-04
+C1490,Rahul Naidu,rahulnaidu1489@example.com,9905407649,Kolkata,West Bengal,India,Corporate,Active,2026-05-05
+C1491,Ravi Singh,ravisingh1490@example.com,9574270109,delhi,Delhi,India,Wholesale,Inactive,2026-05-06
+C1492,Ananya Rao,ananyarao1491@example.com,9586195858,Vijayawada,Andhra Pradesh,India,Wholesale,Active,2026-05-07
+C1493,Kavya Patel,kavyapatel1492@example.com,8158871198,Noida,Uttar Pradesh,India,Retail,Inactive,2026-05-08
+C1494,Suresh Mehta,sureshmehta1493@example.com,7098495675,Bengaluru,Karnataka,India,Wholesale,Active,2026-05-09
+C1495,Kiran Verma,kiranverma1494@example.com,8383443346,Chennai,Tamil Nadu,India,Retail,Active,2026-05-10
+C1496,Arjun Reddy,arjunreddy1495@example.com,9139991856,Hyderabad,Telangana,India,Retail,Active,2026-05-11
+C1497,Neha Singh,nehasingh1496@example.com,9733706558,Kolkata,West Bengal,India,SMB,Active,2026-05-12
+C1498,Sneha Gupta,snehagupta1497@example.com,7330962797,Noida,Uttar Pradesh,India,Retail,Active,2026-05-13
+C1499,Ananya Sharma,ananyasharma1498@example.com,7639949010,Hyderabad,Telangana,India,Retail,Inactive,2026-05-14
+C1500,Isha Joshi,ishajoshi1499@example.com,7251474325,Chennai,Tamil Nadu,India,SMB,Active,2026-05-15
+C1501,Suresh Patel,sureshpatel1500@example.com,9986787479,Pune,Maharashtra,India,Wholesale,Active,2026-05-16
+C1502,Nikhil Rao,nikhilrao1501@example.com,8435542636,Pune,Maharashtra,India,Corporate,Active,2026-05-17
+C1503,Rohan Mehta,rohanmehta1502@example.com,7901264500,Mumbai,Maharashtra,India,Corporate,Active,2026-05-18
+C1504,Ananya Reddy,ananyareddy1503@example.com,9221653695,Chennai,Tamil Nadu,India,Corporate,Active,2026-05-19
+C1505,Priya Nair,priyanair1504@example.com,9234656786,Chennai,Tamil Nadu,India,Wholesale,Active,2026-05-20
+C1506,Suresh Gupta,sureshgupta1505@example.com,8890640303,Hyderabad,Telangana,India,Retail,Inactive,2026-05-21
+C1507,Manoj Mishra,manojmishra1506@example.com,8604009644,Noida,Uttar Pradesh,India,Corporate,Active,2026-05-22
+C1508,Divya Singh,divyasingh1507@example.com,7633303779,Ahmedabad,Gujarat,India,Wholesale,Active,2026-05-23
+C1509,Ananya Iyer,ananyaiyer1508@example.com,7525604189,Hyderabad,Telangana,India,Retail,Active,2026-05-24
+C1510,  sneha reddy  ,snehareddy1509@example.com,8409577142,Bengaluru,Karnataka,India,SMB,Active,2026-05-25
+C1511,Isha Kumar,ishakumar1510@example.com,8864098998,Pune,Maharashtra,India,Corporate,Active,2026-05-26
+C1512,Isha Kumar,ishakumar1511@example.com,8013000672,Pune,Maharashtra,India,Retail,Active,2026-05-27
+C1513,Divya Nair,divyanair1512@example.com,7380535953,Mumbai,Maharashtra,India,Corporate,Active,2026-05-28
+C1514,Ravi Iyer,raviiyer1513@example.com,8595245374,Bengaluru,Karnataka,India,Corporate,Active,2026-05-29
+C1515,Meera Rao,meerarao1514@example.com,7947521139,Pune,Maharashtra,India,Corporate,Active,2026-05-30
+C1516,Rahul Mehta,rahulmehta1515@example.com,7268616816,Hyderabad,Telangana,India,Retail,Inactive,2026-05-31
+C1517,Suresh Nair,sureshnair1516@example.com,9569358074,Bengaluru,Karnataka,India,Wholesale,Active,2026-06-01
+C1518,Sneha Mishra,,8286100085,Hyderabad,Telangana,India,Retail,Active,2026-06-02
+C1519,Suresh Reddy,sureshreddy1518@example.com,9759796524,Ahmedabad,Gujarat,India,Corporate,Active,2026-06-03
+C1520,Ravi Rao,ravirao1519@example.com,7745091232,Ahmedabad,Gujarat,India,Retail,Active,2026-06-04
+C1521,Swathi Gupta,swathigupta1520@example.com,8809246608,Pune,Maharashtra,India,SMB,Inactive,2026-06-05
+C1522,Pooja Singh,poojasingh1521@example.com,9738270405,Pune,Maharashtra,India,Wholesale,Active,2026-06-06
+C1523,Pooja Joshi,poojajoshi1522@example.com,9732360963,Noida,Uttar Pradesh,India,Retail,Active,2026-06-07
+C1524,Priya Mishra,priyamishra1523@example.com,9131018387,Ahmedabad,Gujarat,India,SMB,Inactive,2026-06-08
+C1525,Neha Sharma,nehasharma1524@example.com,7765588526,Kolkata,West Bengal,India,Wholesale,Active,2026-06-09
+C1526,Isha Kumar,ishakumar1525@example.com,7508250074,Kolkata,West Bengal,India,SMB,Active,2026-06-10
+C1527,Rahul Naidu,rahulnaidu1526@example.com,9945966478,Mumbai,Maharashtra,India,Wholesale,Inactive,2026-06-11
+C1528,Rohan Naidu,rohannaidu1527@example.com,8760528069,Ahmedabad,Gujarat,India,Retail,Active,2026-06-12
+C1529,Suresh Nair,sureshnair1528@example.com,8648549962,Hyderabad,Telangana,India,SMB,Active,2026-06-13
+C1530,Ananya Verma,ananyaverma1529@example.com,9456172680,Hyderabad,Telangana,India,Corporate,Active,2026-06-14
+C1531,Arjun Mehta,arjunmehta1530@example.com,9524450191,Delhi,Delhi,India,SMB,Active,2026-06-15
+C1532,Rohan Singh,rohansingh1531@example.com,7871605060,Bengaluru,Karnataka,India,Wholesale,Inactive,2026-06-16
+C1533,Divya Sharma,divyasharma1532@example.com,7792319480,Vijayawada,Andhra Pradesh,India,Retail,Active,2026-06-17
+C1534,Meera Singh,meerasingh1533@example.com,9429018611,Kolkata,West Bengal,India,Wholesale,Active,2026-06-18
+C1535,Suresh Naidu,,8555789372,Pune,Maharashtra,India,SMB,Active,2026-06-19
+C1536,Priya Joshi,priyajoshi1535@example.com,8436715057,Mumbai,Maharashtra,India,SMB,Active,2026-06-20
+C1537,Arjun Reddy,arjunreddy1536@example.com,7709932802,Vijayawada,Andhra Pradesh,India,Corporate,Active,2026-06-21
+C1538,Ravi Gupta,ravigupta1537@example.com,7112513996,Chennai,Tamil Nadu,India,Retail,Active,2026-06-22
+C1539,Neha Das,nehadas1538@example.com,7103902832,Mumbai,Maharashtra,India,Retail,Active,2026-06-23
+C1540,Kiran Singh,kiransingh1539@example.com,9516035421,Chennai,Tamil Nadu,India,SMB,Inactive,2026-06-24
+C1541,Meera Joshi,meerajoshi1540@example.com,9518908533,Ahmedabad,Gujarat,India,Retail,Active,2026-06-25
+C1542,Arjun Singh,arjunsingh1541@example.com,8172830188,Chennai,Tamil Nadu,India,Corporate,Inactive,2026-06-26
+C1543,Rahul Singh,rahulsingh1542@example.com,9996472517,Chennai,Tamil Nadu,India,Wholesale,Active,2026-06-27
+C1544,Manoj Das,manojdas1543@example.com,9225131344,Noida,Uttar Pradesh,India,Retail,Active,2026-06-28
+C1545,Meera Iyer,meeraiyer1544@example.com,8283016556,Noida,Uttar Pradesh,India,SMB,Inactive,2026-06-29
+C1546,Sneha Naidu,snehanaidu1545@example.com,7241102738,Noida,Uttar Pradesh,India,Wholesale,Active,2026-06-30
+C1547,Amit Iyer,amitiyer1546@example.com,8113671081,Ahmedabad,Gujarat,India,Wholesale,Active,2026-07-01
+C1548,Swathi Gupta,swathigupta1547@example.com,8845361965,Vijayawada,Andhra Pradesh,India,Corporate,Active,2026-07-02
+C1549,Neha Verma,nehaverma1548@example.com,7968692633,Mumbai,Maharashtra,India,SMB,Active,2026-07-03
+C1550,Neha Mehta,nehamehta1549@example.com,8618833988,Mumbai,Maharashtra,India,Retail,Active,2026-07-04
+C1551,Manoj Mishra,manojmishra1550@example.com,8983127359,Pune,Maharashtra,India,SMB,Active,2026-07-05
+C1552,Ananya Kumar,ananyakumar1551@example.com,12345,Noida,Uttar Pradesh,India,Wholesale,Active,2026-07-06
+C1553,Nikhil Kumar,nikhilkumar1552@example.com,9065475539,Ahmedabad,Gujarat,India,SMB,Active,2026-07-07
+C1554,Rohan Kumar,rohankumar1553@example.com,8869085588,Pune,Maharashtra,India,Retail,Active,2026-07-08
+C1555,Nikhil Verma,nikhilverma1554@example.com,8967897673,Bengaluru,Karnataka,India,Retail,Active,2026-07-09
+C1556,Priya Mehta,priyamehta1555@example.com,9074335492,Pune,Maharashtra,India,Corporate,Active,2026-07-10
+C1557,Neha Gupta,nehagupta1556@example.com,7573292101,Vijayawada,Andhra Pradesh,India,Retail,Active,2026-07-11
+C1558,Manoj Verma,manojverma1557@example.com,9710857305,Kolkata,West Bengal,India,Retail,Active,2026-07-12
+C1559,Manoj Rao,manojrao1558@example.com,7346180867,Chennai,Tamil Nadu,India,SMB,Inactive,2026-07-13
+C1560,Ananya Reddy,ananyareddy1559@example.com,7214069885,Noida,Uttar Pradesh,India,SMB,Active,2026-07-14
+C1561,Vikram Reddy,vikramreddy1560@example.com,9132284401,Kolkata,West Bengal,India,Wholesale,Active,2026-07-15
+C1562,Neha Iyer,nehaiyer1561@example.com,8876259456,Pune,Maharashtra,India,Corporate,Active,2026-07-16
+C1563,  isha nair  ,ishanair1562@example.com,7030190179,Ahmedabad,Gujarat,India,SMB,Active,2026-07-17
+C1564,Nikhil Mishra,nikhilmishra1563@example.com,7246016808,Chennai,Tamil Nadu,India,Retail,Inactive,2026-07-18
+C1565,Ravi Patel,ravipatel1564@example.com,7682505397,Mumbai,Maharashtra,India,Wholesale,Active,2026-07-19
+C1566,Vikram Das,vikramdas1565@example.com,7967328429,Hyderabad,Telangana,India,SMB,Active,2026-07-20
+C1567,Sneha Mishra,snehamishra1566@example.com,9620897083,Chennai,Tamil Nadu,India,Corporate,Inactive,2026-07-21
+C1568,Ananya Naidu,ananyanaidu1567@example.com,7564141419,Vijayawada,Andhra Pradesh,India,Corporate,Active,2026-07-22
+C1569,Ravi Mishra,ravimishra1568@example.com,7581341371,Vijayawada,Andhra Pradesh,India,Wholesale,Inactive,2026-07-23
+C1570,Rahul Das,rahuldas1569@example.com,8712987704,Pune,Maharashtra,India,Wholesale,Active,2026-07-24
+C1571,Ravi Mehta,ravimehta1570@example.com,9821600919,Bengaluru,Karnataka,India,Wholesale,Inactive,2026-07-25
+C1572,Sneha Rao,sneharao1571@example.com,12345,Vijayawada,Andhra Pradesh,India,Wholesale,Active,2026-07-26
+C1573,Priya Iyer,priyaiyer1572@example.com,7057563860,Vijayawada,Andhra Pradesh,India,Wholesale,Inactive,2026-07-27
+C1574,Rahul Das,rahuldas1573@example.com,7296172445,Ahmedabad,Gujarat,India,Retail,Active,2026-07-28
+C1575,Pooja Kumar,poojakumar1574@example.com,8214383511,Pune,Maharashtra,India,Retail,Active,2026-07-29
+C1576,Ananya Mishra,ananyamishra1575@example.com,7245048171,Chennai,Tamil Nadu,India,smb,Active,2026-07-30
+C1577,Nikhil Patel,nikhilpatel1576@example.com,7191533673,Bengaluru,Karnataka,India,Corporate,Inactive,2026-07-31
+C1578,Amit Gupta,amitgupta1577@example.com,8211984285,Kolkata,West Bengal,India,Retail,Active,2026-08-01
+C1579,Isha Gupta,ishagupta1578@example.com,7155854165,Hyderabad,Telangana,India,Retail,Active,2026-08-02
+C1580,Nikhil Mishra,nikhilmishra1579@example.com,8124017371,Noida,Uttar Pradesh,India,Retail,Active,2026-08-03
+C1581,Neha Singh,nehasingh1580@example.com,8184207750,Mumbai,Maharashtra,India,SMB,Active,2026-08-04
+C1582,Nikhil Patel,nikhilpatel1581@example.com,8060765858,Vijayawada,Andhra Pradesh,India,Wholesale,Active,2026-08-05
+C1583,Divya Mishra,,8183745974,Pune,Maharashtra,India,SMB,Active,2026-08-06
+C1584,Priya Das,priyadas1583@example.com,8071792759,Noida,Uttar Pradesh,India,Corporate,Active,2026-08-07
+C1585,Manoj Reddy,manojreddy1584@example.com,8168015183,Mumbai,Maharashtra,India,Corporate,Inactive,2026-08-08
+C1586,Sneha Patel,snehapatel1585@example.com,8594322319,Mumbai,Maharashtra,India,Corporate,Active,2026-08-09
+C1587,Suresh Das,sureshdas1586@example.com,8842055134,Kolkata,West Bengal,India,Corporate,Inactive,2026-08-10
+C1588,Rahul Patel,rahulpatel1587@example.com,8931617897,Kolkata,West Bengal,India,Retail,Active,2026-08-11
+C1589,Suresh Mehta,sureshmehta1588@example.com,8151648325,Kolkata,West Bengal,India,Retail,Inactive,2026-08-12
+C1590,Pooja Gupta,poojagupta1589@example.com,7280745515,Delhi,Delhi,India,SMB,Active,2026-08-13
+C1591,Ananya Rao,ananyarao1590@example.com,7671654728,Delhi,Delhi,India,Wholesale,Inactive,2026-08-14
+C1592,Neha Verma,nehaverma1591@example.com,9094102316,Mumbai,Maharashtra,India,Corporate,Active,2026-08-15
+C1593,Nikhil Iyer,nikhiliyer1592@example.com,7144369335,Kolkata,West Bengal,India,SMB,Active,2026-08-16
+C1594,Meera Das,meeradas1593@example.com,7199718506,Ahmedabad,Gujarat,India,Retail,Active,2026-08-17
+C1595,Divya Iyer,divyaiyer1594@example.com,7269093459,Vijayawada,Andhra Pradesh,India,Retail,Inactive,2026-08-18
+C1596,Amit Gupta,amitgupta1595@example.com,9661588817,Noida,Uttar Pradesh,India,Wholesale,Active,2026-08-19
+C1597,Swathi Naidu,swathinaidu1596@example.com,9413740906,Noida,Uttar Pradesh,India,Wholesale,Active,2026-08-20
+C1598,Ravi Nair,ravinair1597@example.com,7598054328,Delhi,Delhi,India,Wholesale,Active,2026-08-21
+C1599,Neha Joshi,nehajoshi1598@example.com,8485717012,Mumbai,Maharashtra,India,SMB,Inactive,2026-08-22
+C1600,Suresh Joshi,sureshjoshi1599@example.com,9286729411,Pune,Maharashtra,India,Retail,Inactive,2026-08-23
+C1601,Divya Patel,divyapatel1600@example.com,8353728689,Chennai,Tamil Nadu,India,Retail,Active,2026-08-24
+C1602,Kavya Patel,kavyapatel1601@example.com,8765642144,Chennai,Tamil Nadu,India,Wholesale,Inactive,2026-08-25
+C1603,Rahul Gupta,rahulgupta1602@example.com,8491828230,Delhi,Delhi,India,Corporate,Active,2026-08-26
+C1604,Rahul Gupta,rahulgupta1603@example.com,7371190853,Pune,Maharashtra,India,Wholesale,Active,2026-08-27
+C1605,Pooja Kumar,poojakumar1604@example.com,8016980878,Delhi,Delhi,India,SMB,Active,2026-08-28
+C1606,Kiran Rao,kiranrao1605@example.com,7093730769,Chennai,Tamil Nadu,India,Wholesale,Active,2026-08-29
+C1607,Manoj Mishra,manojmishra1606@example.com,9850954999,Pune,Maharashtra,India,Wholesale,Active,2026-08-30
+C1608,Meera Gupta,meeragupta1607@example.com,9355018954,Kolkata,West Bengal,India,SMB,Inactive,2026-08-31
+C1609,Kiran Rao,kiranrao1608@example.com,7549705175,Mumbai,Maharashtra,India,Wholesale,Active,2026-09-01
+C1610,Suresh Verma,sureshverma1609@example.com,9405904014,Noida,Uttar Pradesh,India,Retail,Active,2026-09-02
+C1611,Ravi Mehta,ravimehta1610@example.com,8689845652,Ahmedabad,Gujarat,India,Corporate,Active,2026-09-03
+C1612,Rahul Singh,rahulsingh1611@example.com,7224445865,Bengaluru,Karnataka,India,Wholesale,Inactive,2026-09-04
+C1613,Meera Patel,meerapatel1612@example.com,8798703595,Mumbai,Maharashtra,India,SMB,Active,2026-09-05
+C1614,Ravi Nair,ravinair1613@example.com,8117369215,Kolkata,West Bengal,India,Corporate,Active,2026-09-06
+C1615,Manoj Gupta,manojgupta1614@example.com,9681886861,Chennai,Tamil Nadu,India,smb,Inactive,2026-09-07
+C1616,Nikhil Singh,nikhilsingh1615@example.com,9123780260,Kolkata,West Bengal,India,Corporate,Active,2026-09-08
+C1617,Nikhil Naidu,nikhilnaidu1616@example.com,8101788241,Delhi,Delhi,India,Corporate,Active,2026-09-09
+C1618,Kiran Iyer,kiraniyer1617@example.com,7622620228,Pune,Maharashtra,India,Wholesale,Inactive,2026-09-10
+C1619,Isha Naidu,ishanaidu1618@example.com,9809658498,Noida,Uttar Pradesh,India,Retail,Active,2026-09-11
+C1620,Kiran Reddy,kiranreddy1619@example.com,7850822873,Vijayawada,Andhra Pradesh,India,Wholesale,Active,2026-09-12
+C1621,Isha Naidu,ishanaidu1620@example.com,7821157796,Delhi,Delhi,India,SMB,Active,2026-09-13
+C1622,Suresh Rao,sureshrao1621@example.com,9428074967,Mumbai,Maharashtra,India,SMB,Active,2026-09-14
+C1623,Priya Verma,priyaverma1622@example.com,8452828976,Delhi,Delhi,India,Corporate,Active,2026-09-15
+C1624,Swathi Das,swathidas1623@example.com,8992574866,Mumbai,Maharashtra,India,Corporate,Inactive,2026-09-16
+C1625,Priya Das,priyadas1624@example.com,8325850994,Vijayawada,Andhra Pradesh,India,Retail,Inactive,2026-09-17
+C1626,Rohan Das,rohandas1625@example.com,9613604735,Hyderabad,Telangana,India,Wholesale,Active,2026-09-18
+C1627,Divya Das,,8501118456,Noida,Uttar Pradesh,India,SMB,Inactive,2026-09-19
+C1628,Manoj Rao,manojrao1627@example.com,7786045372,Ahmedabad,Gujarat,India,Corporate,Active,2026-09-20
+C1629,Vikram Patel,vikrampatel1628@example.com,7490037672,Ahmedabad,Gujarat,India,Retail,Active,2026-09-21
+C1630,Ananya Singh,ananyasingh1629@example.com,7094640288,Bengaluru,Karnataka,India,SMB,Active,2026-09-22
+C1631,Ravi Kumar,ravikumar1630@example.com,7649600177,Kolkata,West Bengal,India,Corporate,Active,2026-09-23
+C1632,Suresh Rao,sureshrao1631@example.com,7967728835,Hyderabad,Telangana,India,SMB,Active,2026-09-24
+C1633,Swathi Singh,swathisingh1632@example.com,8795253118,Ahmedabad,Gujarat,India,Retail,Active,2026-09-25
+C1634,Rohan Verma,rohanverma1633@example.com,8077893609,Delhi,Delhi,India,Retail,Active,2026-09-26
+C1635,Rohan Patel,rohanpatel1634@example.com,7381565944,Kolkata,West Bengal,India,SMB,Active,2026-09-27
+C1636,Kiran Kumar,kirankumar1635@example.com,9936701525,Hyderabad,Telangana,India,Wholesale,Active,2026-09-28
+C1637,Isha Rao,isharao1636@example.com,9410433526,Pune,Maharashtra,India,SMB,Active,2026-09-29
+C1638,  neha kumar  ,nehakumar1637@example.com,9341210400,Pune,Maharashtra,India,Corporate,Active,2026-09-30
+C1639,Vikram Kumar,vikramkumar1638@example.com,9247946832,Kolkata,West Bengal,India,Wholesale,Active,2026-10-01
+C1640,Amit Mehta,amitmehta1639@example.com,7492928572,Mumbai,Maharashtra,India,Corporate,Active,2026-10-02
+C1641,Manoj Das,,7976716348,Mumbai,Maharashtra,India,SMB,Active,2026-10-03
+C1642,Manoj Mehta,manojmehta1641@example.com,8735071771,Delhi,Delhi,India,Wholesale,Active,2026-10-04
+C1643,Rohan Mishra,rohanmishra1642@example.com,9330216490,Hyderabad,Telangana,India,Corporate,Inactive,2026-10-05
+C1644,Kavya Gupta,kavyagupta1643@example.com,7290633384,Hyderabad,Telangana,India,SMB,Inactive,2026-10-06
+C1645,Manoj Sharma,manojsharma1644@example.com,9357244080,kolkata,West Bengal,India,SMB,Inactive,2026-10-07
+C1646,Ravi Mehta,ravimehta1645@example.com,9334478864,Chennai,Tamil Nadu,India,Wholesale,Active,2026-10-08
+C1647,  manoj nair  ,manojnair1646@example.com,9632386145,Pune,Maharashtra,India,SMB,Active,2026-10-09
+C1648,Swathi Sharma,swathisharma1647@example.com,7351007685,Hyderabad,Telangana,India,Retail,Active,2026-10-10
+C1649,Rohan Sharma,rohansharma1648@example.com,7971294189,Kolkata,West Bengal,India,Corporate,Active,2026-10-11
+C1650,  ananya reddy  ,ananyareddy1649@example.com,8968386245,Vijayawada,Andhra Pradesh,India,Corporate,Active,2026-10-12
+C1651,Sneha Kumar,snehakumar1650@example.com,9081754688,Bengaluru,Karnataka,India,SMB,Active,2026-10-13
+C1652,Neha Mishra,nehamishra1651@example.com,8840954185,Vijayawada,Andhra Pradesh,India,SMB,Active,2026-10-14
+C1653,Vikram Reddy,vikramreddy1652@example.com,7711996244,Noida,Uttar Pradesh,India,Retail,Active,2026-10-15
+C1654,  pooja iyer  ,poojaiyer1653@example.com,7605416964,Delhi,Delhi,India,Wholesale,Active,2026-10-16
+C1655,Manoj Mehta,manojmehta1654@example.com,9852665365,Hyderabad,Telangana,India,SMB,Active,2026-10-17
+C1656,Priya Joshi,priyajoshi1655@example.com,7928101432,Noida,Uttar Pradesh,India,SMB,Active,2026-10-18
+C1657,Ravi Verma,raviverma1656@example.com,9873429057,Ahmedabad,Gujarat,India,SMB,Active,2026-10-19
+C1658,Swathi Verma,swathiverma1657@example.com,7419027785,Noida,Uttar Pradesh,India,SMB,Active,2026-10-20
+C1659,Neha Kumar,nehakumar1658@example.com,8985544289,Kolkata,West Bengal,India,Corporate,Inactive,2026-10-21
+C1660,Arjun Gupta,arjungupta1659@example.com,8768519535,Hyderabad,Telangana,India,SMB,Active,2026-10-22
+C1661,Neha Rao,neharao1660@example.com,8976381874,Bengaluru,Karnataka,India,Corporate,Active,2026-10-23
+C1662,Nikhil Singh,nikhilsingh1661@example.com,9795909756,Kolkata,West Bengal,India,SMB,Active,2026-10-24
+C1663,Arjun Reddy,arjunreddy1662@example.com,9342612053,Kolkata,West Bengal,India,Wholesale,Active,2026-10-25
+C1664,  ravi joshi  ,ravijoshi1663@example.com,8248064075,Delhi,Delhi,India,Retail,Active,2026-10-26
+C1665,Nikhil Gupta,nikhilgupta1664@example.com,7267460951,Delhi,Delhi,India,Wholesale,Active,2026-10-27
+C1666,Priya Reddy,priyareddy1665@example.com,9201182119,Pune,Maharashtra,India,SMB,Active,2026-10-28
+C1667,Meera Gupta,meeragupta1666@example.com,7480761125,Pune,Maharashtra,India,smb,Inactive,2026-10-29
+C1668,Meera Das,meeradas1667@example.com,8528894010,Mumbai,Maharashtra,India,SMB,Active,2026-10-30
+C1669,Kavya Patel,kavyapatel1668@example.com,8972420233,Chennai,Tamil Nadu,India,Wholesale,Active,2026-10-31
+C1670,Isha Singh,ishasingh1669@example.com,7223151807,Hyderabad,Telangana,India,SMB,Active,2026-11-01
+C1671,Meera Nair,meeranair1670@example.com,9135697968,Hyderabad,Telangana,India,Wholesale,Active,2026-11-02
+C1672,Kavya Sharma,kavyasharma1671@example.com,7864850879,Noida,Uttar Pradesh,India,Corporate,Active,2026-11-03
+C1673,Vikram Iyer,vikramiyer1672@example.com,8459333151,Hyderabad,Telangana,India,Retail,Active,2026-11-04
+C1674,Vikram Kumar,vikramkumar1673@example.com,8110768006,Hyderabad,Telangana,India,Retail,Active,2026-11-05
+C1675,Manoj Mishra,manojmishra1674@example.com,7707408403,Chennai,Tamil Nadu,India,Wholesale,Active,2026-11-06
+C1676,Manoj Patel,manojpatel1675@example.com,9340103321,Ahmedabad,Gujarat,India,Corporate,Inactive,2026-11-07
+C1677,Swathi Sharma,,8418262910,Pune,Maharashtra,India,Wholesale,Active,2026-11-08
+C1678,Ravi Nair,ravinair1677@example.com,9230745301,Pune,Maharashtra,India,Corporate,Active,2026-11-09
+C1679,Rahul Patel,rahulpatel1678@example.com,7077076110,Bengaluru,Karnataka,India,SMB,Inactive,2026-11-10
+C1680,Suresh Iyer,sureshiyer1679@example.com,7879958391,Hyderabad,Telangana,India,Corporate,Active,2026-11-11
+C1681,Priya Reddy,priyareddy1680@example.com,7542255847,Chennai,Tamil Nadu,India,Corporate,Active,2026-11-12
+C1682,Divya Patel,divyapatel1681@example.com,9833086542,Pune,Maharashtra,India,Corporate,Active,2026-11-13
+C1683,Rahul Singh,rahulsingh1682@example.com,7694151795,Chennai,Tamil Nadu,India,Retail,Active,2026-11-14
+C1684,Ananya Mehta,ananyamehta1683@example.com,8097335565,Vijayawada,Andhra Pradesh,India,Corporate,Active,2026-11-15
+C1685,Kiran Sharma,kiransharma1684@example.com,,Ahmedabad,Gujarat,India,SMB,Active,2026-11-16
+C1686,Divya Reddy,divyareddy1685@example.com,8938058216,Hyderabad,Telangana,India,SMB,Inactive,2026-11-17
+C1687,Isha Iyer,ishaiyer1686@example.com,9405964455,Bengaluru,Karnataka,India,SMB,Active,2026-11-18
+C1688,Divya Gupta,divyagupta1687@example.com,9396509040,Noida,Uttar Pradesh,India,Corporate,Active,2026-11-19
+C1689,Rohan Iyer,rohaniyer1688@example.com,7116683198,Pune,Maharashtra,India,Wholesale,Active,2026-11-20
+C1690,Meera Verma,meeraverma1689@example.com,9373027905,Vijayawada,Andhra Pradesh,India,Wholesale,Active,2026-11-21
+C1691,Rohan Sharma,rohansharma1690@example.com,7280051608,Chennai,Tamil Nadu,India,SMB,Inactive,2026-11-22
+C1692,Manoj Kumar,manojkumar1691@example.com,7404379383,Delhi,Delhi,India,Retail,Active,2026-11-23
+C1693,Meera Naidu,meeranaidu1692@example.com,8992570109,Kolkata,West Bengal,India,Wholesale,Active,2026-11-24
+C1694,Neha Sharma,nehasharma1693@example.com,8476022146,Hyderabad,Telangana,India,Corporate,Active,2026-11-25
+C1695,Amit Naidu,amitnaidu1694@example.com,8213031467,Hyderabad,Telangana,India,Wholesale,Active,2026-11-26
+C1696,Vikram Naidu,vikramnaidu1695@example.com,9313706592,Vijayawada,Andhra Pradesh,India,SMB,Inactive,2026-11-27
+C1697,Suresh Mehta,sureshmehta1696@example.com,8678165545,Chennai,Tamil Nadu,India,Retail,Active,2026-11-28
+C1698,Sneha Iyer,snehaiyer1697@example.com,9138088435,Mumbai,Maharashtra,India,Wholesale,Active,2026-11-29
+C1699,Amit Sharma,amitsharma1698@example.com,7453006085,Hyderabad,Telangana,India,Wholesale,Inactive,2026-11-30
+C1700,Rahul Das,rahuldas1699@example.com,8597438630,Mumbai,Maharashtra,India,SMB,Active,2026-12-01
+C1701,Ananya Sharma,ananyasharma1700@example.com,9820849075,Delhi,Delhi,India,Retail,Active,2026-12-02
+C1702,Pooja Patel,poojapatel1701@example.com,8940023062,Vijayawada,Andhra Pradesh,India,Retail,Active,2026-12-03
+C1703,Kiran Rao,kiranrao1702@example.com,8706740090,Chennai,Tamil Nadu,India,SMB,Inactive,2026-12-04
+C1704,Priya Kumar,priyakumar1703@example.com,8633891505,Chennai,Tamil Nadu,India,Corporate,Active,2026-12-05
+C1705,Rahul Naidu,rahulnaidu1704@example.com,7401184170,Ahmedabad,Gujarat,India,Wholesale,Active,2026-12-06
+C1706,Ananya Iyer,ananyaiyer1705@example.com,8894390468,Kolkata,West Bengal,India,Corporate,Inactive,2026-12-07
+C1707,Divya Verma,divyaverma1706@example.com,7840135434,Pune,Maharashtra,India,Wholesale,Active,2026-12-08
+C1708,Pooja Rao,poojarao1707@example.com,7875170295,Pune,Maharashtra,India,Wholesale,Active,2026-12-09
+C1709,Ananya Das,ananyadas1708@example.com,7801970443,Noida,Uttar Pradesh,India,Corporate,Active,2026-12-10
+C1710,Neha Sharma,nehasharma1709@example.com,9247683657,Bengaluru,Karnataka,India,SMB,Active,2026-12-11
+C1711,Divya Mishra,divyamishra1710@example.com,7403881991,Vijayawada,Andhra Pradesh,India,SMB,Active,2026-12-12
+C1712,Vikram Iyer,vikramiyer1711@example.com,8233248151,Delhi,Delhi,India,Wholesale,Active,2026-12-13
+C1713,Amit Kumar,amitkumar1712@example.com,8531890171,Chennai,Tamil Nadu,India,SMB,Active,2026-12-14
+C1714,Meera Sharma,meerasharma1713@example.com,9480744611,Kolkata,West Bengal,India,Wholesale,Active,2026-12-15
+C1715,Suresh Kumar,,8187308004,Mumbai,Maharashtra,India,SMB,Active,2026-12-16
+C1716,Manoj Singh,manojsingh1715@example.com,9725510740,Vijayawada,Andhra Pradesh,India,Wholesale,Inactive,2026-12-17
+C1717,Sneha Reddy,snehareddy1716@example.com,8341529159,Noida,Uttar Pradesh,India,SMB,Active,2026-12-18
+C1718,Suresh Gupta,sureshgupta1717@example.com,9760266632,Vijayawada,Andhra Pradesh,India,Retail,Active,2026-12-19
+C1719,Suresh Patel,sureshpatel1718@example.com,8700680238,Noida,Uttar Pradesh,India,Corporate,Active,2026-12-20
+C1720,Rohan Das,rohandas1719@example.com,7841129870,Chennai,Tamil Nadu,India,Retail,Inactive,2026-12-21
+C1721,Vikram Gupta,vikramgupta1720@example.com,9289341543,Bengaluru,Karnataka,India,Corporate,Inactive,2026-12-22
+C1722,Arjun Rao,arjunrao1721@example.com,9234201297,Noida,Uttar Pradesh,India,Corporate,Inactive,2026-12-23
+C1723,Priya Verma,priyaverma1722@example.com,7678410793,Chennai,Tamil Nadu,India,Wholesale,Active,2026-12-24
+C1724,Nikhil Gupta,nikhilgupta1723@example.com,8922439995,Chennai,Tamil Nadu,India,Corporate,Active,2026-12-25
+C1725,Rahul Gupta,rahulgupta1724@example.com,9988863955,Bengaluru,Karnataka,India,Retail,Active,2026-12-26
+C1726,Ravi Iyer,raviiyer1725@example.com,9395819461,Pune,Maharashtra,India,Retail,Active,2026-12-27
+C1727,Sneha Nair,snehanair1726@example.com,7713111937,Vijayawada,Andhra Pradesh,India,SMB,Active,2026-12-28
+C1728,Isha Reddy,ishareddy1727@example.com,8360481030,Hyderabad,Telangana,India,Retail,Active,2026-12-29
+C1729,Arjun Patel,arjunpatel1728@example.com,9634847055,Hyderabad,Telangana,India,SMB,Active,2026-12-30
+C1730,Suresh Kumar,sureshkumar1729@example.com,8559505772,Mumbai,Maharashtra,India,Corporate,Inactive,2026-12-31
+C1731,Amit Das,amitdas1730@example.com,8189295729,Mumbai,Maharashtra,India,Retail,Active,2027-01-01
+C1732,Priya Naidu,priyanaidu1731@example.com,7725223274,Hyderabad,Telangana,India,Corporate,Active,2027-01-02
+C1733,Priya Singh,priyasingh1732@example.com,9177767909,Delhi,Delhi,India,Retail,Active,2027-01-03
+C1734,Kiran Naidu,kirannaidu1733@example.com,7604351392,Hyderabad,Telangana,India,Retail,Active,2027-01-04
+C1735,Neha Kumar,nehakumar1734@example.com,9568874203,Mumbai,Maharashtra,India,SMB,Active,2027-01-05
+C1736,Ravi Naidu,ravinaidu1735@example.com,7867650688,Kolkata,West Bengal,India,Corporate,Inactive,2027-01-06
+C1737,Suresh Gupta,sureshgupta1736@example.com,7143381494,Mumbai,Maharashtra,India,Retail,Active,2027-01-07
+C1738,Pooja Naidu,poojanaidu1737@example.com,7791239679,Delhi,Delhi,India,Wholesale,Active,2027-01-08
+C1739,Vikram Reddy,vikramreddy1738@example.com,8562050055,vijayawada,Andhra Pradesh,India,Corporate,Active,2027-01-09
+C1740,Arjun Sharma,arjunsharma1739@example.com,9810165115,Hyderabad,Telangana,India,Corporate,Active,2027-01-10
+C1741,  rahul joshi  ,rahuljoshi1740@example.com,7653282922,Bengaluru,Karnataka,India,Corporate,Active,2027-01-11
+C1742,Divya Reddy,divyareddy1741@example.com,8345020516,Kolkata,West Bengal,India,SMB,Active,2027-01-12
+C1743,Ananya Sharma,ananyasharma1742@example.com,8891174659,Chennai,Tamil Nadu,India,Wholesale,Active,2027-01-13
+C1744,Divya Reddy,divyareddy1743@example.com,9642684869,Delhi,Delhi,India,Corporate,Active,2027-01-14
+C1745,Rahul Joshi,rahuljoshi1744@example.com,7358475509,Mumbai,Maharashtra,India,Retail,Active,2027-01-15
+C1746,Rohan Mishra,rohanmishra1745@example.com,7505277064,Bengaluru,Karnataka,India,Retail,Active,2027-01-16
+C1747,Rohan Iyer,rohaniyer1746@example.com,9169846573,Noida,Uttar Pradesh,India,SMB,Active,2027-01-17
+C1748,Rohan Nair,rohannair1747@example.com,8372958582,Pune,Maharashtra,India,Retail,Active,2027-01-18
+C1749,Divya Mehta,divyamehta1748@example.com,8794269758,Hyderabad,Telangana,India,Corporate,Active,2027-01-19
+C1750,Kavya Gupta,kavyagupta1749@example.com,9084600940,Pune,Maharashtra,India,Retail,Inactive,2027-01-20
+C1751,Manoj Gupta,manojgupta1750@example.com,7525849588,Delhi,Delhi,India,Corporate,Active,2027-01-21
+C1752,Rohan Verma,rohanverma1751@example.com,9868694548,Noida,Uttar Pradesh,India,Retail,Active,2027-01-22
+C1753,Rahul Rao,rahulrao1752@example.com,9725892364,Noida,Uttar Pradesh,India,Wholesale,Active,2027-01-23
+C1754,Kavya Rao,kavyarao1753@example.com,8387322529,Noida,Uttar Pradesh,India,SMB,Active,2027-01-24
+C1755,Neha Naidu,nehanaidu1754@example.com,7712770819,Chennai,Tamil Nadu,India,SMB,Inactive,2027-01-25
+C1756,Swathi Naidu,swathinaidu1755@example.com,8836054238,Delhi,Delhi,India,Wholesale,Active,2027-01-26
+C1757,Divya Nair,divyanair1756@example.com,9818074170,Vijayawada,Andhra Pradesh,India,Wholesale,Active,2027-01-27
+C1758,Kiran Mishra,kiranmishra1757@example.com,,Pune,Maharashtra,India,SMB,Active,2027-01-28
+C1759,Nikhil Iyer,nikhiliyer1758@example.com,7557600383,Vijayawada,Andhra Pradesh,India,Wholesale,Active,2027-01-29
+C1760,Kavya Verma,kavyaverma1759@example.com,,Bengaluru,Karnataka,India,Corporate,Active,2027-01-30
+C1761,  rohan verma  ,rohanverma1760@example.com,9950045508,Ahmedabad,Gujarat,India,Retail,Active,2027-01-31
+C1762,Vikram Mehta,vikrammehta1761@example.com,9404132376,Kolkata,West Bengal,India,SMB,Inactive,2027-02-01
+C1763,Nikhil Singh,nikhilsingh1762@example.com,7399562882,Kolkata,West Bengal,India,Wholesale,Inactive,2027-02-02
+C1764,Vikram Naidu,vikramnaidu1763@example.com,9265164128,Vijayawada,Andhra Pradesh,India,Corporate,Active,2027-02-03
+C1765,Manoj Gupta,manojgupta1764@example.com,,Ahmedabad,Gujarat,India,SMB,Active,2027-02-04
+C1766,Swathi Das,swathidas1765@example.com,7900882073,Ahmedabad,Gujarat,India,Wholesale,Inactive,2027-02-05
+C1767,Swathi Nair,swathinair1766@example.com,7341048701,Hyderabad,Telangana,India,SMB,Active,2027-02-06
+C1768,Isha Verma,ishaverma1767@example.com,8627909117,Bengaluru,Karnataka,India,Wholesale,Inactive,2027-02-07
+C1769,Arjun Sharma,arjunsharma1768@example.com,7804928188,Delhi,Delhi,India,SMB,Active,2027-02-08
+C1770,Pooja Verma,poojaverma1769@example.com,8446718939,Ahmedabad,Gujarat,India,Corporate,Active,2027-02-09
+C1771,Rohan Mehta,rohanmehta1770@example.com,8273413896,Mumbai,Maharashtra,India,Corporate,Active,2027-02-10
+C1772,Arjun Joshi,arjunjoshi1771@example.com,9322691505,Kolkata,West Bengal,India,Retail,Active,2027-02-11
+C1773,Amit Sharma,amitsharma1772@example.com,7475660933,Mumbai,Maharashtra,India,SMB,Inactive,2027-02-12
+C1774,Arjun Singh,,8350123435,Bengaluru,Karnataka,India,Retail,Active,2027-02-13
+C1775,Suresh Gupta,sureshgupta1774@example.com,9023650698,Ahmedabad,Gujarat,India,SMB,Inactive,2027-02-14
+C1776,Divya Verma,divyaverma1775@example.com,9798892395,Pune,Maharashtra,India,Wholesale,Active,2027-02-15
+C1777,Nikhil Gupta,nikhilgupta1776@example.com,8972529003,Kolkata,West Bengal,India,wholesale,Active,2027-02-16
+C1778,Rohan Patel,rohanpatel1777@example.com,8348880840,Hyderabad,Telangana,India,Retail,Inactive,2027-02-17
+C1779,Amit Sharma,amitsharma1778@example.com,8536731860,Hyderabad,Telangana,India,SMB,Active,2027-02-18
+C1780,Ravi Mishra,ravimishra1779@example.com,8092304599,Noida,Uttar Pradesh,India,Retail,Inactive,2027-02-19
+C1781,Pooja Joshi,poojajoshi1780@example.com,9122626273,Chennai,Tamil Nadu,India,Corporate,Active,2027-02-20
+C1782,Priya Verma,priyaverma1781@example.com,12345,Ahmedabad,Gujarat,India,Retail,Active,2027-02-21
+C1783,Arjun Iyer,arjuniyer1782@example.com,9256725789,Bengaluru,Karnataka,India,Retail,Active,2027-02-22
+C1784,Priya Mehta,priyamehta1783@example.com,7746300377,Kolkata,West Bengal,India,Wholesale,Active,2027-02-23
+C1785,Amit Mishra,amitmishra1784@example.com,8049432047,Chennai,Tamil Nadu,India,Retail,Active,2027-02-24
+C1786,Swathi Reddy,swathireddy1785@example.com,7485087387,Bengaluru,Karnataka,India,SMB,Active,2027-02-25
+C1787,Vikram Mehta,vikrammehta1786@example.com,7374432985,Vijayawada,Andhra Pradesh,India,Wholesale,Active,2027-02-26
+C1788,Isha Mishra,ishamishra1787@example.com,7432234685,Ahmedabad,Gujarat,India,Retail,Active,2027-02-27
+C1789,Rohan Mishra,rohanmishra1788@example.com,12345,Delhi,Delhi,India,Corporate,Active,2027-02-28
+C1790,Divya Naidu,divyanaidu1789@example.com,,Delhi,Delhi,India,Retail,Active,2027-03-01
+C1791,Kavya Gupta,kavyagupta1790@example.com,7609765043,Ahmedabad,Gujarat,India,Retail,Active,2027-03-02
+C1792,Divya Nair,divyanair1791@example.com,8494396968,Noida,Uttar Pradesh,India,Retail,Inactive,2027-03-03
+C1793,Pooja Mehta,poojamehta1792@example.com,8934242734,Noida,Uttar Pradesh,India,Wholesale,Active,2027-03-04
+C1794,Vikram Patel,vikrampatel1793@example.com,7821457233,Delhi,Delhi,India,SMB,Active,2027-03-05
+C1795,Rahul Kumar,rahulkumar1794@example.com,9636153930,Pune,Maharashtra,India,Corporate,Inactive,2027-03-06
+C1796,Rohan Reddy,rohanreddy1795@example.com,9796657592,Kolkata,West Bengal,India,Retail,Active,2027-03-07
+C1797,Amit Mehta,amitmehta1796@example.com,8870481686,Delhi,Delhi,India,SMB,Active,2027-03-08
+C1798,Swathi Patel,swathipatel1797@example.com,9666867887,Pune,Maharashtra,India,SMB,Active,2027-03-09
+C1799,Swathi Mehta,swathimehta1798@example.com,9479268735,Chennai,Tamil Nadu,India,Wholesale,Inactive,2027-03-10
+C1800,Rahul Naidu,rahulnaidu1799@example.com,8513438869,Pune,Maharashtra,India,Corporate,Active,2027-03-11
+C1801,Kavya Kumar,kavyakumar1800@example.com,9024162954,Chennai,Tamil Nadu,India,Wholesale,Inactive,2027-03-12
+C1802,Meera Nair,meeranair1801@example.com,8090813786,Bengaluru,Karnataka,India,smb,Inactive,2027-03-13
+C1803,Kiran Nair,kirannair1802@example.com,9723619746,Mumbai,Maharashtra,India,SMB,Active,2027-03-14
+C1804,Rohan Naidu,rohannaidu1803@example.com,7133640480,Bengaluru,Karnataka,India,SMB,Active,2027-03-15
+C1805,Sneha Joshi,snehajoshi1804@example.com,7542302931,Delhi,Delhi,India,Wholesale,Active,2027-03-16
+C1806,Rahul Mishra,rahulmishra1805@example.com,9904160527,Chennai,Tamil Nadu,India,Corporate,Inactive,2027-03-17
+C1807,Rahul Das,rahuldas1806@example.com,7456742817,Delhi,Delhi,India,Retail,Active,2027-03-18
+C1808,Ananya Verma,ananyaverma1807@example.com,8396311105,Ahmedabad,Gujarat,India,wholesale,Active,2027-03-19
+C1809,Meera Gupta,meeragupta1808@example.com,8352569314,Kolkata,West Bengal,India,SMB,Inactive,2027-03-20
+C1810,Suresh Mehta,sureshmehta1809@example.com,9947752871,hyderabad,Telangana,India,Wholesale,Active,2027-03-21
+C1811,Amit Sharma,amitsharma1810@example.com,7016394487,Delhi,Delhi,India,SMB,Active,2027-03-22
+C1812,Vikram Patel,vikrampatel1811@example.com,7299106459,Kolkata,West Bengal,India,Retail,Inactive,2027-03-23
+C1813,Sneha Das,snehadas1812@example.com,9927748142,Pune,Maharashtra,India,Retail,Active,2027-03-24
+C1814,Neha Patel,nehapatel1813@example.com,7751110054,Bengaluru,Karnataka,India,Corporate,Active,2027-03-25
+C1815,Manoj Mishra,manojmishra1814@example.com,7717826501,pune,Maharashtra,India,SMB,Inactive,2027-03-26
+C1816,Meera Iyer,meeraiyer1815@example.com,9814416531,Hyderabad,Telangana,India,Corporate,Active,2027-03-27
+C1817,Suresh Sharma,sureshsharma1816@example.com,7975728763,Chennai,Tamil Nadu,India,Corporate,Active,2027-03-28
+C1818,Kiran Kumar,kirankumar1817@example.com,7312119030,Ahmedabad,Gujarat,India,Retail,Active,2027-03-29
+C1819,Arjun Gupta,arjungupta1818@example.com,8199481686,Kolkata,West Bengal,India,Wholesale,Active,2027-03-30
+C1820,Ananya Singh,ananyasingh1819@example.com,7331047551,Ahmedabad,Gujarat,India,Wholesale,Active,2027-03-31
+C1821,Rahul Rao,rahulrao1820@example.com,9761156798,Mumbai,Maharashtra,India,corporate,Active,2027-04-01
+C1822,Nikhil Verma,nikhilverma1821@example.com,8461921346,Delhi,Delhi,India,Retail,Active,2027-04-02
+C1823,Rohan Naidu,rohannaidu1822@example.com,9981353987,Chennai,Tamil Nadu,India,SMB,Active,2027-04-03
+C1824,Arjun Patel,arjunpatel1823@example.com,9201835416,Mumbai,Maharashtra,India,Wholesale,Active,2027-04-04
+C1825,Rohan Mishra,rohanmishra1824@example.com,7925693742,Vijayawada,Andhra Pradesh,India,Corporate,Active,2027-04-05
+C1826,Pooja Reddy,poojareddy1825@example.com,8311299365,Delhi,Delhi,India,Wholesale,Active,2027-04-06
+C1827,Swathi Sharma,,8547810958,Pune,Maharashtra,India,Wholesale,Active,2027-04-07
+C1828,Rohan Gupta,rohangupta1827@example.com,7913300670,Bengaluru,Karnataka,India,SMB,Active,2027-04-08
+C1829,Arjun Reddy,arjunreddy1828@example.com,7294228500,Kolkata,West Bengal,India,Retail,Inactive,2027-04-09
+C1830,Ananya Mishra,ananyamishra1829@example.com,7142547170,Hyderabad,Telangana,India,SMB,Active,2027-04-10
+C1831,Nikhil Naidu,nikhilnaidu1830@example.com,8305439860,Hyderabad,Telangana,India,Retail,Active,2027-04-11
+C1832,Kiran Patel,kiranpatel1831@example.com,8753662388,Pune,Maharashtra,India,Wholesale,Inactive,2027-04-12
+C1833,Meera Singh,meerasingh1832@example.com,9805312813,Noida,Uttar Pradesh,India,Corporate,Active,2027-04-13
+C1834,Priya Das,priyadas1833@example.com,7999710096,Hyderabad,Telangana,India,SMB,Active,2027-04-14
+C1835,Kiran Gupta,kirangupta1834@example.com,7253806331,Kolkata,West Bengal,India,Retail,Inactive,2027-04-15
+C1836,Arjun Das,arjundas1835@example.com,9856088396,Pune,Maharashtra,India,Wholesale,Active,2027-04-16
+C1837,Kiran Reddy,kiranreddy1836@example.com,8117923537,Chennai,Tamil Nadu,India,Retail,Inactive,2027-04-17
+C1838,Priya Joshi,priyajoshi1837@example.com,9795029618,Hyderabad,Telangana,India,Retail,Active,2027-04-18
+C1839,Pooja Naidu,poojanaidu1838@example.com,9880773370,Ahmedabad,Gujarat,India,Retail,Inactive,2027-04-19
+C1840,Nikhil Gupta,nikhilgupta1839@example.com,7000809178,Pune,Maharashtra,India,Wholesale,Active,2027-04-20
+C1841,Rahul Das,rahuldas1840@example.com,9407074198,Kolkata,West Bengal,India,Corporate,Active,2027-04-21
+C1842,Priya Gupta,priyagupta1841@example.com,7726197690,Ahmedabad,Gujarat,India,Corporate,Inactive,2027-04-22
+C1843,Nikhil Rao,nikhilrao1842@example.com,7476696154,Delhi,Delhi,India,Corporate,Inactive,2027-04-23
+C1844,Neha Das,nehadas1843@example.com,8674003809,Delhi,Delhi,India,Retail,Inactive,2027-04-24
+C1845,Rahul Iyer,rahuliyer1844@example.com,8920088951,Hyderabad,Telangana,India,Wholesale,Inactive,2027-04-25
+C1846,Swathi Rao,swathirao1845@example.com,8629952557,Ahmedabad,Gujarat,India,Retail,Active,2027-04-26
+C1847,Rahul Joshi,rahuljoshi1846@example.com,8977223717,Bengaluru,Karnataka,India,Corporate,Inactive,2027-04-27
+C1848,Kavya Mishra,kavyamishra1847@example.com,7973799565,Delhi,Delhi,India,Corporate,Active,2027-04-28
+C1849,Rahul Mishra,rahulmishra1848@example.com,8639010804,Bengaluru,Karnataka,India,Wholesale,Active,2027-04-29
+C1850,Rohan Sharma,rohansharma1849@example.com,9347836231,Chennai,Tamil Nadu,India,Retail,Active,2027-04-30
+C1851,Neha Mishra,nehamishra1850@example.com,7553401021,Pune,Maharashtra,India,SMB,Inactive,2027-05-01
+C1852,Manoj Iyer,manojiyer1851@example.com,8633807906,Mumbai,Maharashtra,India,SMB,Active,2027-05-02
+C1853,Arjun Gupta,arjungupta1852@example.com,8772795538,Kolkata,West Bengal,India,Corporate,Active,2027-05-03
+C1854,Neha Sharma,nehasharma1853@example.com,7475541325,Pune,Maharashtra,India,Wholesale,Inactive,2027-05-04
+C1855,Neha Das,nehadas1854@example.com,9057590266,Kolkata,West Bengal,India,Retail,Active,2027-05-05
+C1856,Amit Mishra,amitmishra1855@example.com,8814831699,Ahmedabad,Gujarat,India,Retail,Inactive,2027-05-06
+C1857,Ravi Rao,ravirao1856@example.com,7077309808,Chennai,Tamil Nadu,India,Corporate,Inactive,2027-05-07
+C1858,Manoj Gupta,manojgupta1857@example.com,7180494616,Vijayawada,Andhra Pradesh,India,Corporate,Inactive,2027-05-08
+C1859,Ravi Das,ravidas1858@example.com,8810088359,Hyderabad,Telangana,India,Retail,Active,2027-05-09
+C1860,Kavya Naidu,kavyanaidu1859@example.com,7116715789,Kolkata,West Bengal,India,Retail,Active,2027-05-10
+C1861,Amit Das,amitdas1860@example.com,8202751190,Kolkata,West Bengal,India,Corporate,Active,2027-05-11
+C1862,Amit Naidu,amitnaidu1861@example.com,7547410581,Ahmedabad,Gujarat,India,Retail,Active,2027-05-12
+C1863,Pooja Patel,poojapatel1862@example.com,8255067730,Bengaluru,Karnataka,India,SMB,Active,2027-05-13
+C1864,Ananya Joshi,ananyajoshi1863@example.com,7077337555,Pune,Maharashtra,India,Corporate,Active,2027-05-14
+C1865,Vikram Singh,vikramsingh1864@example.com,9668654285,Vijayawada,Andhra Pradesh,India,Retail,Inactive,2027-05-15
+C1866,Suresh Mishra,sureshmishra1865@example.com,9401680456,Noida,Uttar Pradesh,India,Corporate,Active,2027-05-16
+C1867,  manoj nair  ,manojnair1866@example.com,8308895994,Hyderabad,Telangana,India,Wholesale,Active,2027-05-17
+C1868,Pooja Iyer,poojaiyer1867@example.com,9698262139,Mumbai,Maharashtra,India,Corporate,Active,2027-05-18
+C1869,Suresh Singh,sureshsingh1868@example.com,9287825528,Noida,Uttar Pradesh,India,Corporate,Active,2027-05-19
+C1870,Vikram Nair,vikramnair1869@example.com,8209124347,Pune,Maharashtra,India,Wholesale,Active,2027-05-20
+C1871,Swathi Patel,swathipatel1870@example.com,9727686930,Hyderabad,Telangana,India,SMB,Active,2027-05-21
+C1872,Priya Mehta,priyamehta1871@example.com,8932057587,Kolkata,West Bengal,India,Retail,Active,2027-05-22
+C1873,Amit Mishra,amitmishra1872@example.com,7483529101,Mumbai,Maharashtra,India,Wholesale,Active,2027-05-23
+C1874,Divya Verma,,7938206327,Bengaluru,Karnataka,India,Corporate,Active,2027-05-24
+C1875,Priya Mishra,priyamishra1874@example.com,7516457908,Vijayawada,Andhra Pradesh,India,Retail,Active,2027-05-25
+C1876,Meera Das,meeradas1875@example.com,9322282300,Bengaluru,Karnataka,India,Wholesale,Active,2027-05-26
+C1877,Rohan Naidu,rohannaidu1876@example.com,7293522083,Chennai,Tamil Nadu,India,Retail,Inactive,2027-05-27
+C1878,Rohan Gupta,rohangupta1877@example.com,7414612391,Ahmedabad,Gujarat,India,Retail,Active,2027-05-28
+C1879,Priya Joshi,,8130932688,Hyderabad,Telangana,India,wholesale,Active,2027-05-29
+C1880,Amit Reddy,amitreddy1879@example.com,8038926109,Bengaluru,Karnataka,India,Retail,Active,2027-05-30
+C1881,Kavya Rao,kavyarao1880@example.com,7198099208,Noida,Uttar Pradesh,India,SMB,Active,2027-05-31
+C1882,Manoj Mehta,manojmehta1881@example.com,7053274943,Ahmedabad,Gujarat,India,Wholesale,Active,2027-06-01
+C1883,Vikram Iyer,vikramiyer1882@example.com,9435979936,Bengaluru,Karnataka,India,SMB,Active,2027-06-02
+C1884,  kiran sharma  ,kiransharma1883@example.com,9013343095,Delhi,Delhi,India,Corporate,Active,2027-06-03
+C1885,Nikhil Mehta,nikhilmehta1884@example.com,8219033907,Chennai,Tamil Nadu,India,Retail,Active,2027-06-04
+C1886,Rahul Mishra,rahulmishra1885@example.com,8293924440,Pune,Maharashtra,India,Corporate,Active,2027-06-05
+C1887,Sneha Patel,snehapatel1886@example.com,9569925834,Vijayawada,Andhra Pradesh,India,Corporate,Active,2027-06-06
+C1888,Sneha Sharma,snehasharma1887@example.com,7318862132,Chennai,Tamil Nadu,India,Retail,Active,2027-06-07
+C1889,Sneha Das,snehadas1888@example.com,8276626658,Ahmedabad,Gujarat,India,Wholesale,Active,2027-06-08
+C1890,Rohan Joshi,rohanjoshi1889@example.com,7972172264,Delhi,Delhi,India,Retail,Active,2027-06-09
+C1891,Rohan Iyer,rohaniyer1890@example.com,8288142778,Hyderabad,Telangana,India,Corporate,Active,2027-06-10
+C1892,Ravi Rao,ravirao1891@example.com,9571862056,Noida,Uttar Pradesh,India,Corporate,Active,2027-06-11
+C1893,Swathi Sharma,swathisharma1892@example.com,7206771907,Vijayawada,Andhra Pradesh,India,Wholesale,Active,2027-06-12
+C1894,Meera Nair,meeranair1893@example.com,7276987898,Vijayawada,Andhra Pradesh,India,Retail,Inactive,2027-06-13
+C1895,Divya Patel,divyapatel1894@example.com,9868199272,Chennai,Tamil Nadu,India,Corporate,Inactive,2027-06-14
+C1896,Arjun Patel,arjunpatel1895@example.com,8419091580,Ahmedabad,Gujarat,India,SMB,Active,2027-06-15
+C1897,Divya Verma,divyaverma1896@example.com,,Hyderabad,Telangana,India,Corporate,Active,2027-06-16
+C1898,Suresh Kumar,sureshkumar1897@example.com,8462031957,Kolkata,West Bengal,India,Corporate,Active,2027-06-17
+C1899,Ananya Nair,ananyanair1898@example.com,7795987070,Delhi,Delhi,India,Wholesale,Active,2027-06-18
+C1900,Nikhil Reddy,nikhilreddy1899@example.com,9689406206,Kolkata,West Bengal,India,SMB,Active,2027-06-19
+C1901,Suresh Iyer,sureshiyer1900@example.com,7339169974,Noida,Uttar Pradesh,India,Corporate,Active,2027-06-20
+C1902,Priya Mehta,,9281987087,Hyderabad,Telangana,India,Corporate,Active,2027-06-21
+C1903,Priya Mishra,priyamishra1902@example.com,8028688348,Hyderabad,Telangana,India,SMB,Inactive,2027-06-22
+C1904,Sneha Kumar,snehakumar1903@example.com,8225312687,Delhi,Delhi,India,Retail,Active,2027-06-23
+C1905,Arjun Mishra,arjunmishra1904@example.com,7148907677,Mumbai,Maharashtra,India,Retail,Active,2027-06-24
+C1906,Kiran Verma,kiranverma1905@example.com,8843325195,Kolkata,West Bengal,India,Corporate,Active,2027-06-25
+C1907,Nikhil Verma,nikhilverma1906@example.com,9503136290,Bengaluru,Karnataka,India,Corporate,Inactive,2027-06-26
+C1908,Suresh Patel,sureshpatel1907@example.com,8150092042,Vijayawada,Andhra Pradesh,India,Retail,Active,2027-06-27
+C1909,Priya Nair,priyanair1908@example.com,9462516692,Mumbai,Maharashtra,India,Wholesale,Inactive,2027-06-28
+C1910,Meera Patel,meerapatel1909@example.com,9239592190,Bengaluru,Karnataka,India,SMB,Inactive,2027-06-29
+C1911,Suresh Das,sureshdas1910@example.com,9829632148,Ahmedabad,Gujarat,India,SMB,Inactive,2027-06-30
+C1912,Arjun Kumar,arjunkumar1911@example.com,7273335620,Delhi,Delhi,India,Wholesale,Active,2027-07-01
+C1913,Divya Gupta,divyagupta1912@example.com,8083651375,Ahmedabad,Gujarat,India,Wholesale,Active,2027-07-02
+C1914,Nikhil Singh,nikhilsingh1913@example.com,7945860452,Vijayawada,Andhra Pradesh,India,Wholesale,Active,2027-07-03
+C1915,Isha Rao,isharao1914@example.com,9572593090,Pune,Maharashtra,India,Wholesale,Inactive,2027-07-04
+C1916,Manoj Naidu,manojnaidu1915@example.com,9097553067,Bengaluru,Karnataka,India,Wholesale,Active,2027-07-05
+C1917,Rahul Reddy,,7493633440,Mumbai,Maharashtra,India,Wholesale,Inactive,2027-07-06
+C1918,Ravi Iyer,raviiyer1917@example.com,7403113980,bengaluru,Karnataka,India,SMB,Active,2027-07-07
+C1919,Ananya Nair,ananyanair1918@example.com,9255887560,Bengaluru,Karnataka,India,Wholesale,Active,2027-07-08
+C1920,Priya Mishra,priyamishra1919@example.com,7140212104,Delhi,Delhi,India,Retail,Active,2027-07-09
+C1921,Arjun Kumar,arjunkumar1920@example.com,9874193219,Ahmedabad,Gujarat,India,Wholesale,Active,2027-07-10
+C1922,Divya Sharma,divyasharma1921@example.com,7277828065,Kolkata,West Bengal,India,Wholesale,Active,2027-07-11
+C1923,Nikhil Joshi,nikhiljoshi1922@example.com,9455743552,Pune,Maharashtra,India,smb,Active,2027-07-12
+C1924,Kavya Das,kavyadas1923@example.com,7107983879,Delhi,Delhi,India,SMB,Active,2027-07-13
+C1925,Neha Joshi,nehajoshi1924@example.com,9222415148,Noida,Uttar Pradesh,India,Wholesale,Active,2027-07-14
+C1926,Meera Naidu,meeranaidu1925@example.com,9982642006,Delhi,Delhi,India,SMB,Active,2027-07-15
+C1927,Rohan Mishra,rohanmishra1926@example.com,8848671662,Vijayawada,Andhra Pradesh,India,Corporate,Inactive,2027-07-16
+C1928,Neha Nair,nehanair1927@example.com,7353076647,Pune,Maharashtra,India,SMB,Inactive,2027-07-17
+C1929,Meera Sharma,meerasharma1928@example.com,8361275211,Hyderabad,Telangana,India,SMB,Active,2027-07-18
+C1930,Isha Verma,ishaverma1929@example.com,8866575435,Noida,Uttar Pradesh,India,SMB,Active,2027-07-19
+C1931,Arjun Mishra,arjunmishra1930@example.com,8994725549,Chennai,Tamil Nadu,India,SMB,Active,2027-07-20
+C1932,Divya Singh,divyasingh1931@example.com,7590660110,Delhi,Delhi,India,Retail,Active,2027-07-21
+C1933,Arjun Patel,arjunpatel1932@example.com,,Bengaluru,Karnataka,India,Retail,Inactive,2027-07-22
+C1934,Meera Nair,meeranair1933@example.com,8463792274,Kolkata,West Bengal,India,Retail,Active,2027-07-23
+C1935,Meera Verma,meeraverma1934@example.com,7707916595,Hyderabad,Telangana,India,Wholesale,Active,2027-07-24
+C1936,Rohan Mehta,rohanmehta1935@example.com,8904302684,Delhi,Delhi,India,Wholesale,Inactive,2027-07-25
+C1937,  divya patel  ,divyapatel1936@example.com,7732643733,Delhi,Delhi,India,Corporate,Inactive,2027-07-26
+C1938,Sneha Naidu,snehanaidu1937@example.com,9607429863,Mumbai,Maharashtra,India,Retail,Inactive,2027-07-27
+C1939,Ananya Naidu,ananyanaidu1938@example.com,9711445298,Mumbai,Maharashtra,India,Wholesale,Active,2027-07-28
+C1940,Priya Gupta,priyagupta1939@example.com,8912317477,Hyderabad,Telangana,India,SMB,Inactive,2027-07-29
+C1941,Neha Das,nehadas1940@example.com,9541319955,ahmedabad,Gujarat,India,SMB,Active,2027-07-30
+C1942,Amit Kumar,amitkumar1941@example.com,9747084978,Mumbai,Maharashtra,India,Retail,Active,2027-07-31
+C1943,Neha Singh,nehasingh1942@example.com,8019768963,Bengaluru,Karnataka,India,Corporate,Inactive,2027-08-01
+C1944,Swathi Mehta,swathimehta1943@example.com,9905229110,Noida,Uttar Pradesh,India,Corporate,Inactive,2027-08-02
+C1945,Swathi Mehta,swathimehta1944@example.com,9200585670,Chennai,Tamil Nadu,India,SMB,Active,2027-08-03
+C1946,Nikhil Nair,nikhilnair1945@example.com,7565619035,Pune,Maharashtra,India,Corporate,Active,2027-08-04
+C1947,Ananya Das,ananyadas1946@example.com,7447642139,Chennai,Tamil Nadu,India,Retail,Active,2027-08-05
+C1948,Amit Naidu,amitnaidu1947@example.com,8005814531,chennai,Tamil Nadu,India,SMB,Active,2027-08-06
+C1949,Ravi Joshi,ravijoshi1948@example.com,8651463573,Pune,Maharashtra,India,Wholesale,Active,2027-08-07
+C1950,Ananya Naidu,ananyanaidu1949@example.com,9094514092,Mumbai,Maharashtra,India,Wholesale,Inactive,2027-08-08
+C1951,Neha Das,nehadas1950@example.com,9801281877,hyderabad,Telangana,India,Corporate,Active,2027-08-09
+C1952,Manoj Gupta,manojgupta1951@example.com,8128183275,Pune,Maharashtra,India,SMB,Active,2027-08-10
+C1953,Kiran Kumar,kirankumar1952@example.com,8166378967,Vijayawada,Andhra Pradesh,India,SMB,Active,2027-08-11
+C1954,Divya Naidu,divyanaidu1953@example.com,9579776673,Ahmedabad,Gujarat,India,Wholesale,Active,2027-08-12
+C1955,Meera Nair,meeranair1954@example.com,9031077722,Noida,Uttar Pradesh,India,SMB,Active,2027-08-13
+C1956,Kavya Rao,kavyarao1955@example.com,9174396160,kolkata,West Bengal,India,SMB,Active,2027-08-14
+C1957,Isha Kumar,ishakumar1956@example.com,8155169863,Mumbai,Maharashtra,India,smb,Active,2027-08-15
+C1958,Pooja Gupta,poojagupta1957@example.com,,Ahmedabad,Gujarat,India,Corporate,Inactive,2027-08-16
+C1959,Swathi Joshi,swathijoshi1958@example.com,8747931045,Pune,Maharashtra,India,SMB,Active,2027-08-17
+C1960,Ravi Sharma,ravisharma1959@example.com,7304651525,Vijayawada,Andhra Pradesh,India,Retail,Active,2027-08-18
+C1961,Ravi Kumar,ravikumar1960@example.com,8092603544,Kolkata,West Bengal,India,Corporate,Active,2027-08-19
+C1962,Kiran Mishra,,7012545745,Noida,Uttar Pradesh,India,SMB,Active,2027-08-20
+C1963,Ravi Mishra,ravimishra1962@example.com,8554147216,Noida,Uttar Pradesh,India,SMB,Inactive,2027-08-21
+C1964,Isha Iyer,ishaiyer1963@example.com,7170793532,Mumbai,Maharashtra,India,Retail,Active,2027-08-22
+C1965,Vikram Sharma,vikramsharma1964@example.com,9029343499,Pune,Maharashtra,India,Corporate,Active,2027-08-23
+C1966,Ananya Verma,ananyaverma1965@example.com,9594468101,Ahmedabad,Gujarat,India,Wholesale,Active,2027-08-24
+C1967,Meera Iyer,meeraiyer1966@example.com,7196059865,Hyderabad,Telangana,India,Wholesale,Active,2027-08-25
+C1968,Swathi Nair,swathinair1967@example.com,7601398919,Ahmedabad,Gujarat,India,Corporate,Active,2027-08-26
+C1969,Priya Iyer,priyaiyer1968@example.com,8025881554,Ahmedabad,Gujarat,India,SMB,Active,2027-08-27
+C1970,Divya Kumar,divyakumar1969@example.com,8188908411,Noida,Uttar Pradesh,India,SMB,Active,2027-08-28
+C1971,Neha Das,nehadas1970@example.com,9017096041,Hyderabad,Telangana,India,Wholesale,Active,2027-08-29
+C1972,Arjun Das,arjundas1971@example.com,8934733752,Hyderabad,Telangana,India,Wholesale,Active,2027-08-30
+C1973,Ananya Naidu,ananyanaidu1972@example.com,8423124572,Mumbai,Maharashtra,India,Wholesale,Active,2027-08-31
+C1974,Ananya Naidu,ananyanaidu1973@example.com,,Kolkata,West Bengal,India,Retail,Active,2027-09-01
+C1975,Vikram Nair,vikramnair1974@example.com,9070350576,Delhi,Delhi,India,Wholesale,Active,2027-09-02
+C1976,Kiran Sharma,kiransharma1975@example.com,9673701730,Chennai,Tamil Nadu,India,Retail,Active,2027-09-03
+C1977,Divya Gupta,divyagupta1976@example.com,7842233255,Chennai,Tamil Nadu,India,Corporate,Inactive,2027-09-04
+C1978,Neha Sharma,nehasharma1977@example.com,9017534093,Noida,Uttar Pradesh,India,SMB,Active,2027-09-05
+C1979,Isha Mehta,ishamehta1978@example.com,9623280418,Delhi,Delhi,India,Wholesale,Inactive,2027-09-06
+C1980,Nikhil Das,nikhildas1979@example.com,8921861039,Kolkata,West Bengal,India,SMB,Active,2027-09-07
+C1981,Vikram Das,vikramdas1980@example.com,8205525228,Delhi,Delhi,India,SMB,Active,2027-09-08
+C1982,Isha Patel,ishapatel1981@example.com,9037053267,Mumbai,Maharashtra,India,Wholesale,Inactive,2027-09-09
+C1983,Ananya Iyer,ananyaiyer1982@example.com,7889026359,Ahmedabad,Gujarat,India,Wholesale,Active,2027-09-10
+C1984,Arjun Nair,arjunnair1983@example.com,9537756336,Noida,Uttar Pradesh,India,Corporate,Active,2027-09-11
+C1985,Kiran Joshi,kiranjoshi1984@example.com,9218662540,Hyderabad,Telangana,India,Retail,Active,2027-09-12
+C1986,Pooja Mehta,poojamehta1985@example.com,9306429628,Noida,Uttar Pradesh,India,Retail,Active,2027-09-13
+C1987,Suresh Sharma,sureshsharma1986@example.com,7023647205,Chennai,Tamil Nadu,India,SMB,Inactive,2027-09-14
+C1988,Divya Verma,divyaverma1987@example.com,7032916781,Kolkata,West Bengal,India,Wholesale,Inactive,2027-09-15
+C1989,Divya Mishra,divyamishra1988@example.com,7212587376,Delhi,Delhi,India,Corporate,Active,2027-09-16
+C1990,Amit Reddy,amitreddy1989@example.com,7940893373,Kolkata,West Bengal,India,Corporate,Active,2027-09-17
+C1991,Manoj Verma,manojverma1990@example.com,7157717034,Mumbai,Maharashtra,India,Corporate,Active,2027-09-18
+C1992,Meera Patel,meerapatel1991@example.com,7463967099,Noida,Uttar Pradesh,India,Corporate,Active,2027-09-19
+C1993,Amit Gupta,amitgupta1992@example.com,8223670624,Pune,Maharashtra,India,Corporate,Active,2027-09-20
+C1994,Manoj Joshi,manojjoshi1993@example.com,8455395417,Noida,Uttar Pradesh,India,Retail,Active,2027-09-21
+C1995,Swathi Rao,swathirao1994@example.com,8987933990,Hyderabad,Telangana,India,Retail,Active,2027-09-22
+C1996,Swathi Reddy,swathireddy1995@example.com,8883508468,Noida,Uttar Pradesh,India,Retail,Active,2027-09-23
+C1997,Rahul Gupta,rahulgupta1996@example.com,9456930224,Vijayawada,Andhra Pradesh,India,Wholesale,Active,2027-09-24
+C1998,Kiran Das,kirandas1997@example.com,7938492607,Mumbai,Maharashtra,India,SMB,Active,2027-09-25
+C1999,Arjun Joshi,arjunjoshi1998@example.com,9201891133,Bengaluru,Karnataka,India,Corporate,Inactive,2027-09-26
+C2000,Pooja Reddy,poojareddy1999@example.com,8704229481,Mumbai,Maharashtra,India,Wholesale,Inactive,2027-09-27
+C2001,Arjun Mishra,arjunmishra2000@example.com,8260524906,Delhi,Delhi,India,Corporate,Active,2027-09-28
+C2002,Nikhil Kumar,,7190644021,Bengaluru,Karnataka,India,Retail,Active,2027-09-29
+C2003,Vikram Joshi,vikramjoshi2002@example.com,8193236712,Delhi,Delhi,India,Wholesale,Active,2027-09-30
+C2004,Rohan Mehta,rohanmehta2003@example.com,8705166600,Delhi,Delhi,India,Retail,Active,2027-10-01
+C2005,Isha Singh,ishasingh2004@example.com,7374060580,Hyderabad,Telangana,India,Corporate,Inactive,2027-10-02
+C2006,Sneha Joshi,snehajoshi2005@example.com,8222185776,Hyderabad,Telangana,India,Corporate,Active,2027-10-03
+C2007,Divya Mehta,divyamehta2006@example.com,9650280488,Ahmedabad,Gujarat,India,SMB,Active,2027-10-04
+C2008,Isha Joshi,ishajoshi2007@example.com,7488932183,Chennai,Tamil Nadu,India,Corporate,Active,2027-10-05
+C2009,Swathi Kumar,swathikumar2008@example.com,9283202324,Ahmedabad,Gujarat,India,Retail,Inactive,2027-10-06
+C2010,Manoj Naidu,manojnaidu2009@example.com,8482722098,Ahmedabad,Gujarat,India,Corporate,Active,2027-10-07
+C2011,Sneha Iyer,snehaiyer2010@example.com,9179317670,Chennai,Tamil Nadu,India,SMB,Inactive,2027-10-08
+C2012,Priya Patel,priyapatel2011@example.com,9468659382,Pune,Maharashtra,India,SMB,Active,2027-10-09
+C2013,Priya Nair,priyanair2012@example.com,7127424038,Bengaluru,Karnataka,India,Retail,Active,2027-10-10
+C2014,Priya Patel,priyapatel2013@example.com,9119766412,Kolkata,West Bengal,India,Wholesale,Active,2027-10-11
+C2015,Ananya Verma,ananyaverma2014@example.com,9900907711,Ahmedabad,Gujarat,India,Corporate,Active,2027-10-12
+C2016,Pooja Reddy,poojareddy2015@example.com,7192644589,Noida,Uttar Pradesh,India,SMB,Active,2027-10-13
+C2017,Manoj Iyer,manojiyer2016@example.com,8935299466,Noida,Uttar Pradesh,India,Corporate,Active,2027-10-14
+C2018,Divya Reddy,divyareddy2017@example.com,7564741452,Delhi,Delhi,India,Corporate,Active,2027-10-15
+C2019,Amit Sharma,amitsharma2018@example.com,8179962925,Chennai,Tamil Nadu,India,Wholesale,Active,2027-10-16
+C2020,Neha Singh,nehasingh2019@example.com,7709545516,Delhi,Delhi,India,SMB,Active,2027-10-17
+C2021,Nikhil Kumar,nikhilkumar2020@example.com,8694691328,Vijayawada,Andhra Pradesh,India,Corporate,Active,2027-10-18
+C2022,Arjun Iyer,arjuniyer2021@example.com,8674488999,Vijayawada,Andhra Pradesh,India,SMB,Active,2027-10-19
+C2023,Neha Patel,nehapatel2022@example.com,8811738219,Kolkata,West Bengal,India,Retail,Active,2027-10-20
+C2024,Kavya Mehta,kavyamehta2023@example.com,8765322059,Hyderabad,Telangana,India,Retail,Active,2027-10-21
+C2025,Pooja Joshi,poojajoshi2024@example.com,9881678268,Hyderabad,Telangana,India,Corporate,Active,2027-10-22
+C2026,Meera Mehta,meeramehta2025@example.com,8108845676,Chennai,Tamil Nadu,India,SMB,Active,2027-10-23
+C2027,Priya Verma,priyaverma2026@example.com,9610933003,Chennai,Tamil Nadu,India,Corporate,Active,2027-10-24
+C2028,Rahul Singh,rahulsingh2027@example.com,9897418684,Ahmedabad,Gujarat,India,SMB,Inactive,2027-10-25
+C2029,  ananya mishra  ,ananyamishra2028@example.com,8328745711,Vijayawada,Andhra Pradesh,India,SMB,Active,2027-10-26
+C2030,Kiran Mehta,kiranmehta2029@example.com,8274435488,Ahmedabad,Gujarat,India,Wholesale,Active,2027-10-27
+C2031,Nikhil Mehta,nikhilmehta2030@example.com,7006722055,Hyderabad,Telangana,India,Wholesale,Active,2027-10-28
+C2032,Vikram Naidu,vikramnaidu2031@example.com,9733323098,Bengaluru,Karnataka,India,Wholesale,Active,2027-10-29
+C2033,Isha Sharma,ishasharma2032@example.com,7009035949,Bengaluru,Karnataka,India,Corporate,Active,2027-10-30
+C2034,Vikram Rao,vikramrao2033@example.com,7219624790,Chennai,Tamil Nadu,India,wholesale,Inactive,2027-10-31
+C2035,Rohan Das,rohandas2034@example.com,8106414572,Delhi,Delhi,India,Wholesale,Active,2027-11-01
+C2036,Priya Reddy,priyareddy2035@example.com,7255656662,Hyderabad,Telangana,India,Retail,Active,2027-11-02
+C2037,Rahul Singh,rahulsingh2036@example.com,7174198448,Bengaluru,Karnataka,India,SMB,Inactive,2027-11-03
+C2038,Ravi Gupta,ravigupta2037@example.com,9593281710,Hyderabad,Telangana,India,SMB,Active,2027-11-04
+C2039,Divya Gupta,divyagupta2038@example.com,9948881233,Mumbai,Maharashtra,India,Wholesale,Inactive,2027-11-05
+C2040,Sneha Mishra,snehamishra2039@example.com,8102493329,Noida,Uttar Pradesh,India,SMB,Active,2027-11-06
+C2041,Nikhil Nair,nikhilnair2040@example.com,7491720641,Vijayawada,Andhra Pradesh,India,retail,Inactive,2027-11-07
+C2042,Suresh Iyer,sureshiyer2041@example.com,9857407811,Ahmedabad,Gujarat,India,Retail,Active,2027-11-08
+C2043,Arjun Rao,arjunrao2042@example.com,8648575453,Hyderabad,Telangana,India,Wholesale,Active,2027-11-09
+C2044,Meera Iyer,meeraiyer2043@example.com,8959520894,Noida,Uttar Pradesh,India,Retail,Active,2027-11-10
+C2045,Pooja Joshi,poojajoshi2044@example.com,9846122403,Mumbai,Maharashtra,India,SMB,Active,2027-11-11
+C2046,Kiran Kumar,kirankumar2045@example.com,,Ahmedabad,Gujarat,India,Corporate,Inactive,2027-11-12
+C2047,Rahul Patel,rahulpatel2046@example.com,7396360164,Hyderabad,Telangana,India,SMB,Active,2027-11-13
+C2048,Neha Das,nehadas2047@example.com,7519798418,Chennai,Tamil Nadu,India,Corporate,Active,2027-11-14
+C2049,Divya Kumar,divyakumar2048@example.com,9561181422,Noida,Uttar Pradesh,India,Wholesale,Active,2027-11-15
+C2050,Isha Joshi,ishajoshi2049@example.com,8799367067,Ahmedabad,Gujarat,India,Corporate,Inactive,2027-11-16
+C2051,Suresh Singh,sureshsingh2050@example.com,9360443815,Hyderabad,Telangana,India,Retail,Active,2027-11-17
+C2052,Nikhil Singh,nikhilsingh2051@example.com,7304975584,Noida,Uttar Pradesh,India,SMB,Active,2027-11-18
+C2053,Divya Singh,divyasingh2052@example.com,8736196427,Mumbai,Maharashtra,India,Corporate,Active,2027-11-19
+C2054,Rohan Kumar,rohankumar2053@example.com,7344370553,Hyderabad,Telangana,India,SMB,Active,2027-11-20
+C2055,Divya Gupta,divyagupta2054@example.com,8379032818,Hyderabad,Telangana,India,Wholesale,Inactive,2027-11-21
+C2056,Nikhil Nair,nikhilnair2055@example.com,8523731086,Hyderabad,Telangana,India,Wholesale,Active,2027-11-22
+C2057,Ananya Joshi,ananyajoshi2056@example.com,8772427009,Kolkata,West Bengal,India,Retail,Active,2027-11-23
+C2058,Isha Sharma,ishasharma2057@example.com,9871497662,Chennai,Tamil Nadu,India,Wholesale,Active,2027-11-24
+C2059,Meera Sharma,meerasharma2058@example.com,9774961948,Mumbai,Maharashtra,India,Corporate,Active,2027-11-25
+C2060,Kiran Nair,kirannair2059@example.com,9914865256,Ahmedabad,Gujarat,India,Wholesale,Active,2027-11-26
+C2061,Rahul Patel,rahulpatel2060@example.com,9776481993,Kolkata,West Bengal,India,Retail,Active,2027-11-27
+C2062,Ravi Verma,raviverma2061@example.com,8554434497,Delhi,Delhi,India,SMB,Inactive,2027-11-28
+C2063,Arjun Rao,arjunrao2062@example.com,9549753674,Kolkata,West Bengal,India,SMB,Active,2027-11-29
+C2064,Rahul Singh,rahulsingh2063@example.com,9571364300,Vijayawada,Andhra Pradesh,India,Wholesale,Active,2027-11-30
+C2065,Rahul Kumar,rahulkumar2064@example.com,7043513097,Vijayawada,Andhra Pradesh,India,Corporate,Active,2027-12-01
+C2066,Rohan Reddy,rohanreddy2065@example.com,9156733325,Hyderabad,Telangana,India,Retail,Active,2027-12-02
+C2067,Meera Joshi,meerajoshi2066@example.com,9732011729,Kolkata,West Bengal,India,Corporate,Active,2027-12-03
+C2068,Pooja Patel,poojapatel2067@example.com,7596447794,Delhi,Delhi,India,Retail,Active,2027-12-04
+C2069,Swathi Gupta,swathigupta2068@example.com,7497089224,Kolkata,West Bengal,India,Wholesale,Active,2027-12-05
+C2070,Suresh Mehta,sureshmehta2069@example.com,9630983032,Chennai,Tamil Nadu,India,Retail,Active,2027-12-06
+C2071,Priya Naidu,priyanaidu2070@example.com,7662806054,Chennai,Tamil Nadu,India,Retail,Inactive,2027-12-07
+C2072,Swathi Mishra,swathimishra2071@example.com,7738083586,Delhi,Delhi,India,Wholesale,Inactive,2027-12-08
+C2073,  vikram nair  ,vikramnair2072@example.com,,Kolkata,West Bengal,India,Corporate,Inactive,2027-12-09
+C2074,Nikhil Das,nikhildas2073@example.com,7517794458,Noida,Uttar Pradesh,India,Wholesale,Active,2027-12-10
+C2075,Swathi Verma,swathiverma2074@example.com,9276296284,Chennai,Tamil Nadu,India,Retail,Active,2027-12-11
+C2076,Divya Rao,divyarao2075@example.com,7285374117,Chennai,Tamil Nadu,India,Wholesale,Active,2027-12-12
+C2077,Isha Verma,ishaverma2076@example.com,9293372815,Bengaluru,Karnataka,India,Retail,Active,2027-12-13
+C2078,Amit Patel,amitpatel2077@example.com,7610474279,Kolkata,West Bengal,India,Wholesale,Active,2027-12-14
+C2079,Kavya Sharma,kavyasharma2078@example.com,7050279504,Chennai,Tamil Nadu,India,SMB,Active,2027-12-15
+C2080,Pooja Joshi,poojajoshi2079@example.com,9984497064,Mumbai,Maharashtra,India,SMB,Active,2027-12-16
+C2081,Neha Sharma,nehasharma2080@example.com,8812623357,Kolkata,West Bengal,India,Wholesale,Active,2027-12-17
+C2082,Ravi Verma,raviverma2081@example.com,9287038731,Vijayawada,Andhra Pradesh,India,Corporate,Active,2027-12-18
+C2083,Neha Mishra,nehamishra2082@example.com,8267190178,Bengaluru,Karnataka,India,Retail,Active,2027-12-19
+C2084,Ananya Singh,ananyasingh2083@example.com,8927809258,Chennai,Tamil Nadu,India,SMB,Inactive,2027-12-20
+C2085,Nikhil Rao,nikhilrao2084@example.com,9087356224,Bengaluru,Karnataka,India,Corporate,Active,2027-12-21
+C2086,Nikhil Sharma,nikhilsharma2085@example.com,7362462518,Vijayawada,Andhra Pradesh,India,Retail,Inactive,2027-12-22
+C2087,Ravi Verma,raviverma2086@example.com,9479054636,Delhi,Delhi,India,SMB,Active,2027-12-23
+C2088,Suresh Iyer,sureshiyer2087@example.com,8715275726,Delhi,Delhi,India,SMB,Active,2027-12-24
+C2089,Swathi Sharma,swathisharma2088@example.com,7187857881,Kolkata,West Bengal,India,Wholesale,Active,2027-12-25
+C2090,Rohan Iyer,rohaniyer2089@example.com,,Vijayawada,Andhra Pradesh,India,Retail,Active,2027-12-26
+C2091,Neha Nair,nehanair2090@example.com,9399350832,Pune,Maharashtra,India,Corporate,Active,2027-12-27
+C2092,Neha Kumar,nehakumar2091@example.com,7927933566,Pune,Maharashtra,India,Corporate,Active,2027-12-28
+C2093,Divya Das,divyadas2092@example.com,8473892574,Kolkata,West Bengal,India,Corporate,Active,2027-12-29
+C2094,Neha Naidu,nehanaidu2093@example.com,9004065176,Hyderabad,Telangana,India,Retail,Inactive,2027-12-30
+C2095,Meera Patel,meerapatel2094@example.com,9801571320,Bengaluru,Karnataka,India,Corporate,Active,2027-12-31
+C2096,Ravi Kumar,ravikumar2095@example.com,7289414437,Bengaluru,Karnataka,India,Corporate,Inactive,2028-01-01
+C2097,Manoj Nair,manojnair2096@example.com,8663838484,Delhi,Delhi,India,Corporate,Inactive,2028-01-02
+C2098,Kavya Mehta,kavyamehta2097@example.com,9974234037,Pune,Maharashtra,India,Wholesale,Inactive,2028-01-03
+C2099,Kavya Singh,kavyasingh2098@example.com,8846539921,ahmedabad,Gujarat,India,Wholesale,Active,2028-01-04
+C2100,Kiran Iyer,kiraniyer2099@example.com,8734728099,Chennai,Tamil Nadu,India,Retail,Active,2028-01-05
+C2101,Priya Sharma,priyasharma2100@example.com,9890369634,Chennai,Tamil Nadu,India,Retail,Active,2028-01-06
+C2102,Ananya Nair,ananyanair2101@example.com,7333352364,Chennai,Tamil Nadu,India,Corporate,Active,2028-01-07
+C2103,Kiran Kumar,kirankumar2102@example.com,8182753142,Delhi,Delhi,India,Wholesale,Inactive,2028-01-08
+C2104,Kiran Naidu,kirannaidu2103@example.com,9330167368,Vijayawada,Andhra Pradesh,India,SMB,Active,2028-01-09
+C2105,  kavya mishra  ,kavyamishra2104@example.com,8315606452,Noida,Uttar Pradesh,India,SMB,Inactive,2028-01-10
+C2106,Kiran Singh,kiransingh2105@example.com,9535257117,Pune,Maharashtra,India,Corporate,Active,2028-01-11
+C2107,Amit Nair,amitnair2106@example.com,8917357243,Pune,Maharashtra,India,Corporate,Active,2028-01-12
+C2108,Kiran Das,kirandas2107@example.com,7971861355,Ahmedabad,Gujarat,India,Wholesale,Active,2028-01-13
+C2109,Sneha Sharma,snehasharma2108@example.com,8650296607,Bengaluru,Karnataka,India,Wholesale,Active,2028-01-14
+C2110,Ananya Mehta,ananyamehta2109@example.com,8933265090,Hyderabad,Telangana,India,Wholesale,Inactive,2028-01-15
+C2111,Sneha Rao,sneharao2110@example.com,9487930027,Kolkata,West Bengal,India,Retail,Active,2028-01-16
+C2112,Manoj Rao,manojrao2111@example.com,8851067454,Bengaluru,Karnataka,India,Retail,Inactive,2028-01-17
+C2113,Priya Sharma,priyasharma2112@example.com,7424658966,Vijayawada,Andhra Pradesh,India,Corporate,Active,2028-01-18
+C2114,Amit Naidu,amitnaidu2113@example.com,8369522535,Kolkata,West Bengal,India,Retail,Active,2028-01-19
+C2115,Manoj Mishra,manojmishra2114@example.com,9500524591,Pune,Maharashtra,India,Wholesale,Active,2028-01-20
+C2116,Suresh Kumar,sureshkumar2115@example.com,7052869791,Vijayawada,Andhra Pradesh,India,Wholesale,Inactive,2028-01-21
+C2117,Vikram Naidu,vikramnaidu2116@example.com,8594173433,Kolkata,West Bengal,India,Retail,Active,2028-01-22
+C2118,Nikhil Kumar,nikhilkumar2117@example.com,8589362682,Ahmedabad,Gujarat,India,SMB,Active,2028-01-23
+C2119,Divya Iyer,divyaiyer2118@example.com,9581593912,Ahmedabad,Gujarat,India,Corporate,Active,2028-01-24
+C2120,Vikram Nair,,7117769333,Mumbai,Maharashtra,India,SMB,Inactive,2028-01-25
+C2121,Manoj Joshi,manojjoshi2120@example.com,8687811451,Noida,Uttar Pradesh,India,Corporate,Active,2028-01-26
+C2122,Ravi Kumar,ravikumar2121@example.com,12345,Ahmedabad,Gujarat,India,SMB,Active,2028-01-27
+C2123,Rohan Reddy,rohanreddy2122@example.com,9258347927,Pune,Maharashtra,India,Retail,Active,2028-01-28
+C2124,  divya rao  ,divyarao2123@example.com,8608692390,Hyderabad,Telangana,India,Corporate,Active,2028-01-29
+C2125,Suresh Reddy,sureshreddy2124@example.com,9197654817,Chennai,Tamil Nadu,India,Corporate,Active,2028-01-30
+C2126,Neha Mehta,nehamehta2125@example.com,7716659127,Mumbai,Maharashtra,India,Corporate,Active,2028-01-31
+C2127,Meera Iyer,meeraiyer2126@example.com,7711368347,Chennai,Tamil Nadu,India,Wholesale,Inactive,2028-02-01
+C2128,  priya mehta  ,priyamehta2127@example.com,8849109412,Noida,Uttar Pradesh,India,Wholesale,Active,2028-02-02
+C2129,  kiran reddy  ,kiranreddy2128@example.com,9773434374,Kolkata,West Bengal,India,SMB,Active,2028-02-03
+C2130,Neha Sharma,nehasharma2129@example.com,7612437187,Delhi,Delhi,India,Retail,Active,2028-02-04
+C2131,Ananya Joshi,ananyajoshi2130@example.com,7192321956,Ahmedabad,Gujarat,India,Wholesale,Active,2028-02-05
+C2132,Divya Singh,divyasingh2131@example.com,8485532352,Hyderabad,Telangana,India,Corporate,Active,2028-02-06
+C2133,Priya Singh,priyasingh2132@example.com,7663399571,Noida,Uttar Pradesh,India,Wholesale,Active,2028-02-07
+C2134,Nikhil Joshi,nikhiljoshi2133@example.com,8459296018,Chennai,Tamil Nadu,India,Retail,Inactive,2028-02-08
+C2135,Sneha Nair,snehanair2134@example.com,7109297308,Mumbai,Maharashtra,India,Wholesale,Active,2028-02-09
+C2136,Suresh Verma,sureshverma2135@example.com,9221526217,Ahmedabad,Gujarat,India,Corporate,Inactive,2028-02-10
+C2137,Ananya Mehta,ananyamehta2136@example.com,9773786043,Pune,Maharashtra,India,SMB,Active,2028-02-11
+C2138,Swathi Joshi,swathijoshi2137@example.com,8627407249,Ahmedabad,Gujarat,India,Corporate,Active,2028-02-12
+C2139,Suresh Mishra,sureshmishra2138@example.com,9735474651,Mumbai,Maharashtra,India,Retail,Inactive,2028-02-13
+C2140,Suresh Verma,sureshverma2139@example.com,7028820898,mumbai,Maharashtra,India,SMB,Active,2028-02-14
+C2141,Kavya Nair,kavyanair2140@example.com,8462883754,Delhi,Delhi,India,Wholesale,Active,2028-02-15
+C2142,Nikhil Naidu,,8657318382,Ahmedabad,Gujarat,India,Wholesale,Active,2028-02-16
+C2143,Sneha Das,snehadas2142@example.com,7308000222,Ahmedabad,Gujarat,India,Wholesale,Active,2028-02-17
+C2144,Manoj Nair,manojnair2143@example.com,8759342717,Delhi,Delhi,India,SMB,Active,2028-02-18
+C2145,Sneha Singh,snehasingh2144@example.com,9559752586,Vijayawada,Andhra Pradesh,India,Corporate,Active,2028-02-19
+C2146,Amit Rao,amitrao2145@example.com,8336668976,Vijayawada,Andhra Pradesh,India,SMB,Active,2028-02-20
+C2147,Manoj Sharma,,7434908016,Kolkata,West Bengal,India,SMB,Active,2028-02-21
+C2148,Meera Mishra,meeramishra2147@example.com,9908210981,Vijayawada,Andhra Pradesh,India,Retail,Active,2028-02-22
+C2149,Sneha Singh,snehasingh2148@example.com,9601802052,Bengaluru,Karnataka,India,SMB,Inactive,2028-02-23
+C2150,Isha Mehta,ishamehta2149@example.com,9280994183,Ahmedabad,Gujarat,India,Wholesale,Inactive,2028-02-24
+C2151,Nikhil Joshi,nikhiljoshi2150@example.com,8565918113,Hyderabad,Telangana,India,Corporate,Active,2028-02-25
+C2152,Arjun Gupta,arjungupta2151@example.com,7935841395,Ahmedabad,Gujarat,India,Corporate,Inactive,2028-02-26
+C2153,Kavya Iyer,kavyaiyer2152@example.com,9492032439,Bengaluru,Karnataka,India,corporate,Active,2028-02-27
+C2154,Sneha Mehta,snehamehta2153@example.com,9403843557,Bengaluru,Karnataka,India,Wholesale,Active,2028-02-28
+C2155,Swathi Sharma,swathisharma2154@example.com,8949922112,Chennai,Tamil Nadu,India,Wholesale,Inactive,2028-02-29
+C2156,Rohan Mishra,rohanmishra2155@example.com,7452084766,Ahmedabad,Gujarat,India,Wholesale,Inactive,2028-03-01
+C2157,Sneha Iyer,snehaiyer2156@example.com,9956115331,Noida,Uttar Pradesh,India,Wholesale,Active,2028-03-02
+C2158,Suresh Verma,sureshverma2157@example.com,7718804592,Bengaluru,Karnataka,India,Wholesale,Inactive,2028-03-03
+C2159,Divya Iyer,divyaiyer2158@example.com,7603670380,Hyderabad,Telangana,India,SMB,Active,2028-03-04
+C2160,Vikram Mishra,vikrammishra2159@example.com,9085591876,Delhi,Delhi,India,wholesale,Active,2028-03-05
+C2161,Vikram Nair,vikramnair2160@example.com,7981343133,Kolkata,West Bengal,India,Wholesale,Active,2028-03-06
+C2162,Rohan Iyer,rohaniyer2161@example.com,7118269303,Chennai,Tamil Nadu,India,Wholesale,Inactive,2028-03-07
+C2163,Pooja Gupta,poojagupta2162@example.com,9170913210,Delhi,Delhi,India,Wholesale,Inactive,2028-03-08
+C2164,Sneha Patel,snehapatel2163@example.com,9284547650,Chennai,Tamil Nadu,India,Corporate,Active,2028-03-09
+C2165,  sneha rao  ,sneharao2164@example.com,7583209516,Hyderabad,Telangana,India,Wholesale,Active,2028-03-10
+C2166,Vikram Rao,vikramrao2165@example.com,8650155267,Mumbai,Maharashtra,India,SMB,Inactive,2028-03-11
+C2167,Ravi Joshi,ravijoshi2166@example.com,7426499737,Ahmedabad,Gujarat,India,SMB,Inactive,2028-03-12
+C2168,Amit Iyer,amitiyer2167@example.com,7167486618,Pune,Maharashtra,India,SMB,Active,2028-03-13
+C2169,Nikhil Das,nikhildas2168@example.com,7897064365,Noida,Uttar Pradesh,India,Retail,Active,2028-03-14
+C2170,Amit Verma,amitverma2169@example.com,,Delhi,Delhi,India,Corporate,Active,2028-03-15
+C2171,Kiran Iyer,kiraniyer2170@example.com,8666390463,Ahmedabad,Gujarat,India,Wholesale,Active,2028-03-16
+C2172,Kiran Nair,kirannair2171@example.com,8778761690,Noida,Uttar Pradesh,India,Retail,Active,2028-03-17
+C2173,Pooja Gupta,poojagupta2172@example.com,7687301865,Mumbai,Maharashtra,India,Wholesale,Active,2028-03-18
+C2174,Pooja Gupta,poojagupta2173@example.com,8698377266,Pune,Maharashtra,India,Retail,Active,2028-03-19
+C2175,Kavya Kumar,kavyakumar2174@example.com,7100296497,Noida,Uttar Pradesh,India,Retail,Active,2028-03-20
+C2176,Rahul Patel,rahulpatel2175@example.com,8345210629,Noida,Uttar Pradesh,India,smb,Active,2028-03-21
+C2177,Swathi Gupta,swathigupta2176@example.com,7631625852,Delhi,Delhi,India,SMB,Active,2028-03-22
+C2178,Manoj Patel,manojpatel2177@example.com,8969341326,Vijayawada,Andhra Pradesh,India,Retail,Active,2028-03-23
+C2179,Vikram Iyer,vikramiyer2178@example.com,9095304948,Pune,Maharashtra,India,SMB,Active,2028-03-24
+C2180,Swathi Reddy,swathireddy2179@example.com,8242296861,Ahmedabad,Gujarat,India,Retail,Active,2028-03-25
+C2181,Sneha Iyer,snehaiyer2180@example.com,7558550953,Mumbai,Maharashtra,India,Corporate,Inactive,2028-03-26
+C2182,Ravi Verma,raviverma2181@example.com,7498813052,Pune,Maharashtra,India,SMB,Inactive,2028-03-27
+C2183,Swathi Singh,swathisingh2182@example.com,8590842916,Hyderabad,Telangana,India,SMB,Active,2028-03-28
+C2184,Nikhil Kumar,nikhilkumar2183@example.com,8609769083,Vijayawada,Andhra Pradesh,India,SMB,Active,2028-03-29
+C2185,Arjun Joshi,arjunjoshi2184@example.com,8348476772,Hyderabad,Telangana,India,Corporate,Active,2028-03-30
+C2186,Priya Kumar,priyakumar2185@example.com,12345,Mumbai,Maharashtra,India,Retail,Active,2028-03-31
+C2187,Rohan Rao,rohanrao2186@example.com,8907513989,Delhi,Delhi,India,Wholesale,Active,2028-04-01
+C2188,Kavya Singh,kavyasingh2187@example.com,9589619907,Delhi,Delhi,India,SMB,Active,2028-04-02
+C2189,Nikhil Reddy,nikhilreddy2188@example.com,9342394056,Mumbai,Maharashtra,India,Retail,Active,2028-04-03
+C2190,Vikram Das,vikramdas2189@example.com,7378823452,Chennai,Tamil Nadu,India,Corporate,Active,2028-04-04
+C2191,Pooja Naidu,poojanaidu2190@example.com,8238691916,Mumbai,Maharashtra,India,Wholesale,Inactive,2028-04-05
+C2192,Meera Mishra,meeramishra2191@example.com,9606518330,Vijayawada,Andhra Pradesh,India,SMB,Active,2028-04-06
+C2193,Priya Reddy,priyareddy2192@example.com,7651049597,Bengaluru,Karnataka,India,Corporate,Active,2028-04-07
+C2194,Vikram Singh,vikramsingh2193@example.com,8672812019,Delhi,Delhi,India,Corporate,Active,2028-04-08
+C2195,Swathi Reddy,swathireddy2194@example.com,7132876176,Kolkata,West Bengal,India,Wholesale,Active,2028-04-09
+C2196,Pooja Rao,poojarao2195@example.com,8655761004,Vijayawada,Andhra Pradesh,India,Retail,Active,2028-04-10
+C2197,Vikram Naidu,vikramnaidu2196@example.com,8461951471,Vijayawada,Andhra Pradesh,India,SMB,Active,2028-04-11
+C2198,Rohan Das,rohandas2197@example.com,9325327939,Vijayawada,Andhra Pradesh,India,SMB,Active,2028-04-12
+C2199,Vikram Gupta,vikramgupta2198@example.com,7662047908,Noida,Uttar Pradesh,India,Retail,Active,2028-04-13
+C2200,Meera Reddy,meerareddy2199@example.com,9052472296,Vijayawada,Andhra Pradesh,India,Retail,Active,2028-04-14
+C2201,Suresh Nair,sureshnair1528@example.com,8648549962,Hyderabad,Telangana,India,SMB,Active,2026-06-13
+C2202,  nikhil rao  ,nikhilrao1480@example.com,7278544087,Bengaluru,Karnataka,India,SMB,Inactive,2026-04-26
+C2203,Rohan Gupta,rohangupta1827@example.com,7913300670,Bengaluru,Karnataka,India,SMB,Active,2027-04-08
+C2204,Arjun Sharma,arjunsharma1196@example.com,9654511712,Noida,Uttar Pradesh,India,Corporate,Inactive,2025-07-16
+C2205,Meera Mishra,meeramishra2191@example.com,9606518330,Vijayawada,Andhra Pradesh,India,SMB,Active,2028-04-06
+C2206,Sneha Das,snehadas1364@example.com,8887230075,Pune,Maharashtra,India,Retail,Active,2025-12-31
+C2207,Arjun Joshi,arjunjoshi1181@example.com,9985153591,Pune,Maharashtra,India,SMB,Inactive,2025-07-01
+C2208,Amit Sharma,amitsharma1772@example.com,7475660933,Mumbai,Maharashtra,India,SMB,Inactive,2027-02-12
+C2209,Neha Mishra,nehamishra1272@example.com,7328207919,Pune,Maharashtra,India,Wholesale,Active,2025-09-30
+C2210,Meera Das,meeradas1593@example.com,7199718506,Ahmedabad,Gujarat,India,Retail,Active,2026-08-17
+C2211,Ravi Mishra,ravimishra1779@example.com,8092304599,Noida,Uttar Pradesh,India,Retail,Inactive,2027-02-19
+C2212,Suresh Mishra,sureshmishra2138@example.com,9735474651,Mumbai,Maharashtra,India,Retail,Inactive,2028-02-13
+C2213,Kiran Mishra,kiranmishra1757@example.com,,Pune,Maharashtra,India,SMB,Active,2027-01-28
+C2214,Divya Gupta,divyagupta1976@example.com,7842233255,Chennai,Tamil Nadu,India,Corporate,Inactive,2027-09-04
+C2215,Pooja Naidu,poojanaidu1737@example.com,7791239679,Delhi,Delhi,India,Wholesale,Active,2027-01-08
+C2216,Kavya Verma,,8492808336,Pune,Maharashtra,India,Corporate,Active,2025-03-02
+C2217,Ananya Sharma,ananyasharma1010@example.com,8723088968,Ahmedabad,Gujarat,India,Corporate,Active,2025-01-11
+C2218,Kavya Gupta,kavyagupta1643@example.com,7290633384,Hyderabad,Telangana,India,SMB,Inactive,2026-10-06
+C2219,Ananya Naidu,ananyanaidu1972@example.com,8423124572,Mumbai,Maharashtra,India,Wholesale,Active,2027-08-31
+C2220,Nikhil Kumar,nikhilkumar2117@example.com,8589362682,Ahmedabad,Gujarat,India,SMB,Active,2028-01-23
+C2221,Sneha Rao,sneharao1571@example.com,12345,Vijayawada,Andhra Pradesh,India,Wholesale,Active,2026-07-26
+C2222,Manoj Mehta,manojmehta1654@example.com,9852665365,Hyderabad,Telangana,India,SMB,Active,2026-10-17
+C2223,Nikhil Kumar,nikhilkumar1552@example.com,9065475539,Ahmedabad,Gujarat,India,SMB,Active,2026-07-07
+C2224,Kavya Naidu,,9603836525,Chennai,Tamil Nadu,India,Wholesale,Inactive,2025-05-18
+C2225,Kiran Nair,kirannair1069@example.com,7086012533,Kolkata,West Bengal,India,Retail,Active,2025-03-11
