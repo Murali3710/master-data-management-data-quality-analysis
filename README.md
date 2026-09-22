@@ -144,7 +144,7 @@ The raw data was maintained separately from the cleaned and validated data so th
 
 The complete workflow followed this process:
 
-
+``` text
 Raw Master Data
        ↓
 Data Profiling
@@ -164,7 +164,7 @@ Excel Quality Reporting
 Power BI Dashboard
        ↓
 Findings & Process Improvement 
-
+```
 # 8. Raw Data Profiling
 
 The first step was to understand the quality and structure of the raw master data before making any changes.
@@ -406,3 +406,140 @@ The Pricing Master contained:
 | Invalid Vendor IDs | 0 |
 | Currency | INR |
 | Invalid Date Ranges | 0 |
+
+## 12.3 Pricing Duplicate Analysis
+
+Duplicate `Product_ID` and `Vendor_ID` values were not automatically classified as errors.
+
+The reason is that a product can have multiple pricing records and a vendor can have multiple pricing records.
+
+For example:
+
+```text
+Product P1001
+    ↓
+Vendor V1001 → Price Record 1
+Vendor V1002 → Price Record 2
+Vendor V1003 → Price Record 3
+```
+
+Therefore:
+
+> Duplicate `Product_ID` or `Vendor_ID` in the Pricing Master does not automatically indicate duplicate records.
+
+Exact duplicate rows were treated separately.
+
+## 12.4 Pricing Data Cleaning
+
+Power Query was used to:
+
+- Remove exact duplicate rows.
+- Check null values.
+- Clean `Price_ID`, `Product_ID` and `Vendor_ID`.
+- Clean and standardize currency.
+- Standardize `Price_Status`.
+- Apply appropriate data types.
+- Maintain open-ended `Effective_To` values where applicable.
+
+---
+
+## 12.5 Pricing Validation
+
+Validation checks included:
+
+- Price ID format.
+- Product ID format.
+- Vendor ID format.
+- Unit price greater than zero.
+- Currency.
+- Price status.
+- Effective date logic.
+
+Invalid unit-price records were identified through validation.
+
+---
+
+# 13. Data Validation Framework
+
+After cleaning, validation rules were applied to check whether records followed the expected structure and business rules.
+
+The validation framework covered:
+
+### Identifier Validation
+
+Examples:
+
+```text
+Customer ID → C + 4 digits
+Product ID  → P + 4 digits
+Vendor ID   → V + 4 digits
+Price ID    → PR + 4 digits
+```
+### Contact Validation
+
+- Email format.
+- Phone number format.
+
+### Business Attribute Validation
+
+- Approved categories.
+- Approved customer/vendor types.
+- Approved status values.
+- Approved unit-of-measure values.
+- Currency.
+
+### Numeric Validation
+
+- Standard cost greater than zero.
+- Unit price greater than zero.
+
+### Date Validation
+
+- Created date should not be in the future.
+- `Effective_From` should follow the expected date logic.
+- `Effective_To` should not be earlier than `Effective_From`.
+- Open-ended `Effective_To` values were allowed.
+
+# 14. Overall Data Quality Classification
+
+Each record was classified into one of three categories:
+
+### Good
+
+The record passed the applicable validation checks and did not contain the defined quality issues.
+
+### Issues Found
+
+The record contained one or more invalid values or validation issues.
+
+### Missing Information
+
+The record contained missing information requiring follow-up.
+
+This classification was then used for the Excel reports and Power BI dashboard.
+
+---
+
+# 15. Final Data Quality Results
+
+The final results were:
+
+| Master | Good | Issues Found | Missing Information |
+|---|---:|---:|---:|
+| Customer | 599 | 597 | 29 |
+| Product | 500 | 12 | 0 |
+| Vendor | 330 | 10 | 20 |
+| Pricing | 985 | 15 | 0 |
+| **Total** | **2,414** | **634** | **49** |
+
+---
+
+# 16. Overall Data Quality
+
+The project calculated the overall proportion of records classified as Good.
+
+```text
+Good Records         = 2,414
+Total Records        = 3,097
+Overall Data Quality = 77.95%
+```
