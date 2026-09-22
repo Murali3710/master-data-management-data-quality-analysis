@@ -656,6 +656,30 @@ The database contained:
 | Pricing | Invalid Unit Price | 15 |
 
 These checks provided an independent database-level verification of selected data-quality findings.
+## 21. Power BI Data Model
+
+The prepared data was loaded into Power BI for reporting.
+
+The model contained:
+
+**Cleaned Master Tables**
+- Customer_Master_Cleaned
+- Product_Master_Cleaned
+- Vendor_Master_Cleaned
+- Pricing_Master_Cleaned
+
+**Validation Tables**
+- Customer_Data_Validation
+- Product_Data_Validation
+- Vendor_Data_Validation
+- Pricing_Data_Validation
+
+## 22. Power BI Relationships
+
+Relationships were created between related master tables and their validation tables.
+
+**Product and Pricing**
+
 ```text
 Product_Master_Cleaned
 |
@@ -743,6 +767,308 @@ DIVIDE(
 
 Result: **77.95%**
 
+
 ## 24. Power BI Dashboard
 
+An interactive Power BI dashboard was created to provide a consolidated view of master-data quality.
+
 ![Power BI Dashboard](screenshots/powerbi_dashboard.png.jpg)
+
+The dashboard contains:
+
+- 5 KPI cards
+- 4 charts
+- 2 slicers
+- Master-level quality analysis
+- Issue analysis
+- Missing-information analysis
+- Issue-type analysis
+
+### KPI Cards
+
+The five KPI cards show:
+
+1. Total Master Records
+2. Good Records
+3. Records with Issues
+4. Missing Information
+5. Overall Data Quality %
+
+### Dashboard Visualizations
+
+**Data Quality by Master**
+A 100% stacked column chart showing the quality distribution across:
+- Customer
+- Product
+- Vendor
+- Pricing
+
+**Issues Found by Master**
+A chart showing the number of records classified as *Issues Found* for each master.
+
+**Missing Information by Master**
+A chart showing records classified as *Missing Information*.
+
+**Data Quality Issue Types**
+A donut chart showing the distribution of identified issue types.
+
+### Dashboard Filters
+
+Two slicers were included:
+- Master
+- Status
+
+These allow users to filter the dashboard interactively.
+
+## 26. Key Findings
+
+The analysis identified the following major data-quality areas.
+
+### Customer Master
+
+The Customer Master had issues related to:
+
+- Missing email information
+- Missing phone information
+- Duplicate email values
+- Duplicate phone values
+- Invalid phone values
+- Name standardization
+- Future created dates
+
+The final classification was:
+| Status | Count |
+|---|---|
+| Good | 599 |
+| Issues Found | 597 |
+| Missing Information | 29 |
+
+
+### Product Master
+
+The Product Master had issues related mainly to:
+
+- Invalid standard costs
+- Product-name standardization
+- Potential duplicate product names
+
+The final classification was:
+| Status | Count |
+|---|---|
+| Good | 500 |
+| Issues Found | 12 |
+| Missing Information | 0 |
+
+
+### Vendor Master
+
+The Vendor Master had issues related to:
+
+- Missing email information
+- Duplicate emails
+- Duplicate phones
+- Invalid phone values
+- Vendor-name standardization
+
+The final classification was:
+| Status | Count |
+|---|---|
+| Good | 330 |
+| Issues Found | 10 |
+| Missing Information | 20 |
+
+
+### Pricing Master
+
+The Pricing Master mainly contained:
+
+- Invalid unit-price records
+
+Duplicate Product_ID and Vendor_ID values were not automatically treated as errors because multiple pricing records can legitimately exist for the same product or vendor.
+
+The final classification was:
+| Status | Count |
+|---|---|
+| Good | 985 |
+| Issues Found | 15 |
+| Missing Information | 0 |
+
+
+## 27. Process Improvement Recommendations
+
+Based on the data-quality findings, the following process improvements were identified.
+
+**1. Strengthen Mandatory-Field Validation**
+Important fields such as customer and vendor email information can be validated before records are accepted.
+
+**2. Strengthen Duplicate Detection**
+Duplicate contact information should be monitored using appropriate matching logic rather than relying only on exact record duplication.
+
+**3. Apply Standardized Values**
+Controlled values should be maintained for fields such as:
+- Category
+- Status
+- Customer Type
+- Vendor Type
+- Unit of Measure
+- Currency
+
+**4. Validate Identifier Formats**
+Master-data IDs should follow consistent formats before records are loaded into downstream systems.
+
+**5. Validate Cost and Price Values**
+Business rules should prevent invalid or non-positive cost and price values from entering the master data.
+
+**6. Strengthen Date Validation**
+Date fields should be checked for future dates and invalid date relationships.
+
+**7. Monitor Data Quality Periodically**
+A recurring data-quality review can help identify repeated problems and monitor improvements over time.
+
+**8. Use Data Quality Reporting**
+A dashboard can provide a consolidated view of quality issues and help users focus on areas requiring attention.
+
+## 28. Project Outcome
+
+The project produced an end-to-end framework for analyzing master-data quality across four domains.
+
+The final solution combined:
+``` text
+Excel
+↓
+Data Profiling & Reporting
+
+Power Query
+↓
+Cleaning, Standardization & Validation
+
+MySQL
+↓
+Independent Data Quality Verification
+
+Power BI
+↓
+Interactive Quality Dashboard
+
+PowerPoint
+↓
+Project Presentation & Communication
+```
+
+The analysis identified 3,097 master records, of which:
+
+- 2,414 records were classified as **Good**
+- 634 records were classified as **Issues Found**
+- 49 records were classified as **Missing Information**
+- **77.95%** of the records were classified as **Good**
+
+The project also identified specific areas where stronger validation and master-data maintenance processes could help improve data quality.
+
+## 28. Repository Structure
+
+master-data-management-data-quality-analysis/
+│
+├── data/
+│   ├── customer_master_raw.csv
+│   ├── product_master_raw.csv
+│   ├── vendor_master_raw.csv
+│   └── pricing_master_raw.csv
+│
+├── documentation/
+│   └── project documentation files
+│
+├── excel/
+│   ├── Master_Data_Management_Data_Quality.xlsx
+│   └── Master_Data_Validation.xlsx
+│
+├── powerbi/
+│   └── MDM_Data_Quality_Analysis.pbix
+│
+├── screenshots/
+│   ├── powerbi_dashboard.png
+│   ├── customer_master_sql_quality_checks.png
+│   ├── product_master_sql_quality_checks.png
+│   ├── vendor_master_sql_quality_checks.png
+│   ├── pricing_master_sql_quality_checks.png
+│   └── final_sql_data_quality_summary.png
+│
+└── sql/
+    └── data_quality_checks.sql 
+
+## 31. Skills Demonstrated
+
+This project demonstrates practical experience with:
+
+### Master Data Management
+- Customer Master
+- Product Master
+- Vendor Master
+- Pricing Master
+- Master-data structure
+- Data maintenance concepts
+- Data-quality analysis
+
+### Data Quality
+- Data profiling
+- Missing-value analysis
+- Duplicate analysis
+- Data cleaning
+- Data standardization
+- Data validation
+- Business-rule validation
+- Data accuracy checks
+
+### Microsoft Excel
+- Data analysis
+- Data-quality reporting
+- PivotTables
+- Charts
+- Conditional analysis
+- Data validation
+- Reporting
+
+### Power Query
+- Data transformation
+- Duplicate removal
+- Text cleaning
+- Standardization
+- Data-type transformation
+- Validation columns
+
+### SQL
+- MySQL
+- Database creation
+- Data-quality checks
+- Missing-value checks
+- Invalid-value checks
+- Independent verification
+
+### Power BI
+- Data modeling
+- Relationships
+- DAX measures
+- KPI reporting
+- Slicers
+- Cross-filtering
+- Data visualization
+- Dashboard development
+
+### Business Analysis
+- Issue identification
+- Data interpretation
+- Reporting
+- Process-improvement analysis
+- Documentation
+- Presentation of findings
+
+## Conclusion
+
+This project demonstrates an end-to-end approach to Master Data Management and Data Quality Analysis.
+
+Starting from raw Customer, Product, Vendor, and Pricing master data, the project followed a structured process of:
+Profiling → Cleaning → Standardization → Validation → SQL Verification → Reporting → Visualization → Process Improvement
+
+
+The final Power BI dashboard provides a consolidated view of master-data quality, while the Excel, Power Query, and SQL work provide supporting evidence for the analysis.
+
+The project demonstrates how practical data-analysis techniques can be applied to identify master-data quality problems, validate records, communicate findings, and identify opportunities for improving data-maintenance processes.
