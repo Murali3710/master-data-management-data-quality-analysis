@@ -144,7 +144,7 @@ The raw data was maintained separately from the cleaned and validated data so th
 
 The complete workflow followed this process:
 
-```text
+
 Raw Master Data
        ↓
 Data Profiling
@@ -163,7 +163,8 @@ Excel Quality Reporting
        ↓
 Power BI Dashboard
        ↓
-Findings & Process Improvement
+Findings & Process Improvement 
+
 # 8. Raw Data Profiling
 
 The first step was to understand the quality and structure of the raw master data before making any changes.
