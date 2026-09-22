@@ -280,3 +280,129 @@ The Product Master contained:
 - `Standard_Cost`
 
 **Total records: 512**
+## 10.2 Product Data Profiling
+
+| Data Quality Check | Result |
+|---|---:|
+| Total Records | 512 |
+| Missing Values | 0 |
+| Duplicate Product IDs | 0 |
+| Duplicate Product Names | 24 |
+| Invalid Standard Cost | 12 |
+| Product Name Standardization Issues | 21 |
+| Invalid Product IDs | 0 |
+
+## 10.3 Product Data Cleaning
+
+Power Query was used to:
+
+- Remove exact duplicate rows.
+- Trim and clean product names.
+- Standardize applicable categories.
+- Clean brand values.
+- Standardize units of measure.
+- Standardize status values.
+- Convert `Standard_Cost` to the correct numeric data type.
+
+## 10.4 Product Validation
+
+Validation checks included:
+
+- Product ID format.
+- Product name.
+- Approved category values.
+- Unit of measure.
+- Active/Inactive status.
+- Standard cost greater than zero.
+
+A negative or zero standard cost was treated as invalid for the project validation rule.
+
+---
+
+# 11. Vendor Master Analysis
+
+## 11.1 Vendor Master Structure
+
+The Vendor Master contained:
+
+- `Vendor_ID`
+- `Vendor_Name`
+- `Email`
+- `Phone`
+- `City`
+- `State`
+- `Country`
+- `Vendor_Type`
+- `Status`
+
+**Total records: 360**
+
+## 11.2 Vendor Data Profiling
+
+| Data Quality Check | Result |
+|---|---:|
+| Total Records | 360 |
+| Duplicate Vendor IDs | 0 |
+| Missing Email | 20 |
+| Duplicate Emails | 16 |
+| Duplicate Phones | 30 |
+| Invalid Email Format | 0 |
+| Invalid Phone | 10 |
+| Name Standardization Issues | 20 |
+| Invalid Vendor IDs | 0 |
+
+## 11.3 Vendor Data Cleaning
+
+Power Query was used to:
+
+- Remove exact duplicate rows.
+- Retain missing email information for follow-up.
+- Trim and clean text fields.
+- Standardize vendor types.
+- Standardize status values.
+- Maintain phone values as text.
+- Apply appropriate data types.
+
+## 11.4 Vendor Validation
+
+Validation checks included:
+
+- Vendor ID format.
+- Email format.
+- Phone number format.
+- Vendor type.
+- Active/Inactive status.
+- Vendor name.
+
+---
+
+# 12. Pricing Master Analysis
+
+## 12.1 Pricing Master Structure
+
+The Pricing Master contained:
+
+- `Price_ID`
+- `Product_ID`
+- `Vendor_ID`
+- `Currency`
+- `Unit_Price`
+- `Effective_From`
+- `Effective_To`
+- `Price_Status`
+
+**Total records: 1,000**
+
+## 12.2 Pricing Data Profiling
+
+| Data Quality Check | Result |
+|---|---:|
+| Total Records | 1,000 |
+| Duplicate Price IDs | 0 |
+| Duplicate Product IDs | 857 |
+| Duplicate Vendor IDs | 943 |
+| Invalid Unit Price | 15 |
+| Invalid Product IDs | 0 |
+| Invalid Vendor IDs | 0 |
+| Currency | INR |
+| Invalid Date Ranges | 0 |
