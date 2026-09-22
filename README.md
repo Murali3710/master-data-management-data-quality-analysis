@@ -164,3 +164,118 @@ Excel Quality Reporting
 Power BI Dashboard
        ↓
 Findings & Process Improvement
+# 8. Raw Data Profiling
+
+The first step was to understand the quality and structure of the raw master data before making any changes.
+
+The profiling process looked for:
+
+- Missing values
+- Duplicate records
+- Duplicate contact information
+- Invalid values
+- Invalid identifiers
+- Standardization issues
+- Invalid costs and prices
+- Inconsistent categories
+- Inconsistent statuses
+- Date-related issues
+
+The purpose of profiling was to understand **what was wrong with the data before cleaning it**.
+
+This distinction was important because the raw data was retained as the reference point for the analysis.
+
+---
+
+# 9. Customer Master Analysis
+
+## 9.1 Customer Master Structure
+
+The Customer Master contained:
+
+- `Customer_ID`
+- `Customer_Name`
+- `Email`
+- `Phone`
+- `City`
+- `State`
+- `Country`
+- `Customer_Type`
+- `Status`
+- `Created_Date`
+
+**Total records: 1,225**
+
+---
+
+## 9.2 Customer Data Profiling
+
+The following issues were identified during profiling:
+
+| Data Quality Check | Result |
+|---|---:|
+| Total Records | 1,225 |
+| Missing Email | 32 |
+| Missing Phone | 26 |
+| Duplicate Emails | 46 |
+| Duplicate Phones | 59 |
+| Invalid Phone | 13 |
+| Name Standardization Issues | 36 |
+| Duplicate Customer IDs | 0 |
+| Future Created Dates | 590 |
+
+---
+
+## 9.3 Customer Data Cleaning
+
+Power Query was used to:
+
+- Remove exact duplicate rows.
+- Trim unnecessary spaces.
+- Clean text values.
+- Standardize applicable customer-type values.
+- Standardize status values.
+- Convert fields to appropriate data types.
+- Convert `Created_Date` into a proper date field.
+- Retain missing information where business follow-up was required.
+
+Missing values were not filled with invented information.
+
+---
+
+## 9.4 Customer Validation
+
+Validation checks included:
+
+- Customer ID format
+- Email format
+- Phone number format
+- Customer name
+- Customer type
+- Status
+- Created date
+- Future-date validation
+
+The validation process classified records into:
+
+- **Good**
+- **Issues Found**
+- **Missing Information**
+
+---
+
+# 10. Product Master Analysis
+
+## 10.1 Product Master Structure
+
+The Product Master contained:
+
+- `Product_ID`
+- `Product_Name`
+- `Category`
+- `Brand`
+- `Unit_of_Measure`
+- `Status`
+- `Standard_Cost`
+
+**Total records: 512**
