@@ -543,3 +543,49 @@ Good Records         = 2,414
 Total Records        = 3,097
 Overall Data Quality = 77.95%
 ```
+Therefore:
+
+**Overall Data Quality = 77.95%**
+
+The remaining records were classified as either:
+
+- Issues Found
+- Missing Information
+
+### Important Note
+
+Individual issue-type counts can overlap across the same record.
+
+Therefore, issue-type counts should **not** be added together to calculate the total number of affected records.
+## 17. Excel Data Quality Reporting
+
+Excel was used as one of the primary analysis and reporting tools.
+
+The Excel workflow included:
+
+- Data profiling
+- Data cleaning
+- Data standardization
+- Validation
+- Quality classification
+- Quality summaries
+- Domain-level reporting
+
+The workbook maintained separate raw and cleaned master-data sheets so that the transformation process could be reviewed.
+
+### Excel Reporting Output
+
+The final quality reports provided a consolidated view of:
+
+- Total records
+- Good records
+- Records with issues
+- Missing information
+- Master-level quality results
+- Key issue categories
+
+## 18. Power Query Transformation
+
+Power Query was used as the main transformation layer.
+
+The general Power Query process was:
