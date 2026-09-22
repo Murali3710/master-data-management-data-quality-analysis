@@ -589,3 +589,70 @@ The final quality reports provided a consolidated view of:
 Power Query was used as the main transformation layer.
 
 The general Power Query process was:
+```text
+Raw Data
+   ↓
+Load Data
+   ↓
+Profile Columns
+   ↓
+Remove Exact Duplicates
+   ↓
+Clean Text
+   ↓
+Standardize Values
+   ↓
+Set Data Types
+   ↓
+Create Validation Columns
+   ↓
+Create Overall Status
+   ↓
+Load Prepared Data
+```
+
+Power Query was especially useful because the cleaning and validation steps could be repeated consistently instead of manually changing individual cells.
+
+## 19. SQL Data Quality Verification
+
+MySQL was used as an independent verification layer.
+
+The purpose of SQL was not to replace the Excel/Power Query workflow.
+
+Instead, SQL was used to independently check selected quality conditions directly against the raw database tables.
+
+The database contained:
+
+- Customer_Master
+- Product_Master
+- Vendor_Master
+- Pricing_Master
+
+### SQL Checks Performed
+
+**Customer Master**
+- Missing Email
+- Missing Phone
+
+**Product Master**
+- Invalid Standard Cost
+
+**Vendor Master**
+- Missing Email
+- Missing Phone
+
+**Pricing Master**
+- Invalid Unit Price
+
+### SQL Verification Results
+
+| Master | Check | Result |
+|---|---|---|
+| Customer | Missing Email | 32 |
+| Customer | Missing Phone | 26 |
+| Product | Invalid Standard Cost | 12 |
+| Vendor | Missing Email | 20 |
+| Vendor | Missing Phone | 0 |
+| Pricing | Invalid Unit Price | 15 |
+
+These checks provided an independent database-level verification of selected data-quality findings.
