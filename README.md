@@ -744,3 +744,5 @@ DIVIDE(
 Result: **77.95%**
 
 ## 24. Power BI Dashboard
+
+![Power BI Dashboard](screenshots/powerbi_dashboard.png.jpg)
