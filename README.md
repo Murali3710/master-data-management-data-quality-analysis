@@ -965,7 +965,7 @@ The analysis identified 3,097 master records, of which:
 The project also identified specific areas where stronger validation and master-data maintenance processes could help improve data quality.
 
 ## 28. Repository Structure
-
+```text
 master-data-management-data-quality-analysis/
 │
 ├── data/
@@ -994,6 +994,7 @@ master-data-management-data-quality-analysis/
 │
 └── sql/
     └── data_quality_checks.sql 
+```
 
 ## 31. Skills Demonstrated
 
