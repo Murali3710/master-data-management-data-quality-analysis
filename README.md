@@ -656,3 +656,91 @@ The database contained:
 | Pricing | Invalid Unit Price | 15 |
 
 These checks provided an independent database-level verification of selected data-quality findings.
+```text
+Product_Master_Cleaned
+|
+| Product_ID
+↓
+Pricing_Master_Cleaned
+```
+
+Relationship: `1 : *`
+
+**Vendor and Pricing**
+```text
+Vendor_Master_Cleaned
+|
+| Vendor_ID
+↓
+Pricing_Master_Cleaned
+```
+
+Relationship: `1 : *`
+
+Since a product or vendor can have multiple pricing records, one-to-many relationships were used.
+
+The cleaned master tables were also connected to their corresponding validation tables using the appropriate master-data keys.
+
+## 23. Power BI DAX Measures
+
+The dashboard used DAX measures for the main quality KPIs.
+
+**Total Master Records**
+
+```dax
+Total Master Records =
+COUNTROWS(Master_Quality_Summary)
+```
+
+Result: **3,097**
+
+**Good Records**
+
+```dax
+Good Records =
+CALCULATE(
+    COUNTROWS(Master_Quality_Summary),
+    Master_Quality_Summary[Status] = "Good"
+)
+```
+
+Result: **2,414**
+
+**Records with Issues**
+
+```dax
+Records with Issues =
+CALCULATE(
+    COUNTROWS(Master_Quality_Summary),
+    Master_Quality_Summary[Status] = "Issues Found"
+)
+```
+
+Result: **634**
+
+**Missing Information**
+
+```dax
+Missing Information =
+CALCULATE(
+    COUNTROWS(Master_Quality_Summary),
+    Master_Quality_Summary[Status] = "Missing Information"
+)
+```
+
+Result: **49**
+
+**Overall Data Quality %**
+
+```dax
+Overall Data Quality % =
+DIVIDE(
+    [Good Records],
+    [Total Master Records],
+    0
+)
+```
+
+Result: **77.95%**
+
+## 24. Power BI Dashboard
